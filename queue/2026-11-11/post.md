@@ -3,7 +3,7 @@
 Pillar: Saudi results · Card: bars · Mode: review (Buffer draft) · Buffer post id: 6af2ee60eea2cc573bb58249
 Image: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/main/cards/2026-11-11-saudi-banks-provisions.png
 
-## Caption (humanized 10 Nov)
+## Caption (official Humanizer v3.1.0, full process, 10 Nov)
 
 Six Saudi banks earned SAR 19.83B in Q3, up 5.3%.
 
@@ -15,9 +15,9 @@ Alinma: credit costs up 56% year on year
 
 Two things I'd take from it:
 
-1. Credit quality still looks strong. Al Rajhi reports NPLs of 76 bps with 152% coverage. SNB's cost of risk was 17 bps in the quarter, against 13 bps a year ago.
+1. Credit quality still looks strong. Al Rajhi reports NPLs of 76 bps with 152% coverage, and SNB's cost of risk was 17 bps in the quarter, against 13 bps a year ago.
 
-2. The direction has changed. After years of very low credit costs, the line is moving back up. Profit is holding because income is still growing, but if provisions keep rising at this pace, that cushion gets thinner.
+2. After years of very low credit costs, the line is moving back up. Profit is holding because income is still growing. If provisions keep rising at this pace, that cushion gets thinner.
 
 For the next few quarters I'll read cost of risk next to loan growth before I look at headline profit.
 
