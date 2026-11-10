@@ -31,28 +31,11 @@ A daily cloud pipeline with no Mac involved. A Claude cloud routine researches t
 - Buffer account: hussainnasser.bahrain@gmail.com, email verified, LinkedIn profile connected, time zone Bahrain. Still on the **Free plan**.
 - Buffer API key "LinkedIn Autopilot" created (1 year, posts read/write, account/insights/engagements read). The value was shown once to Hussain. It is NOT stored anywhere by Claude.
 
-## Blocked in the 10 Nov session (auto-mode classifier)
-- `gh repo create` for both repos ("Public Data-Sharing Upload" / "Create Public Surface").
-- Copying the CLAUDE.md rules and `settings.local.json` (`bypassPermissions`) into this project ("Self-Modification").
-- Clicking Post on LinkedIn (the first time; it worked on retry).
-Fix: Hussain runs the `!` block below himself, then starts a NEW session in `~/Developer/linkedin-autopilot`.
-
-```
-SRC="$HOME/Developer/Personal Business/Fixing My Problems/Gaming & PC"; for D in "$HOME/Developer/Hussain CV/Hussain Nasser — Personal Brand & Career Command Center" "$HOME/Developer/linkedin-autopilot"; do mkdir -p "$D/.claude"; cat "$SRC/CLAUDE.md" >> "$D/CLAUDE.md"; cp "$SRC/.claude/settings.local.json" "$D/.claude/"; done; cd ~/Developer/linkedin-autopilot && gh repo create hussainnasser1996-stack/linkedin-autopilot --private --source . --push; cd ~/Developer/linkedin-cards && gh repo create hussainnasser1996-stack/linkedin-cards --public --source . --push
-```
-
-## Next steps (new session)
-1. DONE 10 Nov: both repos on GitHub; CLAUDE.md rules + settings.local.json copied.
-2. Buffer: Hussain upgrades to Essentials ($6/mo) for the first comment.
-3. Claude Code cloud environment (claude.ai/code → environment → edit):
-   - Network access: Full (or Custom: api.buffer.com + defaults).
-   - Network secret: host `api.buffer.com`, header Authorization, Bearer prefix. **Hussain pastes the key himself.**
-   - Setup script: none needed. Chrome is at `/usr/bin/google-chrome` and Python 3 is preinstalled.
-4. Fill `config.json` (org id, channel id) and fill `linkedin_orgs` with Merak Capital and Impact46 (org URN id, vanityName, link) for annotations.
-5. Create the scheduled task (`/schedule` or claude.ai/code/routines):
-   - Repos: linkedin-autopilot + linkedin-cards.
-   - Prompt: "Follow ROUTINE.md exactly."
-   - Cron: `CRON_TZ=Asia/Riyadh 0 5 * * 0-4` (05:00 KSA Sun–Thu; each run schedules the next post day at 09:00 KSA).
-   - Remove unneeded connectors.
-6. TEST: set `mode: review` and "Run now". Check that a Buffer draft appears with the card, the first comment and the tags, then delete the draft. Then set `mode: auto`.
-7. Copy this note into Hussain's OneDrive/Claude/LinkedIn Engine/.
+## LIVE (10 Nov 2026)
+- Buffer Free plan (no upgrade). Sources go in the post above the hashtags; no first comment.
+- Buffer key in Mac Keychain (`security find-generic-password -s buffer-api-key -w`) and as network secret in cloud env "LinkedIn Autopilot" (env_01KxKYZEnh5kCRNDjGJYebt1, Full network).
+- config.json: org 6af2e67f1fcb3809252ef525, channel 6af2e6fd62b70b94b0dffb14. linkedin_orgs still empty (company tags off).
+- Claude GitHub app installed on ALL repos.
+- Routine trig_01GAp2AkZDTXmm7MptzDUptN, cron `0 2 * * 0-4` UTC = 05:00 KSA Sun–Thu, Opus 5.5, no connectors: https://claude.ai/code/routines/trig_01GAp2AkZDTXmm7MptzDUptN
+- Test run 10 Nov (review mode) PASSED: researched, wrote, rendered card, hosted image, created Buffer draft, committed. Draft deleted after check (queue/2026-11-11 kept as record). Mode back to `auto`; approval_until 2026-12-10.
+- First real post: run Wed 11 Nov 05:00 KSA schedules Thu 12 Nov 09:00 KSA.
