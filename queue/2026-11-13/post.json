@@ -2,5 +2,16 @@
   "channel_id": "6af2e6fd62b70b94b0dffb14",
   "text": "For every $100 of revenue in its latest quarter, Nvidia kept $66 as operating profit. Equinix kept $23. CoreWeave lost $2.\n\nSo who keeps the margin in AI data centres: the chipmaker, the GPU cloud, or the landlord? I went through the latest filings. Three things stood out:\n\n1. The chip layer keeps most of it. Nvidia's quarter to July: revenue $96.2B, data centre $89.0B, gross margin 75.0%. It guides 74% for the quarter to October.\n\n2. The landlord earns a steady margin. Equinix's Q3 revenue was $2.57B, up 11%, with a 51% adjusted EBITDA margin. Bookings hit a record $533M, up 35%.\n\n3. The GPU cloud in the middle gets squeezed. CoreWeave's Q2 adjusted EBITDA margin was 59%, close to Equinix. After depreciation it posted a 2% operating loss, and net interest of $640M was about a quarter of its $2.58B revenue. It has a backlog of about $104B, so what it's short of is cheap capital.\n\nFor the Gulf, HUMAIN is building in the two thinner layers, the buildings and the GPU cloud. Its first 14 MW of Blackwell systems deploy from Q4 2026, and 70 MW of Vera Rubin is planned from mid-2027, 50 MW of it for a US client.\n\nWhat it can work on are the two lines that hurt CoreWeave, power and capital. Saudi cloud operators pay 18 halalas per kWh (about $0.048), a tariff approved in 2021. HUMAIN's funding this year includes SAR 9.9B ($2.6B) in cash from Aramco and up to SAR 2.5B ($667M) of Infra facilities signed this week.\n\nNone of that lowers what the chips cost. It could decide whether the middle layer makes money here.\n\nWhat I'll watch next: Nvidia's results on 17 November, especially gross margin against the 74% guide, and whether CoreWeave's operating margin turns positive.\n\nIf you're building or financing compute in the region, which line decides it for you: power, chips, or the cost of capital?\n\nSources: Nvidia, Equinix and CoreWeave results; Aramco; Asharq Al-Awsat; The National; Arab News\n#AI #DataCenters #VentureCapital #GCC #SaudiArabia #Vision2030",
   "image_url": "https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/main/cards/2026-11-13-ai-datacentre-margins.png",
-  "due_at": "2026-11-13T06:00:00.000Z"
+  "due_at": "2026-11-13T06:00:00.000Z",
+  "annotations": [
+    {
+      "id": "107047695",
+      "entity": "urn:li:organization:107047695",
+      "link": "https://www.linkedin.com/company/humainai",
+      "localizedName": "HUMAIN",
+      "vanityName": "humainai",
+      "start": 907,
+      "length": 6
+    }
+  ]
 }
