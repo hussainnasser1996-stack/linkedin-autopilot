@@ -18,6 +18,20 @@
       "link": "https://www.linkedin.com/company/impact-46",
       "localizedName": "Impact46",
       "vanityName": "impact-46"
+    },
+    "HUMAIN": {
+      "id": "107047695",
+      "entity": "urn:li:organization:107047695",
+      "link": "https://www.linkedin.com/company/humainai",
+      "localizedName": "HUMAIN",
+      "vanityName": "humainai"
+    },
+    "Savvy Games Group": {
+      "id": "77753502",
+      "entity": "urn:li:organization:77753502",
+      "link": "https://www.linkedin.com/company/savvy-games-group",
+      "localizedName": "Savvy Games Group",
+      "vanityName": "savvy-games-group"
     }
   },
   "ntfy_topic": "hn-autopilot-ad181bce3712d192"
