@@ -52,6 +52,13 @@ Work in this repo. Never print or log any API key.
 - Commit everything to `main` of this repo with message `autopilot: <date> <slug>` and push to `main`
   (not a claude/ branch).
 
+## 7. Notify his phone
+Send one push with curl to `https://ntfy.sh/<config.json ntfy_topic>` (header `Title:`, plain-text body).
+- Success: Title `LinkedIn post scheduled <date> 09:00 KSA` (or `LinkedIn DRAFT ready <date>` in review mode).
+  Body: the first line of the caption, then `Pillar: <pillar> · Card: <type> · Buffer id: <id>`.
+- Nothing to do (paused / 2 posts already queued): Title `LinkedIn autopilot: no post today`, body = the reason.
+
 ## If anything fails
-Leave a file `log/ERROR-<today>.md` with what failed and why, commit and push to main, and stop.
+Leave a file `log/ERROR-<today>.md` with what failed and why, commit and push to main. Then send a push to the
+ntfy topic with header `Priority: high`, Title `LinkedIn autopilot FAILED <today>`, body = one line on what failed. Then stop.
 Never publish something that broke a Hard rule or has an unverified figure: skip the day instead.
