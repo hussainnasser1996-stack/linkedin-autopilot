@@ -17,18 +17,19 @@ story to a Saudi/GCC angle where an honest one exists.
 
 | # | Pillar | What it covers | Saudi/GCC angle | Posts / month |
 |---|---|---|---|---|
-| 1 | **AI compute & chips** | AI chips and accelerators, inference vs training economics, photonics, edge AI, GPU supply | HUMAIN chip deals, sovereign compute, import of compute | 4 |
+| 1 | **AI compute & chips** | AI chips and accelerators, inference vs training economics, photonics, edge AI, GPU supply | HUMAIN chip deals, sovereign compute, import of compute | 3 |
 | 2 | **Data centres & power for AI** | Data-centre build-outs, neoclouds, hyperscaler capex, grid, cooling, power (gas, solar, nuclear, fusion) | KSA/UAE data-centre campuses, HUMAIN, DataVolt, ACWA/SEC power, Microsoft/Google/AWS Saudi regions | 4 |
 | 3 | **Foundation models & sovereign AI** | Frontier and open models, multimodal, enterprise and on-prem deployment, data sovereignty, AI policy | ALLaM and Arabic LLMs, HUMAIN models, SDAIA, data-residency rules | 3 |
 | 4 | **Applied AI: health & life sciences** | AI in drug development, clinical trials, diagnostics, hospital operations | Saudi Health Holding, genome programme, health clusters, pharma localization | 3 |
-| 5 | **Applied AI: finance & capital markets** | AI research tools for banks and asset managers, quant, fintech, plus **Saudi/GCC listed results read like an investor** (banks, Aramco, stc, Ma'aden, ACWA…) | Tadawul, SAMA, Saudi banks and fintech licences | 5 |
+| 5 | **Applied AI: finance & capital markets** | AI research tools for banks and asset managers, quant, fintech, plus **Saudi/GCC listed results read like an investor** (banks, Aramco, stc, Ma'aden, ACWA…) | Tadawul, SAMA, Saudi banks and fintech licences | 4 |
 | 6 | **Robotics, autonomy & mobility** | Humanoid and warehouse robots, autonomous vehicles and fleets, AI-driven manufacturing | NEOM/ports/logistics automation, EV and AV pilots, industrial localization (NIDLP) | 3 |
-| 7 | **Games & interactive** | Game studio funding, publishers, esports economics, the after-seed gap | Savvy/Scopely/ESL FACEIT, PIF, Qiddiya, Merak, Impact46, Esports World Cup | 4 |
-| 8 | **Gulf capital & venture building** | Cross-border capital (global AI ↔ GCC money), VC data, fund launches, LP behaviour, venture-studio model, localization of global tech | MAGNiTT/Wamda data, SVC, Jada, Sanabil, PIF programmes | 3 |
+| 7 | **Games & interactive** | Game studio funding, publishers, esports economics, the after-seed gap | Savvy/Scopely/ESL FACEIT, PIF, Qiddiya, Merak, Impact46, Esports World Cup | 3 |
+| 8 | **Gulf capital & venture building** | Cross-border capital (global AI ↔ GCC money), VC data, fund launches, LP behaviour, venture-studio model, localization of global tech | MAGNiTT/Wamda data, SVC, Jada, Sanabil, PIF programmes | 2 |
 | 9 | **Builder's notes** | Short, opinionated lessons from operating and investing (no confidential details) | — | 1–2 |
+| 10 | **PE, buyouts & M&A** | Take-privates, LBOs, mid-market buyouts, M&A deal terms read like a deal modeller: entry multiple, leverage, what the sponsor must believe to make its return. Valuation method explained in plain words (DCF vs comps, why multiples moved) | Saudi/GCC buyouts and take-privates, PIF/Silver Lake-style deals, family-group carve-outs, CMA-approved M&A, Tadawul tender offers | 4 |
 
 Rules for the mix:
-- About 30 posts a month; follow the table within ±1. At least 4 posts a month must be AI layers 1–3.
+- About 30 posts a month; follow the table within ±1. Pillar 10 posts show deal-modelling skill ("what the buyer has to believe") without ever offering services in the post or naming clients. At least 4 posts a month must be AI layers 1–3.
 - "Saudi results" is a format inside pillar 5, and can also be used in pillar 2 (ACWA, SEC) or 7 (listed game firms).
 - Global stories are welcome only with a "so what" for GCC readers (capital, localization, demand, policy).
 - Never present a company as something he or his funds own, back or track (see Hard rules).
