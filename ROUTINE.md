@@ -25,6 +25,9 @@ Work in this repo. Never print or log any API key.
   The writing sample is `guidance/voice-examples.md` (it overrides the patterns, e.g. keep his "Two things: 1… 2…"
   and line-break rhythm). Do not add or drop any fact, number, name or source. Then re-check every number
   against the sources and every Hard rule again.
+  Make the pass visible: save the pre-Humanizer caption as `queue/<date>/caption-draft.txt`, and in `post.md`
+  add a `## Humanizer` section listing each tell marked (§ number + phrase) and what changed, then the
+  second-scan result for §1, §2, §6, §8, §19.
 
 ## 3. Card
 - Write `queue/<YYYY-MM-DD>/card.json` (type bars | statement | compare — schema in examples/).
