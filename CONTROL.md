@@ -5,7 +5,7 @@ mode: auto
 # review = posts are created in Buffer as DRAFTS; nothing publishes until you approve in the Buffer app
 # paused = the routine does nothing
 
-approval_until: 2026-12-10
+approval_until: 2026-12-31
 # In auto mode, standing approval ends on this date; after it the routine switches itself to review.
 
 focus_this_week:

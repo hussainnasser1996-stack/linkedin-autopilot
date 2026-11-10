@@ -14,7 +14,7 @@ Copied from `~/Developer/Personal Business/Fixing My Problems/Gaming & PC/CLAUDE
 10. Read every script, command and file in full before executing it.
 
 ## Goal
-A daily cloud pipeline with no Mac involved. A Claude cloud routine researches the news, writes the post in his voice, renders the card in his house style and schedules it in Buffer. Buffer publishes on LinkedIn at 09:00 KSA, with the first comment and company tags. He steers it from his phone (Buffer app + CONTROL.md). There is a 30-day standing approval (`CONTROL.md` → `approval_until: 2026-12-10`).
+A daily cloud pipeline with no Mac involved. A Claude cloud routine researches the news, writes the post in his voice, renders the card in his house style and schedules it in Buffer. Buffer publishes on LinkedIn at 09:00 KSA, with the first comment and company tags. He steers it from his phone (Buffer app + CONTROL.md). There is a 30-day standing approval (`CONTROL.md` → `approval_until: 2026-12-31`).
 
 ## Done
 - Research finished. Chosen design: Claude cloud scheduled task + Buffer API. The LinkedIn API was rejected because its self-serve access can't post comments and makes you log in again every 60 days.
