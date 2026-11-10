@@ -110,3 +110,29 @@
   - None needed (reflection). No company figures.
 - Card: statement — "Price, volume, or one-off? Know which before you clap."
 - Status: open
+
+### 11. Nvidia Q3 FY27: did the 74% gross margin hold? · Pillar 1 · Score 20/25 · Use: from 2026-11-18 (results 17 Nov)
+- Angle: Follow-up to the 13 Nov deep dive. The chip layer keeps most of the AI data-centre margin; check whether that held in the quarter to October and what it means for GCC buyers of compute.
+- Facts:
+  - Q3 FY27 guide: revenue $108.0bn ±2%, gross margin 74.0% ±50bp — Nvidia 8-K https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000073/q2fy27pr.htm
+  - Results and call 17 Nov 2026 — https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873
+  - Pull actuals from the release before writing. Source note: research/deep-dives/2026-11-ai-datacentre-margins.md
+- Card: bars — gross margin: guide 74.0% vs actual
+- Status: open
+
+### 12. CoreWeave Q3: is the GPU cloud's operating margin turning positive? · Pillar 2 · Score 19/25 · Use: from 2026-11-15 (not next to the 13 Nov deep dive)
+- Angle: The middle layer has 59% EBITDA but a -2% operating margin and interest of about a quarter of revenue (Q2). Q3 (reported 10 Nov) shows whether scale fixes that; the GCC lesson is cost of capital.
+- Facts:
+  - Q2 2026: revenue $2,575m, operating margin (2)%, adj. EBITDA 59%, net interest $(640)m, backlog ~$104bn — https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx
+  - Q3 2026 results 10 Nov 2026 after US close — https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx (open the Q3 release and take Q3 figures from it)
+- Card: bars — operating margin Q2 vs Q3; interest as % of revenue
+- Status: open
+
+### 13. Saudi power as an AI data-centre edge: the 18-halala tariff · Pillar 2 · Score 18/25 · Use: from 2026-11-20
+- Angle: Power is one of the two lines that decide whether the landlord and GPU-cloud layers make money. What the cloud tariff and the big campuses (Oxagon) mean for builders; utilisation matters as much as price.
+- Facts:
+  - Saudi public-cloud operators (CITC/CST licensed) pay 18 halalas/kWh (~$0.048), approved March 2021 — Arab News https://www.arabnews.com/saudi-arabia/saudi-arabia-reduces-power-tariff-to-boost-cloud-computing-1825521 (re-check SEC tariff page https://www.se.com.sa/en/Ourservices/ColumnC/Bills-and-Consumption/ConsumptionTariffs for a second source)
+  - DataVolt Oxagon campus: 1.5 GW total, 360 MW first phase, HUMAIN 100 MW expected 2028 — w.media https://w.media/datavolt-and-humain-break-ground-on-first-ai-data-center-in-neom/ (confirm with MEED https://www.meed.com/humain-and-datavolt-start-oxagon-data-centre-work)
+  - Infra power facility for HUMAIN up to SAR 1.4bn ($373.3m), sized for up to 1 GW of IT capacity — Asharq Al-Awsat (candidate 1)
+- Card: compare — "Power price" vs "Utilisation"
+- Status: open

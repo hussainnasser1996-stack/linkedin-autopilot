@@ -25,3 +25,4 @@
 - Post-23: Saudi game studios: the after-seed gap (Gulf capital × games, monthly #1) — PUBLISHED 10 Nov (manual, before autopilot)
 - 2026-11-11: Saudi results: six Saudi banks' Q3 profit +5.3% while provisions rose 40–56% (autopilot, review)
 - 2026-11-12: Gulf VC & venture building: Saudi VC $1B in 9M 2026, two mega deals = 56%, non-mega -50%, intl investors -51% (autopilot, auto)
+- 2026-11-13: Data centres & power for AI: who keeps the margin, Nvidia $66 vs Equinix $23 vs CoreWeave -$2 operating profit per $100; HUMAIN builds the thin layers, levers are power and capital (deep dive, auto)
