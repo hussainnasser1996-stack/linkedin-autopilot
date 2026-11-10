@@ -5,7 +5,7 @@ Work in this repo. Never print or log any API key.
 
 ## 0. Read state
 1. Read `CONTROL.md`, `guidance/GUIDANCE.md`, `guidance/voice-examples.md`, `log/history.md`, `config.json`.
-2. Target date = the next Sun–Thu day after today (Asia/Riyadh) that has no post already in `queue/`
+2. Target date = the next day after today (Asia/Riyadh, any day of the week) that has no post already in `queue/`
    and is not in `skip_dates`. Publish time 09:00 Asia/Riyadh = 06:00 UTC.
    If 2 future posts are already queued, stop (nothing to do).
 3. If `mode: paused` → stop. If `mode: auto` and today is after `approval_until` → set `mode: review`

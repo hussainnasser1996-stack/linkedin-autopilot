@@ -36,7 +36,7 @@ A daily cloud pipeline with no Mac involved. A Claude cloud routine researches t
 - Buffer key in Mac Keychain (`security find-generic-password -s buffer-api-key -w`) and as network secret in cloud env "LinkedIn Autopilot" (env_01KxKYZEnh5kCRNDjGJYebt1, Full network).
 - config.json: org 6af2e67f1fcb3809252ef525, channel 6af2e6fd62b70b94b0dffb14. linkedin_orgs still empty (company tags off).
 - Claude GitHub app installed on ALL repos.
-- Routine trig_01GAp2AkZDTXmm7MptzDUptN, cron `0 2 * * 0-4` UTC = 05:00 KSA Sun–Thu, Opus 5.5, no connectors: https://claude.ai/code/routines/trig_01GAp2AkZDTXmm7MptzDUptN
+- Routine trig_01GAp2AkZDTXmm7MptzDUptN, cron `0 2 * * *` UTC = 05:00 KSA daily (switched 10 Nov), Opus 5.5, no connectors: https://claude.ai/code/routines/trig_01GAp2AkZDTXmm7MptzDUptN
 - Test run 10 Nov (review mode) PASSED: researched, wrote, rendered card, hosted image, created Buffer draft, committed. Draft deleted after check (queue/2026-11-11 kept as record). Mode back to `auto`; approval_until 2026-12-10.
 - First real post: run Wed 11 Nov 05:00 KSA schedules Thu 12 Nov 09:00 KSA.
 

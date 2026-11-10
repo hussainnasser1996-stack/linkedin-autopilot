@@ -18,7 +18,7 @@ Not lead-gen. Never sound like he is job-hunting.
 5. **Builder's notes / reflections** — short, opinionated lessons from operating and investing (no confidential details).
 
 ## Weekly rhythm (KSA time; posts publish 09:00 Asia/Riyadh)
-- Sun–Thu: one post per day. Fri–Sat: no post.
+- One post every day, 7 days a week (about 30 a month).
 - Each week: at least one bars/data card, at most two reflections.
 
 ## Research rules
