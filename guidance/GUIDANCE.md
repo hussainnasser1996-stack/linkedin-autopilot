@@ -43,8 +43,8 @@ Not lead-gen. Never sound like he is job-hunting.
 - 120–220 words. Hook in line 1 (a number or a sharp claim). Short paragraphs, many line breaks.
 - Numbered points when listing ("Two things: 1… 2…").
 - End with one honest question to the reader.
+- Sources line just above the hashtags: "Sources: …" (names, not URLs unless short). No first comment (Buffer Free plan).
 - Hashtags: 5–6 on the last line. Core: #VentureCapital #GCC #SaudiArabia; add 2–3 topic tags (#Gaming #GameDev #AI #Vision2030 #VentureBuilding …).
-- First comment: "Sources: …" (names, not URLs unless short) + optionally one line inviting the relevant company pages.
 - Tag at most 2 company pages, only ones named in the post, and only positive/neutral mentions.
 
 ## Card

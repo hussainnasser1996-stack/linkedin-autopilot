@@ -19,7 +19,7 @@ Work in this repo. Never print or log any API key.
 
 ## 2. Write
 - Caption per GUIDANCE "Post format", in Hussain's voice (voice-examples.md rhythm).
-- First comment with sources.
+- Sources line inside the caption, just above the hashtags (no first comment: Buffer Free plan).
 - Self-check against every Hard rule; rewrite if any fails. Check every number in caption against sources.
 
 ## 3. Card
@@ -35,14 +35,14 @@ Work in this repo. Never print or log any API key.
   Verify it returns HTTP 200 with `curl -sI` before continuing.
 
 ## 5. Schedule in Buffer
-- Write `queue/<date>/post.json` with `channel_id` from config.json, `text`, `image_url`, `first_comment`,
+- Write `queue/<date>/post.json` with `channel_id` from config.json, `text`, `image_url`,
   `due_at` (`<date>T06:00:00.000Z`), and `"draft": true` if mode is review.
 - Optional company tags: only for companies listed in `config.json` → `linkedin_orgs`, using Buffer's
   annotation format (start/length = exact position of the company name in `text`, UTF-16).
 - Run `python3 scripts/buffer.py schedule queue/<date>/post.json`. If it fails, fix the cause and retry once.
 
 ## 6. Record
-- Write `queue/<date>/post.md` (caption, first comment, sources with URLs, card type, Buffer post id).
+- Write `queue/<date>/post.md` (caption, sources with URLs, card type, Buffer post id).
 - Append to `log/history.md`: `- <date>: <pillar>: <one-line angle> (autopilot, <mode>)`.
 - Commit everything to `main` of this repo with message `autopilot: <date> <slug>` and push to `main`
   (not a claude/ branch).
