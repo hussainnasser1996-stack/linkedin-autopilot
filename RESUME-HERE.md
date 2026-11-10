@@ -42,7 +42,7 @@ SRC="$HOME/Developer/Personal Business/Fixing My Problems/Gaming & PC"; for D in
 ```
 
 ## Next steps (new session)
-1. Check that both repos exist on GitHub. Commit and push the CLAUDE.md change.
+1. DONE 10 Nov: both repos on GitHub; CLAUDE.md rules + settings.local.json copied.
 2. Buffer: Hussain upgrades to Essentials ($6/mo) for the first comment.
 3. Claude Code cloud environment (claude.ai/code → environment → edit):
    - Network access: Full (or Custom: api.buffer.com + defaults).
