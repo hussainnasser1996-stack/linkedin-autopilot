@@ -39,3 +39,9 @@ A daily cloud pipeline with no Mac involved. A Claude cloud routine researches t
 - Routine trig_01GAp2AkZDTXmm7MptzDUptN, cron `0 2 * * 0-4` UTC = 05:00 KSA Sun–Thu, Opus 5.5, no connectors: https://claude.ai/code/routines/trig_01GAp2AkZDTXmm7MptzDUptN
 - Test run 10 Nov (review mode) PASSED: researched, wrote, rendered card, hosted image, created Buffer draft, committed. Draft deleted after check (queue/2026-11-11 kept as record). Mode back to `auto`; approval_until 2026-12-10.
 - First real post: run Wed 11 Nov 05:00 KSA schedules Thu 12 Nov 09:00 KSA.
+
+## Added 10 Nov (later)
+- Company tags: Merak Capital (18948009, merakcapital) and Impact46 (13045287, impact-46), verified Riyadh pages; in config.json.
+- Humanizer (official blader v3.1.0) in guidance/humanizer.md; routine runs it and must log draft + tells in post.md.
+- Phone alerts: ntfy topic `hn-autopilot-ad181bce3712d192` (config.json). ntfy app installed on his OnePlus 8T via adb, subscribed, notifications ON, battery-exempt; test push verified. Routine pushes on success / no-post / failure (high priority). Runs also send a Claude app push.
+- Live auto run PASSED 10 Nov: Thu 12 Nov 09:00 post scheduled (Buffer 6af2f24a0f3180d1203e86b0). 11 Nov banks post = Buffer DRAFT 6af2ee60eea2cc573bb58249, needs his tap to publish.
