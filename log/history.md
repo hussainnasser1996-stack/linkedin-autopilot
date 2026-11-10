@@ -23,3 +23,4 @@
 - Post-21: Portfolio site launch — operator + investor framing (manual, before autopilot)
 - Post-22: Aramco Q3 2026: the headline isn't the story (series ep. 1, video + carousel) (manual, before autopilot)
 - Post-23: Saudi game studios: the after-seed gap (Gulf capital × games, monthly #1) — PUBLISHED 10 Nov (manual, before autopilot)
+- 2026-11-11: Saudi results: six Saudi banks' Q3 profit +5.3% while provisions rose 40–56% (autopilot, review)

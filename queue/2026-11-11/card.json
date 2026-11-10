@@ -1,0 +1,5 @@
+{"type":"bars","eyebrow":"Saudi results","title":"Q3 profit grew 5.3%.","highlight":"Provisions grew faster.",
+ "bars":[{"label":"Alinma","value":56,"display":"+56%"},{"label":"Al Rajhi","value":49.5,"display":"+49.5%"},{"label":"SNB","value":40,"display":"~+40%"},{"label":"6-bank profit","value":5.3,"display":"+5.3%","highlight":true}],
+ "bars_caption":"Q3 2026 vs Q3 2025 · provisions / credit costs",
+ "stages":[{"h":"Profit","p":"SAR 19.83B across six banks"},{"h":"Provisions","p":"Rising much faster than profit","gap":true},{"h":"Credit quality","p":"Al Rajhi NPLs 76 bps, 152% coverage"}],
+ "sources":"Al Rajhi and SNB filings, Arab News, Enterprise AM, Investing.com"}
