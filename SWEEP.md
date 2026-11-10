@@ -9,8 +9,9 @@ Read `CONTROL.md`, `guidance/GUIDANCE.md` (pillars, research rules, hard rules),
 `research/topics.md` (if it exists), `config.json`. Today = Asia/Riyadh date. Week = today + next 6 days.
 If `mode: paused` → stop (still send the "no sweep" push in step 5).
 
-## 1. Look ahead: the week's calendar (about 8 searches)
-Find dated events in the coming 7 days that a post could ride on, with source URLs:
+## 1. Look ahead: the week's calendar (about 10 searches)
+Read `guidance/research-methods.md` part A and follow it (coverage universe, all four event types, rules,
+line format). Find dated events in the coming 7 days that a post could ride on, with source URLs, for example:
 - Tadawul / GCC listed-company results and dividend dates (Aramco, SNB, Al Rajhi, STC, Ma'aden, ACWA, Alinma, SABIC…).
 - Data releases: MAGNiTT / Wamda / Dealroom reports, SAMA, GASTAT, PIF annual/quarterly items.
 - Events: LEAP, FII, Gamescom Asia/GDC-type, Riyadh/Dubai tech and VC conferences, esports events.
@@ -37,7 +38,10 @@ Format exactly:
 # Topic bank: week of <YYYY-MM-DD> (sweep run <timestamp UTC>)
 
 ## Calendar (next 7 days)
-- <YYYY-MM-DD>: <event> — <source URL>
+- <YYYY-MM-DD>: <event> · <company/sector> · <type> · Impact <H|M> — <source URL>
+
+## Past events (outcomes)
+- <YYYY-MM-DD>: <event> — <what actually happened>
 
 ## Candidates (ranked)
 ### 1. <working title> · Pillar <n> · Score <total>/25 · Use: <any day | on/after YYYY-MM-DD>

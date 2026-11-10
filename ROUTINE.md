@@ -20,6 +20,9 @@ Work in this repo. Never print or log any API key.
 - If the bank is empty, stale (older than 8 days) or has no usable candidate: fall back to fresh research —
   pick the pillar per the GUIDANCE rotation and search news from the last 14 days for it. Collect 2–5 hard
   facts with source URLs.
+- If the pillar is "Saudi results", follow `guidance/research-methods.md` part B (date check, filing first,
+  one-offs, drivers, guidance, no beat/miss without a dated free consensus source).
+- If a calendar event in research/topics.md has passed, add its actual outcome under "Past events".
 - Reject a topic that overlaps any history.md entry from the last 60 days.
 - When you use a bank candidate, set its line to `Status: used <target date>` in research/topics.md
   (commit it with the rest in step 6).
