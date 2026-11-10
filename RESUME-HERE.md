@@ -45,3 +45,9 @@ A daily cloud pipeline with no Mac involved. A Claude cloud routine researches t
 - Humanizer (official blader v3.1.0) in guidance/humanizer.md; routine runs it and must log draft + tells in post.md.
 - Phone alerts: ntfy topic `hn-autopilot-ad181bce3712d192` (config.json). ntfy app installed on his OnePlus 8T via adb, subscribed, notifications ON, battery-exempt; test push verified. Routine pushes on success / no-post / failure (high priority). Runs also send a Claude app push.
 - Live auto run PASSED 10 Nov: Thu 12 Nov 09:00 post scheduled (Buffer 6af2f24a0f3180d1203e86b0). 11 Nov banks post = Buffer DRAFT 6af2ee60eea2cc573bb58249, needs his tap to publish.
+
+## Added 10 Nov (evening)
+- DAILY posting (cron 0 2 * * *). 9 pillars rebuilt from Singular Link deck (Oct 2026) + games + venture building; table in GUIDANCE.md.
+- Weekly sweep: routine trig_01KaSruTcfp31EVmJakni97o, Sun 04:00 KSA, SWEEP.md → research/topics.md. Methods in guidance/research-methods.md (catalyst calendar + results read, adapted from Anthropic equity-research).
+- Monthly deep dive: routine trig_01Jorz5o1rj8QFoXuPB1rgmC, 1st 06:00 KSA, DEEPDIVE.md → research/deep-dives/ + long post on the 5th.
+- Queue now: 11 Nov banks (scheduled), 12 Nov Saudi VC, 13 Nov deep dive "who keeps the margin in AI data centres" (all scheduled, verified).
