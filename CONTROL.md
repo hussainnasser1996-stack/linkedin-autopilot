@@ -1,6 +1,6 @@
 # CONTROL — change these lines to steer the autopilot (from your phone: ask Claude, or edit on github.com)
 
-mode: review
+mode: auto
 # auto   = posts are scheduled in Buffer without asking (standing approval)
 # review = posts are created in Buffer as DRAFTS; nothing publishes until you approve in the Buffer app
 # paused = the routine does nothing
