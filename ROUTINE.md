@@ -12,10 +12,17 @@ Work in this repo. Never print or log any API key.
    in CONTROL.md (commit it) and continue in review mode.
 
 ## 1. Research (15 searches max)
-- Pick the pillar per the GUIDANCE rotation (not the same pillar as the last entry in history.md;
-  honour `focus_this_week`).
-- Use web search for news from the last 14 days for that pillar. Collect 2–5 hard facts with source URLs.
+- First read `research/topics.md` (the weekly sweep's ranked bank). Take the highest-ranked candidate with
+  `Status: open` whose pillar is not the same as the last entry in history.md, whose `Use:` date allows the
+  target date, and that fits `focus_this_week`. Prefer a candidate tied to a calendar event on the target date.
+- Re-verify its figures: open each source URL with WebFetch and confirm the number still reads the same,
+  and search once for anything newer (last 14 days) that changes the story. Update figures if needed.
+- If the bank is empty, stale (older than 8 days) or has no usable candidate: fall back to fresh research —
+  pick the pillar per the GUIDANCE rotation and search news from the last 14 days for it. Collect 2–5 hard
+  facts with source URLs.
 - Reject a topic that overlaps any history.md entry from the last 60 days.
+- When you use a bank candidate, set its line to `Status: used <target date>` in research/topics.md
+  (commit it with the rest in step 6).
 
 ## 2. Write
 - Caption per GUIDANCE "Post format", in Hussain's voice (voice-examples.md rhythm).
