@@ -1,0 +1,5 @@
+{"type":"bars","eyebrow":"Gulf VC","title":"Saudi VC: $1B in 9M 2026.","highlight":"Two deals were 56% of it.",
+ "bars":[{"label":"Intl. investors","value":51,"display":"-51%"},{"label":"Non-mega","value":50,"display":"-50%"},{"label":"Deal count","value":39,"display":"-39%"},{"label":"Total funding","value":29,"display":"-29%","highlight":true},{"label":"Active investors","value":26,"display":"-26%"},{"label":"Series A deals","value":17,"display":"-17%"}],
+ "bars_caption":"9M 2026 vs 9M 2025 · Saudi Arabia",
+ "stages":[{"h":"Mega rounds","p":"2 deals, $563M"},{"h":"Everything else","p":"Back to 9M 2024 levels","gap":true},{"h":"Series A","p":"Held up best, down 17%"}],
+ "sources":"MAGNiTT 9M 2026 Saudi report, entARABI"}
