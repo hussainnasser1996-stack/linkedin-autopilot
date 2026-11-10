@@ -1,0 +1,5 @@
+{"type":"bars","eyebrow":"Gulf capital × games","title":"Saudi studios can raise seed.","highlight":"What comes after?",
+ "bars":[{"label":"Fahy Studios","value":1.75,"display":"$1.75M"},{"label":"Ash Games","value":1.5,"display":"$1.5M"},{"label":"Majestic Mind","value":1.45,"display":"$1.45M"},{"label":"Floaty Studio","value":1.0,"display":"$1M"},{"label":"Khosouf","value":0.6,"display":"$600K"}],
+ "bars_caption":"2026 rounds · all seed",
+ "stages":[{"h":"Seed","p":"Active. Two gaming funds, SAR 450M"},{"h":"Series A","p":"None I could find this year","gap":true},{"h":"The top","p":"PIF owns EA. Savvy owns Scopely"}],
+ "sources":"Dealroom, Wamda, Enterprise AM, PocketGamer.biz, NDF"}
