@@ -18,17 +18,18 @@ line format). Find dated events in the coming 7 days that a post could ride on, 
 - Expected announcements: HUMAIN, Savvy Games, Qiddiya, NEOM, big fund closes.
 Only list an event if a source gives the date. Say "I couldn't find" when nothing is dated.
 
-## 2. Scan the last 14 days by pillar (about 4 searches per pillar, 5 pillars)
+## 2. Scan the last 14 days by pillar (about 3 searches per pillar, all 9 pillars in GUIDANCE)
 For each pillar in GUIDANCE, find the strongest recent stories. Prefer primary sources, then the
 outlets GUIDANCE lists. For each story keep 2–5 hard figures, each with a URL, checked against a
 second source or a primary one (GUIDANCE research rules). Use WebFetch to read the page; never
 rely on a search snippet for a number.
 
-## 3. Rank into a topic bank (7–10 candidates)
+## 3. Rank into a topic bank (10–12 candidates)
 Score every candidate 1–5 on: freshness, figure strength (primary, two-source), fit with his
 positioning (GUIDANCE goal), novelty (no overlap with `log/history.md` in the last 60 days, and no
 same company/report twice in the bank), and card potential (does it make a clean bars/compare card).
-Keep a pillar mix: no pillar more than 3 times, at least one from each of pillars 1–4, at most 2 reflections.
+Keep the pillar mix in GUIDANCE's table (posts / month ÷ 4 per week, ±1): at least one candidate for every pillar 1–8,
+at least 3 across the AI layers (pillars 1–3), at most 1 Builder's note.
 Tie a candidate to a calendar date from step 1 when it fits (e.g. "use on results day").
 
 ## 4. Write `research/topics.md` (replace the whole file) and commit

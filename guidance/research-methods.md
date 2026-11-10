@@ -11,6 +11,10 @@ free public sources only. -->
   SAB, Bahri, Elm, Savola, Almarai, Jarir, Dr. Sulaiman Al Habib, Emaar, ADNOC companies, e&, First Abu Dhabi Bank.
 - Private and state: PIF, HUMAIN, Savvy Games (Scopely, ESL FACEIT), Qiddiya, NEOM, Red Sea Global, SVC, Jada,
   Sanabil, STV, Merak Capital, Impact46, Raed, BECO.
+- AI infrastructure and models (global, public news only): Nvidia, AMD, TSMC, Broadcom, CoreWeave, Oracle,
+  Microsoft, Google, AWS, Meta, OpenAI, Anthropic, xAI, Mistral; GCC: HUMAIN, G42, DataVolt, SDAIA, stc/center3.
+- Applied AI and robotics: Tesla/Waymo/Uber AV, Figure, Agility, Boston Dynamics, Recursion, Isomorphic, Palantir;
+  GCC: Saudi Health Holding, Lean, NEOM, Lucid KAEC plant, Ceer.
 - Data publishers: MAGNiTT, Wamda, Dealroom, SAMA, GASTAT, Tadawul monthly reports, PocketGamer.biz/Newzoo.
 
 ### Event types to search for (every sweep, cover each type)
