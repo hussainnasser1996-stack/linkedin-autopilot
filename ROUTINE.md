@@ -21,6 +21,10 @@ Work in this repo. Never print or log any API key.
 - Caption per GUIDANCE "Post format", in Hussain's voice (voice-examples.md rhythm).
 - Sources line inside the caption, just above the hashtags (no first comment: Buffer Free plan).
 - Self-check against every Hard rule; rewrite if any fails. Check every number in caption against sources.
+- Humanizer pass: read `guidance/humanizer.md` in full and apply it to the caption in Embedded mode.
+  The writing sample is `guidance/voice-examples.md` (it overrides the patterns, e.g. keep his "Two things: 1… 2…"
+  and line-break rhythm). Do not add or drop any fact, number, name or source. Then re-check every number
+  against the sources and every Hard rule again.
 
 ## 3. Card
 - Write `queue/<YYYY-MM-DD>/card.json` (type bars | statement | compare — schema in examples/).
