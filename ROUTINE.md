@@ -38,7 +38,8 @@ Work in this repo. Never print or log any API key.
 - Write `queue/<date>/post.json` with `channel_id` from config.json, `text`, `image_url`,
   `due_at` (`<date>T06:00:00.000Z`), and `"draft": true` if mode is review.
 - Optional company tags: only for companies listed in `config.json` → `linkedin_orgs`, using Buffer's
-  annotation format (start/length = exact position of the company name in `text`, UTF-16).
+  annotation format: copy the company's object from linkedin_orgs and add start/length = exact position of
+  the company name in `text` (UTF-16). Only tag a company named in the post, max 2.
 - Run `python3 scripts/buffer.py schedule queue/<date>/post.json`. If it fails, fix the cause and retry once.
 
 ## 6. Record

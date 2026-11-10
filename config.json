@@ -4,5 +4,20 @@
   "buffer_organization_id": "6af2e67f1fcb3809252ef525",
   "channel_id": "6af2e6fd62b70b94b0dffb14",
   "cards_repo": "hussainnasser1996-stack/linkedin-cards",
-  "linkedin_orgs": {}
+  "linkedin_orgs": {
+    "Merak Capital": {
+      "id": "18948009",
+      "entity": "urn:li:organization:18948009",
+      "link": "https://www.linkedin.com/company/merakcapital",
+      "localizedName": "Merak Capital",
+      "vanityName": "merakcapital"
+    },
+    "Impact46": {
+      "id": "13045287",
+      "entity": "urn:li:organization:13045287",
+      "link": "https://www.linkedin.com/company/impact-46",
+      "localizedName": "Impact46",
+      "vanityName": "impact-46"
+    }
+  }
 }
