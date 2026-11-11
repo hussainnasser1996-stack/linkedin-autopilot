@@ -1,4 +1,4 @@
-For every $100 of revenue in its latest quarter, Nvidia kept $66 as operating profit. Equinix kept $23. CoreWeave lost $2.
+For every $100 of revenue in its latest quarter, Nvidia kept $66 as operating profit. Equinix kept $23. CoreWeave kept $6, then paid $23 in net interest.
 
 So who keeps the margin in AI data centres: the chipmaker, the GPU cloud, or the landlord? I went through the latest filings. Three things stood out:
 
@@ -6,7 +6,7 @@ So who keeps the margin in AI data centres: the chipmaker, the GPU cloud, or the
 
 2. The landlord earns a steady margin. Equinix's Q3 revenue was $2.57B, up 11%, with a 51% adjusted EBITDA margin. Bookings hit a record $533M, up 35%.
 
-3. The GPU cloud in the middle gets squeezed. CoreWeave's Q2 adjusted EBITDA margin was 59%, close to Equinix. After depreciation it posted a 2% operating loss, and net interest of $640M was about a quarter of its $2.58B revenue. It has a backlog of about $104B, so what it's short of is cheap capital.
+3. The GPU cloud in the middle gets squeezed. CoreWeave's Q3 adjusted EBITDA margin was 62%, above Equinix. After $1.89B of depreciation its operating margin was 6%, and net interest of $846M was about 23% of its $3.66B revenue, so it still posted a $709M net loss. It has a backlog of about $132.5B, so what it's short of is cheap capital.
 
 For the Gulf, HUMAIN is building in the two thinner layers, the buildings and the GPU cloud. Its first 14 MW of Blackwell systems deploy from Q4 2026, and 70 MW of Vera Rubin is planned from mid-2027, 50 MW of it for a US client.
 
@@ -14,7 +14,7 @@ What it can work on are the two lines that hurt CoreWeave, power and capital. Sa
 
 None of that lowers what the chips cost. It could decide whether the middle layer makes money here.
 
-What I'll watch next: Nvidia's results on 17 November, especially gross margin against the 74% guide, and whether CoreWeave's operating margin turns positive.
+What I'll watch next: Nvidia's results on 17 November, especially gross margin against the 74% guide, and whether CoreWeave's operating profit can catch up with an interest bill it guides at $1.05B to $1.15B for Q4.
 
 If you're building or financing compute in the region, which line decides it for you: power, chips, or the cost of capital?
 

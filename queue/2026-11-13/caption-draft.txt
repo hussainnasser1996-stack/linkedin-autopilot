@@ -1,26 +1,22 @@
-For every $100 of revenue in its latest quarter, Nvidia kept $66 as operating profit. Equinix kept $23. CoreWeave lost $2.
+For every $100 of revenue in its latest quarter, Nvidia kept $66 as operating profit. Equinix kept $23. CoreWeave kept $6 — and then paid $23 in net interest.
 
-Everyone is building AI data centres. The question I keep asking: who actually keeps the margin — the chipmaker, the GPU cloud, or the landlord?
-
-I went through the latest filings. Three findings:
+So who keeps the margin in AI data centres: the chipmaker, the GPU cloud, or the landlord? I went through the latest filings. Three things stood out:
 
 1. The chip layer keeps most of it. Nvidia's quarter to July: revenue $96.2B, data centre $89.0B, gross margin 75.0%. It guides 74% for the quarter to October.
 
-2. The landlord earns a steady, utility-like margin. Equinix's Q3 revenue was $2.57B, up 11%, with a 51% adjusted EBITDA margin and record bookings of $533M, up 35%.
+2. The landlord earns a steady margin. Equinix's Q3 revenue was $2.57B, up 11%, with a 51% adjusted EBITDA margin. Bookings hit a record $533M, up 35%.
 
-3. The GPU cloud in the middle is where it gets squeezed. CoreWeave's Q2 adjusted EBITDA margin was 59%, almost the same as Equinix. But after depreciation it posted a 2% operating loss, and net interest of $640M was about a quarter of its $2.58B revenue. Backlog is about $104B, so demand is not the issue. The cost of capital is.
+3. The GPU cloud in the middle gets squeezed. CoreWeave's Q3 adjusted EBITDA margin was 62%, even higher than Equinix. But after $1.89B of depreciation its operating margin was just 6%, and net interest of $846M was about 23% of its $3.66B revenue. The net loss was $709M. It's not demand that's missing — the backlog is about $132.5B. It's cheap capital.
 
-Why this matters for the Gulf:
+For the Gulf, HUMAIN is building in the two thinner layers, the buildings and the GPU cloud. Its first 14 MW of Blackwell systems deploy from Q4 2026, and 70 MW of Vera Rubin is planned from mid-2027, 50 MW of it for a US client.
 
-HUMAIN is building in the two layers with the thinnest margins: the buildings and the GPU cloud. Its first 14 MW of Blackwell systems deploy from Q4 2026, with 70 MW of Vera Rubin planned from mid-2027, 50 MW of it for a US client.
+What it can work on are the two lines that hurt CoreWeave, power and capital. Saudi cloud operators pay 18 halalas per kWh (about $0.048), a tariff approved in 2021. HUMAIN's funding this year includes SAR 9.9B ($2.6B) in cash from Aramco and up to SAR 2.5B ($667M) of Infra facilities signed this week.
 
-The levers it has are exactly the lines that hurt CoreWeave: power and capital. Saudi cloud operators pay 18 halalas per kWh (about $0.048), a tariff approved in 2021. And HUMAIN's funding this year is mostly equity and state-backed debt: SAR 9.9B ($2.6B) in cash from Aramco, and up to SAR 2.5B ($667M) of Infra facilities signed this week.
+None of that lowers what the chips cost. It could decide whether the middle layer makes money here.
 
-Cheap power and patient capital don't change Nvidia's share of the bill. They change whether the middle layer can make money.
+What I'll watch next: Nvidia's results on 17 November, especially gross margin against the 74% guide, and whether CoreWeave's operating profit can catch up with its interest bill, guided at $1.05B to $1.15B for Q4.
 
-What I'll watch next: Nvidia's results on 17 November, especially gross margin against its 74% guide, and whether CoreWeave's operating margin turns positive.
-
-If you're building or financing compute in the region, which line do you think decides it: power, chips, or the cost of capital?
+If you're building or financing compute in the region, which line decides it for you: power, chips, or the cost of capital?
 
 Sources: Nvidia, Equinix and CoreWeave results; Aramco; Asharq Al-Awsat; The National; Arab News
 #AI #DataCenters #VentureCapital #GCC #SaudiArabia #Vision2030

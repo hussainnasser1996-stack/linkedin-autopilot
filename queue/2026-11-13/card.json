@@ -1,5 +1,1 @@
-{"type":"bars","eyebrow":"Monthly deep dive","title":"Who keeps the AI data centre margin?","highlight":"The chipmaker.",
- "bars":[{"label":"Nvidia","value":66,"display":"$66","highlight":true},{"label":"Equinix","value":23,"display":"$23"},{"label":"CoreWeave","value":1,"display":"-$2"}],
- "bars_caption":"Operating profit per $100 of revenue · latest quarter",
- "stages":[{"h":"Chips","p":"Nvidia: 75.0% gross margin"},{"h":"GPU cloud","p":"CoreWeave: 59% adj. EBITDA, -2% operating","gap":true},{"h":"Landlord","p":"Equinix: 51% adj. EBITDA"}],
- "sources":"Nvidia Q2 FY27, CoreWeave Q2 2026, Equinix Q3 2026 results"}
+{"type": "bars", "eyebrow": "Monthly deep dive", "title": "Who keeps the AI data centre margin?", "highlight": "The chipmaker.", "bars": [{"label": "Nvidia", "value": 66, "display": "$66", "highlight": true}, {"label": "Equinix", "value": 23, "display": "$23"}, {"label": "CoreWeave", "value": 6, "display": "$6"}], "bars_caption": "Operating profit per $100 of revenue · latest quarter", "stages": [{"h": "Chips", "p": "Nvidia: 75.0% gross margin"}, {"h": "GPU cloud", "p": "CoreWeave: 62% adj. EBITDA, 6% operating", "gap": true}, {"h": "Landlord", "p": "Equinix: 51% adj. EBITDA"}], "sources": "Nvidia Q2 FY27, CoreWeave Q3 2026, Equinix Q3 2026 results"}

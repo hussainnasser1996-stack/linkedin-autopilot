@@ -1,13 +1,13 @@
 # Who keeps the margin in AI data centres: the chipmaker, the GPU cloud, or the landlord?
 
-Monthly deep dive · 2026-11 · Pillar 2 (Data centres & power for AI) · Written 2026-11-10
+Monthly deep dive · 2026-11 · Pillar 2 (Data centres & power for AI) · Written 2026-11-10 · CoreWeave refreshed to Q3 2026 on 2026-11-11
 
 ## Question
 Who keeps the margin in AI data centres: the chipmaker, the GPU cloud, or the landlord? And where does a Gulf builder like HUMAIN sit in that chain?
 
 ## Answer in 3 lines
 1. The chip layer keeps most of it: Nvidia turned 66% of revenue into operating profit in its latest quarter (75.0% gross margin).
-2. The landlord earns a steady, utility-like margin (Equinix: 51% adjusted EBITDA, 23% operating margin). The GPU cloud in the middle has a similar EBITDA margin (CoreWeave 59%) but depreciation and interest turn it into a loss (-2% operating, net interest about a quarter of revenue).
+2. The landlord earns a steady, utility-like margin (Equinix: 51% adjusted EBITDA, 23% operating margin). The GPU cloud in the middle has a higher EBITDA margin (CoreWeave 62% in Q3) but depreciation leaves a 6% operating margin and net interest (about 23% of revenue) turns it into a net loss ($709m).
 3. HUMAIN is building in the two thinner layers (buildings and GPU cloud). Its levers are the two lines that hurt the middle: power cost and cost of capital.
 
 ## Market size & growth
@@ -23,15 +23,17 @@ Latest reported quarter for each company (different quarter ends, so compare sha
 | Layer | Company | Quarter | Revenue | Gross / EBITDA margin | Operating margin | Source |
 |---|---|---|---|---|---|---|
 | Chips | Nvidia | Q2 FY27 (to 26 Jul 2026) | $96.2bn (Data Center $89.0bn, +117%) | Gross 75.0% | 66.2% ($63,734m / $96,221m) | Nvidia 8-K and 10-Q |
-| GPU cloud (neocloud) | CoreWeave | Q2 2026 (to 30 Jun 2026) | $2,575m (+112%) | Adj. EBITDA 59% ($1,510m) | GAAP -2% (-$49m); adjusted +5% ($128m) | CoreWeave Q2 release |
+| GPU cloud (neocloud) | CoreWeave | Q3 2026 (to 30 Sep 2026) | $3,661m (+168%) | Adj. EBITDA 62% ($2,256m) | GAAP 6% ($207m); adjusted 10% ($379m) | CoreWeave Q3 release (10 Nov 2026) |
 | Landlord (colocation) | Equinix | Q3 2026 (to 30 Sep 2026) | $2.571bn (+11%) | Adj. EBITDA 51% ($1.321bn) | 23.3% ($600m / $2,571m) | Equinix Q3 release (SEC 8-K) |
 
-Per $100 of revenue: Nvidia kept $66 of operating profit, Equinix $23, CoreWeave lost $2.
+Per $100 of revenue: Nvidia kept $66 of operating profit, Equinix $23, CoreWeave $6 ($207m / $3,661m = 5.7%), and CoreWeave then paid $23 of net interest ($846m / $3,661m = 23.1%).
+
+Previous quarter (CoreWeave Q2 2026, to 30 Jun 2026): revenue $2,575m, adj. EBITDA 59%, GAAP operating margin -2% (-$2 per $100), net interest $640m (~25% of revenue), net loss $626m, capex $6.4bn, backlog ~$104bn (CoreWeave Q2 release).
 
 What the table says:
 - Nvidia's margin comes from pricing power on the scarce input. Guidance for the quarter to October: revenue $108.0bn ±2%, gross margin 74.0% ±50 bp (Nvidia 8-K).
-- CoreWeave's EBITDA margin (59%) is close to Equinix's (51%); the difference is below EBITDA. GPUs depreciate over a few years (vs decades for buildings), and the build is debt-funded: net interest expense was $640m in Q2, about 25% of revenue; net loss $626m (CoreWeave release). Q2 purchases of property and equipment: $6.4bn.
-- Demand is not the constraint for the middle layer: CoreWeave backlog about $104bn at 30 Jun 2026, excluding more than $25bn of net new commitments added in early Q3 (CoreWeave release).
+- CoreWeave's EBITDA margin (62%) is above Equinix's (51%); the difference is below EBITDA. GPUs depreciate over a few years (vs decades for buildings): Q3 depreciation and amortization was $1,889m. The build is debt-funded: net interest expense was $846m in Q3, about 23% of revenue; net loss $709m (net loss margin -19%); adjusted net loss $529m (CoreWeave Q3 release). Q3 purchases of property and equipment: $9.4bn ($9,441m). FY26 guidance: revenue $13.0–13.3bn, adjusted operating income $1.275–1.375bn, capex $37–39bn; Q4 interest expense guided at $1.05–1.15bn.
+- Demand is not the constraint for the middle layer: CoreWeave revenue backlog about $132.5bn at 30 Sep 2026 (CoreWeave Q3 release).
 - Equinix: record annualized gross bookings $533m (+35%), AFFO $1.156bn (+20% as reported, incl. a one-off atNorth fee), FY26 guidance raised (revenue $10.325–10.365bn, adj. EBITDA $5.290–5.330bn, capex $5–6bn) (Equinix release).
 - Concentration: Nvidia dominates the merchant accelerator layer; five direct customers made up 22%, 14%, 13%, 11% and 10% of Nvidia's accounts receivable at 26 Jul 2026 (10-Q). That is a receivables split, not a revenue split.
 - Barriers to entry: chips (design + supply chain + software); neocloud (access to GPU allocation and cheap debt); landlord (land, power connections, permits).
@@ -41,7 +43,7 @@ What the table says:
 | Company | What it does | Latest fact | Source |
 |---|---|---|---|
 | Nvidia | AI accelerators and systems | Q2 FY27 revenue $96.2bn, gross margin 75.0%; Q3 results 17 Nov 2026 | https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000073/q2fy27pr.htm |
-| CoreWeave | GPU cloud (neocloud) | Q2 2026 revenue $2,575m, GAAP operating margin -2%, backlog ~$104bn; Q3 results due 10 Nov 2026 after US close | https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx |
+| CoreWeave | GPU cloud (neocloud) | Q3 2026 revenue $3,661m (+168%), GAAP operating margin 6%, net interest $846m, net loss $709m, backlog ~$132.5bn (reported 10 Nov 2026) | https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx |
 | Equinix | Colocation / interconnection landlord | Q3 2026 revenue $2.571bn (+11%), adj. EBITDA margin 51%, record bookings $533m | https://www.sec.gov/Archives/edgar/data/0001101239/000110123926000178/a991eqix-q326xpr.htm |
 | HUMAIN | Saudi AI infrastructure, cloud and models (PIF 51% / Aramco 49% since 1 Nov 2026) | Up to 84 MW / ~27,000 Nvidia GPUs: 14 MW Blackwell B300 from Q4 2026, 70 MW Vera Rubin from mid-2027 (50 MW for a US client), subject to final agreements | https://www.thenationalnews.com/future/technology/2026/10/22/saudi-arabias-humain-expands-nvidia-deal-with-84mw-ai-computing-plan/ |
 | DataVolt | Saudi data-centre developer (Vision Invest subsidiary) | Oxagon (NEOM) campus: 1.5 GW total, 360 MW first phase; HUMAIN takes 100 MW, expected 2028 | https://w.media/datavolt-and-humain-break-ground-on-first-ai-data-center-in-neom/ |
@@ -51,12 +53,12 @@ What the table says:
 ## Trends
 Tailwinds
 1. Spend keeps rising: >$1 trillion data-centre capex in 2026 (Dell'Oro).
-2. Neocloud demand visible in contracts: CoreWeave backlog ~$104bn plus >$25bn added in early Q3.
+2. Neocloud demand visible in contracts: CoreWeave backlog ~$132.5bn at 30 Sep 2026.
 3. Inference and interconnection demand in colocation: Equinix record bookings, Inference Exchange with Nvidia and Together AI (Equinix release).
 
 Headwinds
 1. Depreciation risk: the useful-life debate (books at 5–6 years vs a shorter economic life). Bear estimates (e.g. Michael Burry's ~$176bn understated depreciation for 2026–28) are a single analyst's view and unverified here. Amazon shortened some server lives from 6 to 5 years. Source: SiliconANGLE https://siliconangle.com/2025/11/22/resetting-gpu-depreciation-ai-factories-bend-dont-break-useful-life-assumptions/ (single source, treat as reported).
-2. Cost of capital for the middle layer: CoreWeave net interest $640m in one quarter.
+2. Cost of capital for the middle layer: CoreWeave net interest $846m in Q3, Q4 interest expense guided at $1.05–1.15bn.
 
 Regulation
 - US export licensing applies to advanced chips going to Middle East projects (reported in Stargate UAE coverage); HUMAIN's Vera Rubin phase remains subject to final agreements (The National).
@@ -71,10 +73,10 @@ Regulation
 ## Bull vs bear
 - Bull: Sovereign capital and cheap power let Gulf builders earn neocloud-style EBITDA without neocloud-style interest bills, so the middle layer makes money here.
 - Bear: Chip pricing power keeps most of the profit at Nvidia, and if GPUs lose value faster than depreciation schedules assume, the middle layer's thin operating margin goes negative wherever it is built.
-- What would settle it: CoreWeave's operating margin over the next few quarters (does it turn positive?), Nvidia's gross margin vs its 74% guide, and HUMAIN's first contracted utilisation once the 14 MW Blackwell phase is live.
+- What would settle it: CoreWeave's operating profit against its interest bill over the next few quarters (GAAP operating margin turned positive at 6% in Q3, but net interest was 23% of revenue), Nvidia's gross margin vs its 74% guide, and HUMAIN's first contracted utilisation once the 14 MW Blackwell phase is live.
 
 ## Catalysts (dated)
-- 2026-11-10: CoreWeave Q3 2026 results and call (5 pm ET) — https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx
+- 2026-11-10 (passed): CoreWeave Q3 2026 results. Outcome: revenue $3,661m (+168%), GAAP operating margin 6% (from -2% in Q2), net interest $846m, net loss $709m, backlog ~$132.5bn, FY26 revenue guide raised to $13.0–13.3bn. Next: Q4 interest expense guided at $1.05–1.15bn — https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx
 - 2026-11-17: Nvidia Q3 FY27 results (quarter ended 25 Oct 2026), call 2 pm PT — https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873
 - November 2026 (no day given): Microsoft Saudi Arabia East region opens to customers — Microsoft (link above)
 - Q4 2026: HUMAIN's first 14 MW of Blackwell B300 systems begin deployment — The National
@@ -84,6 +86,7 @@ Regulation
 - https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000073/q2fy27pr.htm
 - https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000075/nvda-20260726.htm
 - https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873
+- https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx
 - https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Second-Quarter-2026-Results/default.aspx
 - https://investors.coreweave.com/news/news-details/2026/CoreWeave-Announces-Date-of-Third-Quarter-2026-Financial-Results-and-Conference-Call/default.aspx
 - https://www.sec.gov/Archives/edgar/data/0001101239/000110123926000178/a991eqix-q326xpr.htm
