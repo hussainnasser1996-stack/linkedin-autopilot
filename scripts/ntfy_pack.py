@@ -3,7 +3,7 @@
 One notification per comment: tap opens the post, the body is the comment to copy.
 One notification for connects (tap opens the first profile; all profile links in the body).
 Usage: ntfy_pack.py engage/<date>.md [--dry-run]"""
-import json, re, sys, time, urllib.request
+import json, re, sys, time, urllib.error, urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -18,8 +18,14 @@ def push(title, body, click=None, prio="default", dry=False):
     if click:
         h["Click"] = click
     req = urllib.request.Request(f"https://ntfy.sh/{TOPIC}", data=body.encode("utf-8"), headers=h, method="POST")
-    urllib.request.urlopen(req, timeout=20).read()
-    time.sleep(1)
+    for attempt in range(4):
+        try:
+            urllib.request.urlopen(req, timeout=20).read(); break
+        except urllib.error.HTTPError as e:
+            if e.code != 429 or attempt == 3:
+                raise
+            time.sleep(10 * (attempt + 1))
+    time.sleep(3)
 
 
 def parse(md):
@@ -46,16 +52,17 @@ def main():
     path = Path(sys.argv[1]); dry = "--dry-run" in sys.argv
     comments, connects, replies = parse(path.read_text())
     date = path.stem
-    push(f"LinkedIn pack {date}", f"{len(comments)} comments + {len(connects)} connects ready. Tap each one, paste, post. "
-         "Or tell Claude on the Mac: post the pack.", dry=dry)
+    tail = ("\n\nReplies: " + " ".join(replies)) if replies else ""
+    if comments:
+        push(f"LinkedIn pack {date}", f"{len(comments)} comments + {len(connects)} connects ready. Tap each one, paste, post. "
+             "Or tell Claude on the Mac: post the pack." + tail, dry=dry)
+        tail = ""
     for i, c in enumerate(comments, 1):
         who = re.split(r"\s\|\s", c["head"])[0]
         push(f"Comment {i}/{len(comments)}: {who}"[:120], c["text"], click=c["url"], dry=dry)
     if connects:
         first = (re.findall(URL_RE, connects[0]) or [None])[0]
-        push(f"Connects {date}", "\n".join(connects), click=first, dry=dry)
-    if replies:
-        push(f"Replies on your post {date}", "\n".join(replies), dry=dry)
+        push(f"Connects {date}: {len(connects)} people", "\n".join(connects) + tail, click=first, dry=dry)
     print(f"pushed {len(comments)} comments, {len(connects)} connects, {len(replies)} reply lines")
 
 
