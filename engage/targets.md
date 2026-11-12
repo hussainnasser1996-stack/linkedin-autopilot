@@ -4,15 +4,15 @@
 |---|---|---|
 | Emirates NBD Capital KSA | Ahmad Al-Misfer, Acting CEO & Head of Asset Management | done |
 | Blominvest Saudi Arabia | Abdullah Saoud AlRashoud, MD & CEO | done |
-| SAB Invest | Ali Al Mansour, CEO | suggested 2026-11-12 |
+| SAB Invest | Ali Al Mansour, CEO | done |
 | Sahm Capital | Sze Yin (Ryan) Lee, General Manager & COO | suggested 2026-11-12 |
 | Kamco Invest Saudi | Mohammed Al-Faris, CEO | done |
 | STV | Abdulrahman Tarabzouni, Founder & CEO | done |
 | Impact46 (Tatheer) | Abdulaziz A. Alomran, CEO & MD | done |
 | Nama Ventures | Mohammed Alzubi, Founder, CEO & Managing Partner | done |
-| Khwarizmi Ventures | Abdulaziz Al-Turki, Managing Partner | suggested 2026-11-12 |
-| Joa Capital | Yousef AlYousefi, CEO & Managing Partner | suggested 2026-11-12 |
-| Jadara Investment Company (JIC) | Kamal Alaithan, CEO & Board Member | suggested 2026-11-12 |
+| Khwarizmi Ventures | Abdulaziz Al-Turki, Managing Partner | done |
+| Joa Capital | Yousef AlYousefi, CEO & Managing Partner | done |
+| Jadara Investment Company (JIC) | Kamal Alaithan, CEO & Board Member | done |
 | Pinnacle Capital (Alqimma Alawla) | Abdulwahab Al Betairi, CEO | done |
 | Arcapita (Saudi) | Hisham Al Raee, Group CEO | suggested 2026-11-12 |
 | Sharaka Capital | Faris AlRashed, MD & CEO | done |

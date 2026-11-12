@@ -14,8 +14,9 @@ Tested 12 Nov: web search cannot find LinkedIn posts from the last 3 days, and L
 Comments are drafted on his Mac (Claude in Chrome, signed in) when he asks for the pack. Do not search for posts here.
 
 ## 3. Connect suggestions (15)
-- Take 15 rows with Status `open` from `engage/targets.md`. For each, find the person's public LinkedIn profile URL
-  (WebSearch `"<name>" <firm> site:linkedin.com/in`). Only keep a URL when name AND firm match. Mark used rows `suggested <today>`.
+- Take 15 rows with Status `open` from `engage/targets.md`, preferring rows that already have a profile URL in a 4th column.
+  Never suggest a row whose Status is `done` or `suggested`. For each, find the person's public LinkedIn profile URL
+  (WebSearch `"<name>" <firm> site:linkedin.com/in`). Only keep a URL when name AND firm match. If no URL is found, give a ready LinkedIn people-search link instead: `https://www.linkedin.com/search/results/people/?keywords=<name>%20<firm>` (URL-encoded), so one tap opens the search in his app. Mark used rows `suggested <today>`.
 
 ## 4. Write the pack
 `engage/<today>.md`:
