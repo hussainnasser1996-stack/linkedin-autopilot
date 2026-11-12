@@ -4,31 +4,31 @@
 |---|---|---|
 | Emirates NBD Capital KSA | Ahmad Al-Misfer, Acting CEO & Head of Asset Management | done |
 | Blominvest Saudi Arabia | Abdullah Saoud AlRashoud, MD & CEO | done |
-| SAB Invest | Ali Al Mansour, CEO | open |
-| Sahm Capital | Sze Yin (Ryan) Lee, General Manager & COO | open |
+| SAB Invest | Ali Al Mansour, CEO | suggested 2026-11-12 |
+| Sahm Capital | Sze Yin (Ryan) Lee, General Manager & COO | suggested 2026-11-12 |
 | Kamco Invest Saudi | Mohammed Al-Faris, CEO | done |
 | STV | Abdulrahman Tarabzouni, Founder & CEO | done |
 | Impact46 (Tatheer) | Abdulaziz A. Alomran, CEO & MD | done |
 | Nama Ventures | Mohammed Alzubi, Founder, CEO & Managing Partner | done |
-| Khwarizmi Ventures | Abdulaziz Al-Turki, Managing Partner | open |
-| Joa Capital | Yousef AlYousefi, CEO & Managing Partner | open |
-| Jadara Investment Company (JIC) | Kamal Alaithan, CEO & Board Member | open |
+| Khwarizmi Ventures | Abdulaziz Al-Turki, Managing Partner | suggested 2026-11-12 |
+| Joa Capital | Yousef AlYousefi, CEO & Managing Partner | suggested 2026-11-12 |
+| Jadara Investment Company (JIC) | Kamal Alaithan, CEO & Board Member | suggested 2026-11-12 |
 | Pinnacle Capital (Alqimma Alawla) | Abdulwahab Al Betairi, CEO | done |
-| Arcapita (Saudi) | Hisham Al Raee, Group CEO | open |
+| Arcapita (Saudi) | Hisham Al Raee, Group CEO | suggested 2026-11-12 |
 | Sharaka Capital | Faris AlRashed, MD & CEO | done |
-| Himmah Capital | Sajid Riaz and Syed Asim Zafar, Co-Founders & Managing Partners | open |
+| Himmah Capital | Sajid Riaz and Syed Asim Zafar, Co-Founders & Managing Partners | suggested 2026-11-12 |
 | Aditum Capital | Mohammed Abalkhail, CEO & Head of Advisory | done |
-| Greenstone Saudi Arabia | Alex Gemici, Chairman & CEO, Greenstone | open |
+| Greenstone Saudi Arabia | Alex Gemici, Chairman & CEO, Greenstone | suggested 2026-11-12 |
 | Artal Capital | Rayan Alrasheed, CEO & Board Member | done |
-| Asyaf Investments | Karim Ramadan Abdelnaeim, CEO | open |
-| Lendo | Osama Alraee, Co-Founder & CEO | open |
-| Raqamyah | Ammar Bakheet, CEO | open |
-| Tameed | Mohamed Alomayyer, Founder & CEO | open |
+| Asyaf Investments | Karim Ramadan Abdelnaeim, CEO | suggested 2026-11-12 |
+| Lendo | Osama Alraee, Co-Founder & CEO | suggested 2026-11-12 |
+| Raqamyah | Ammar Bakheet, CEO | suggested 2026-11-12 |
+| Tameed | Mohamed Alomayyer, Founder & CEO | suggested 2026-11-12 |
 | Merchants Capital (Darb Altujjar) | Tarek Tawfik, Founder, Chairman & CEO | done |
 | Target Partners Capital | Andaleeb Saeed Badeeb, Founder, CEO & Head of Advisory | done |
-| Raz Amwal | Abdullah Al Zamel, CEO | open |
-| Narmo Capital | Eng. Fahad AlOmran, CEO & Advisory Manager | open |
-| Sadeed Financial | Mohammed B. Algadhib, CEO & Arranging Manager | open |
+| Raz Amwal | Abdullah Al Zamel, CEO | suggested 2026-11-12 |
+| Narmo Capital | Eng. Fahad AlOmran, CEO & Advisory Manager | suggested 2026-11-12 |
+| Sadeed Financial | Mohammed B. Algadhib, CEO & Arranging Manager | suggested 2026-11-12 |
 | Alkhizanah Capital | Raed Musaad AlSudairy, Vice Chairman & CEO | open |
 | National Capital (Rikaz Alwataniya) | Nasser Al Madi (per CEO message on site; title not confirmed) | open |
 | J. Awan Capital | Jehanzeb Awan, Founder & CEO | open |
