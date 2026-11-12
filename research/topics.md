@@ -35,7 +35,7 @@
   - Silver Lake already owns about 8% of Unity — PocketGamer.biz (confirmed by tbreak)
   - Same investors were in the $55bn EA take-private that closed in Aug 2026 — PocketGamer.biz (confirmed by tbreak)
 - Card: compare — "EA: $55bn, closed Aug 2026" vs "Unity: ~$25bn, reported talks"
-- Status: open
+- Status: used 2026-11-14
 
 ### 3. MENA startup funding fell to $40m in October · Pillar 3 · Score 22/25 · Use: from 2026-11-14 (not next to the 12 Nov VC post)
 - Angle: A $1.1bn month followed by a $40m month shows how much regional totals depend on a handful of rounds. Read the deal count and the early-stage base, not the headline.
