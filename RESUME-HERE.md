@@ -51,3 +51,9 @@ A daily cloud pipeline with no Mac involved. A Claude cloud routine researches t
 - Weekly sweep: routine trig_01KaSruTcfp31EVmJakni97o, Sun 04:00 KSA, SWEEP.md → research/topics.md. Methods in guidance/research-methods.md (catalyst calendar + results read, adapted from Anthropic equity-research).
 - Monthly deep dive: routine trig_01Jorz5o1rj8QFoXuPB1rgmC, 1st 06:00 KSA, DEEPDIVE.md → research/deep-dives/ + long post on the 5th.
 - Queue now: 11 Nov banks (scheduled), 12 Nov Saudi VC, 13 Nov deep dive "who keeps the margin in AI data centres" (all scheduled, verified).
+
+## Added 12 Nov: daily engagement pack (cloud)
+- Routine trig_01AHkHLQzdEBtXDU4Zz7gZzX "LinkedIn Engagement Pack", 05:00 UTC = 08:00 KSA, follows ENGAGE.md. Draft only, pushes to phone (scripts/ntfy_pack.py).
+- Connects: 15/day from engage/targets.md (tested OK 12 Nov). Comments + replies on his posts: Apify harvestapi/linkedin-post-search (no cookies) via scripts/apify_posts.py; queries in engage/queries.txt; ~USD 3/month inside Apify free credit.
+- WAITING ON HIM: Apify account (free, his own sign-up) -> API token -> Keychain `apify-token` + cloud env "LinkedIn Autopilot" secret APIFY_TOKEN. Until then the pack skips comments.
+- Reviewed 10 repos 12 Nov: use linkedin-skills (Apify read idea), li-comment comment types (in ENGAGE.md); skip auto job applier, linkedin-mcp-server, linkedin_scraper, linkedin2username. agent-browser install was blocked by permissions (he can run `npm install -g agent-browser` himself).
