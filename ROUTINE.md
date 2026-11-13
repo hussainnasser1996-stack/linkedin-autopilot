@@ -99,7 +99,14 @@ If `queue/<date>/` already exists for the target date (made by hand), treat that
 - Optional company tags: only for companies listed in `config.json` → `linkedin_orgs`, using Buffer's
   annotation format: copy the company's object from linkedin_orgs and add start/length = exact position of
   the company name in `text` (UTF-16). Only tag a company named in the post, max 2.
-- Run `python3 scripts/buffer.py schedule queue/<date>/post.json`. If it fails, fix the cause and retry once.
+- Do NOT call Buffer from the cloud (its key there is not used any more). Scheduling is done by the GitHub Action
+  "Schedule in Buffer" (.github/workflows/buffer.yml), which fires when a `queue/<date>/post.json` is pushed to main:
+  1. Write a first `queue/<date>/post.md` (caption, sources, card type), then commit `queue/<date>/` and push to `main` now.
+  2. Wait for the Action to write the id back: `for i in $(seq 1 24); do git pull -q --rebase origin main; [ -f queue/<date>/buffer_id.txt ] && break; sleep 15; done`
+  3. If `queue/<date>/buffer_id.txt` exists, that is the Buffer post id (use it in step 6). If it does not appear within
+     6 minutes, follow the failure path (ERROR log + ntfy) but LEAVE `queue/<date>/post.json` in place: the Action's
+     06:15 KSA run retries it before the 09:00 post time.
+- Never delete or rename a `buffer_id.txt` (it stops the Action scheduling the same post twice).
 
 ## 6. Record
 - Write `queue/<date>/post.md` (caption, sources with URLs, card type, Buffer post id).

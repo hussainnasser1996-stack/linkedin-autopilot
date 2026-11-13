@@ -87,9 +87,10 @@ def body_statement(c):
 def body_bars(c):
     bars = c["bars"]
     mx = max(float(b["value"]) for b in bars) or 1
+    base = 1000 if c.get("lang") == "ar" else 1100
     rows = "".join(
         f'<div class="row"><div class="name">{e(b["label"])}</div><div class="barw">'
-        f'<div class="bar{" hl" if b.get("highlight") else ""}" style="width:{int((1000 if c.get('lang')=='ar' else 1100)*float(b["value"])/mx)}px"></div>'
+        f'<div class="bar{" hl" if b.get("highlight") else ""}" style="width:{int(base * float(b["value"]) / mx)}px"></div>'
         f'<div class="val">{e(b["display"])}</div></div></div>'
         for b in bars)
     tag = f'<div class="tag">{e(c["bars_caption"])}</div>' if c.get("bars_caption") else ""
