@@ -1,0 +1,83 @@
+{
+ "title": "Acwa Q3 2026: profit +71% in the quarter, +0.6% YTD",
+ "sources": "Acwa nine-month 2026 release (5 Nov 2026); Tadawul filing via Arab News; Enterprise, 8 Nov 2026",
+ "slides": [
+  {
+   "type": "cover",
+   "eyebrow": "Saudi results · Acwa Q3 2026",
+   "title": "Q3 profit up 71%.",
+   "highlight": "Nine months: up 0.6%.",
+   "sub": "Which number to read first, in 7 slides."
+  },
+  {
+   "type": "stat",
+   "eyebrow": "The quarter",
+   "number": "+71.1%",
+   "label": "Q3 2026 net profit: SAR 635.1M",
+   "note": "Revenue rose 32.7% to SAR 2.2B in the quarter. Tadawul filing, 5 November."
+  },
+  {
+   "type": "stat",
+   "eyebrow": "The nine months",
+   "number": "+0.6%",
+   "label": "9M 2026 net profit: SAR 1.29B vs SAR 1.28B",
+   "note": "Operating income fell to SAR 2.55B from SAR 2.79B."
+  },
+  {
+   "type": "bars",
+   "eyebrow": "Same company, two readings",
+   "title": "Change vs last year",
+   "bars": [
+    {
+     "label": "Q3 net profit",
+     "value": 71.1,
+     "display": "+71.1%",
+     "highlight": true
+    },
+    {
+     "label": "Q3 revenue",
+     "value": 32.7,
+     "display": "+32.7%"
+    },
+    {
+     "label": "9M revenue",
+     "value": 16,
+     "display": "+16%"
+    },
+    {
+     "label": "9M net profit",
+     "value": 0.6,
+     "display": "+0.6%"
+    },
+    {
+     "label": "9M operating income",
+     "value": 8.8,
+     "display": "-8.8%"
+    }
+   ]
+  },
+  {
+   "type": "stat",
+   "eyebrow": "The build",
+   "number": "46.2 GW",
+   "label": "Under construction across 29 projects",
+   "note": "SAR 30B of non-recourse funding raised in 2026. Total portfolio: 98.2 GW."
+  },
+  {
+   "type": "points",
+   "eyebrow": "What's behind it",
+   "title": "Why the quarter and the year differ",
+   "points": [
+    "Development fees are booked at project milestones, and Acwa says milestones slipped this year.",
+    "Funding costs are higher, and newly operational plants add financing costs.",
+    "Earnings will depend on when the 29 projects switch on, and at what funding cost."
+   ]
+  },
+  {
+   "type": "end",
+   "eyebrow": "What I'll watch",
+   "text": "Q4 milestones and full-year operating income.",
+   "question": "Quarter or year to date: which do you read first?"
+  }
+ ]
+}
