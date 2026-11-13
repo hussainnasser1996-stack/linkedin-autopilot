@@ -27,3 +27,4 @@
 - 2026-11-12: Gulf VC & venture building: Saudi VC $1B in 9M 2026, two mega deals = 56%, non-mega -50%, intl investors -51% (autopilot, auto)
 - 2026-11-13: Data centres & power for AI: who keeps the margin, Nvidia $66 vs Equinix $23 vs CoreWeave -$2 operating profit per $100; HUMAIN builds the thin layers, levers are power and capital (deep dive, auto)
 - 2026-11-14: PE, buyouts & M&A: Unity at a reported $25B from Silver Lake and PIF, about 24x run-rate EBITDA and 3.5% FCF yield, so the case rests on ads growth (autopilot, auto)
+- 2026-11-15: Games & interactive: China cleared Savvy's >$6B Moonton purchase unconditionally; ByteDance paid ~$4B in 2021; with Scopely $4.9B, Savvy >$10.9B on two mobile studios, teams left in charge (autopilot, auto)

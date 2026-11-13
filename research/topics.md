@@ -55,7 +55,7 @@
   - Deal value about $6bn ("more than $6 billion"), seller ByteDance, agreed March 2026 — PocketGamer.biz (confirmed by Arab News https://www.arabnews.pk/node/2637062)
   - ByteDance bought Moonton in 2021 for about $4bn — PocketGamer.biz (single source; phrase as "reported")
 - Card: compare — "2021: ByteDance buys Moonton, ~$4bn" vs "2026: Savvy buys Moonton, ~$6bn"
-- Status: open
+- Status: used 2026-11-15
 
 ### 5. Acwa Q3: profit +71% in the quarter, flat for nine months · Pillar 1 · Score 21/25 · Use: any day
 - Angle: One strong quarter doesn't make a trend. Nine-month profit is flat while the portfolio keeps growing, so the earnings question is timing, not demand.
