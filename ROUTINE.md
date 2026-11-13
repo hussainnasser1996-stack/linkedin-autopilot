@@ -17,7 +17,7 @@ Work in this repo. Never print or log any API key.
 | Sun | card | as below (the Sunday sweep also drafts the weekly newsletter issue) |
 | Mon | **carousel** | PDF document post, 6-8 slides (step 3B) |
 | Tue | card | as below |
-| Wed | card | (video is a separate experiment made on the Mac; skip Wed only if `queue/<date>/` already exists) |
+| Wed | card | (video is a separate experiment made on the Mac, always SILENT with on-screen captions, no voice; skip Wed only if `queue/<date>/` already exists) |
 | Thu | **carousel** | PDF document post, 6-8 slides (step 3B) |
 | Fri | **Arabic** | Arabic caption + Arabic card (`"lang": "ar"`), step 3C. Saved as a Buffer DRAFT while CONTROL.md `arabic_mode: review` |
 | Sat | **poll** | Buffer cannot post polls: write `queue/<date>/poll.md` only (step 3D), no Buffer call |
