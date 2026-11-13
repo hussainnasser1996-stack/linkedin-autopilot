@@ -42,4 +42,6 @@ jobs:
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
       - name: Alert on failure
         if: failure()
-        run: curl -s -H "Priority: high" -H "Title: LinkedIn: Buffer scheduling FAILED" -d "See GitHub Actions run ${{ github.run_id }} in linkedin-autopilot" "https://ntfy.sh/$(python -c "import json;print(json.load(open('config.json'))['ntfy_topic'])")"
+        run: |
+          TOPIC=$(python -c "import json;print(json.load(open('config.json'))['ntfy_topic'])")
+          curl -s -H "Priority: high" -H "Title: LinkedIn - Buffer scheduling FAILED" -d "See GitHub Actions run ${{ github.run_id }} in linkedin-autopilot" "https://ntfy.sh/$TOPIC"
