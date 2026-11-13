@@ -33,7 +33,7 @@ A daily cloud pipeline with no Mac involved. A Claude cloud routine researches t
 
 ## LIVE (10 Nov 2026)
 - Buffer Free plan (no upgrade). Sources go in the post above the hashtags; no first comment.
-- Buffer key in Mac Keychain (`security find-generic-password -s buffer-api-key -w`) and as network secret in cloud env "LinkedIn Autopilot" (env_01KxKYZEnh5kCRNDjGJYebt1, Full network).
+- Buffer key in Mac Keychain (`security find-generic-password -s buffer-api-key -w`) and as network secret in cloud env "LinkedIn Autopilot" (env_01485b9bHjK4NVP9E31BqLLN since 13 Nov — old env archived; secrets api.buffer.com + api.apify.com, Full network).
 - config.json: org 6af2e67f1fcb3809252ef525, channel 6af2e6fd62b70b94b0dffb14. linkedin_orgs still empty (company tags off).
 - Claude GitHub app installed on ALL repos.
 - Routine trig_01GAp2AkZDTXmm7MptzDUptN, cron `0 2 * * *` UTC = 05:00 KSA daily (switched 10 Nov), Opus 5.5, no connectors: https://claude.ai/code/routines/trig_01GAp2AkZDTXmm7MptzDUptN
