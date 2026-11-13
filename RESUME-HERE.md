@@ -3,7 +3,7 @@
 ## 13 Nov 2026 (evening) — formats status
 - Newsletter "Gulf Deal Notes" LIVE: https://www.linkedin.com/newsletters/7527033995272978432/ (weekly; tagline "Where Gulf money goes: the deals, funds and results that matter, at home and abroad."). Sunday sweep drafts each issue (SWEEP 4B), he publishes.
 - Arabic: style guide guidance/arabic-style.md (write natively, banned translation phrases, Saudi finance glossary). Test v2 = Buffer draft 6af739ca38a1decc74968097 (v3, shortened) (due 30 Dec, not for publishing). He said Arabic needs more work: waiting for his notes on v2. Fridays stay DRAFT (arabic_mode: review).
-- Video experiment: Ma'aden Q3 2026 reel, 45 s, his cloned EN voice + captions, figures OCR-verified. Buffer DRAFT 6af7390f8d0c11f906130daa due Wed 18 Nov 09:00 KSA; posts only if he approves. queue/2026-11-18 reserved so the routine skips that day. Voice job: Making Audio/voice-clone/jobs/maaden-reel-2026-11 (say "Mah-ah-den" for Ma'aden).
+- Video experiment: Ma'aden Q3 2026 reel, 45 s, his cloned EN voice + captions, figures OCR-verified. Buffer DRAFT 6af73e8a22cd418aa2da5797 (SILENT, no voice — his call) due Wed 18 Nov 09:00 KSA; posts only if he approves. queue/2026-11-18 reserved so the routine skips that day. Voice job: Making Audio/voice-clone/jobs/maaden-reel-2026-11 (say "Mah-ah-den" for Ma'aden).
 - Old test drafts still in Buffer: carousel test 6af7106c4f78da1d8ba47de5 (delete after he has seen it).
 
 ## Hussain's absolute rules (apply in every session)
