@@ -51,22 +51,22 @@
 | Savola Group | Sameh Hassan, Group CEO (per 2026 press; verify) | suggested 2026-11-13 |
 | Alsulaiman Group | Saud Alsulaiman, CEO | suggested 2026-11-13 |
 | Algihaz Holding | Sami Al Angari, CEO & Vice Chairman | suggested 2026-11-13 |
-| Zamil Group Holding | Adib Al Zamil, CEO; Khalid AlZamil, Chairman | open |
-| AlKifah Holding | Osama Al Afaleq, Vice Chairman | open |
+| Zamil Group Holding | Adib Al Zamil, CEO; Khalid AlZamil, Chairman | suggested 2026-11-13 |
+| AlKifah Holding | Osama Al Afaleq, Vice Chairman | suggested 2026-11-13 |
 | AlRajhi Partners | Saad AlGheriri, CEO; Mosbah Kahaleh, Director | done |
-| Fawaz Alhokair (family investment office) | Fawaz Alhokair, founder | open |
-| Abdul Latif Jameel (ALJ) | Mohammed Abdul Latif Jameel KBE, Chairman | open |
-| Alkhorayef Group | Saad Alkhorayef, Chairman | open |
-| Sinad Holding (formerly Aseer Trading, Tourism & Manufacturing) | Jameel Abdullah Al Molhem, CEO | open |
-| Saudi Advanced Industries Co. (SAIC) | Fares Al-Fares, CEO | open |
-| SISCO Holding (Sustained Infrastructure Holding) | Saleh Hefni, Managing Director | open |
-| Al Moammar Information Systems (MIS) | Ibrahim Al Moammar, Vice Chairman (interim executive lead) | open |
-| Arabian Internet & Communications Services (solutions by stc) | Omar Al Nomani, CEO | open |
-| Bawan Company | Zeyad Al Barrak, Acting CEO (from Dec 2025) | open |
-| Ataa Educational Co. | Ibrahim Abdulkarim Al-Turki, CEO (2021 source; verify) | open |
-| Seera Group Holding | Majed Al-Nefaie, CEO (per press; verify) | open |
-| BinDawood Holding | Ahmad BinDawood, CEO | open |
-| Tasnee (National Industrialization Co.) | Fahad Al-Mishal, CEO (from 1 Oct 2026) | open |
+| Fawaz Alhokair (family investment office) | Fawaz Alhokair, founder | suggested 2026-11-13 |
+| Abdul Latif Jameel (ALJ) | Mohammed Abdul Latif Jameel KBE, Chairman | suggested 2026-11-13 |
+| Alkhorayef Group | Saad Alkhorayef, Chairman | suggested 2026-11-13 |
+| Sinad Holding (formerly Aseer Trading, Tourism & Manufacturing) | Jameel Abdullah Al Molhem, CEO | suggested 2026-11-13 |
+| Saudi Advanced Industries Co. (SAIC) | Fares Al-Fares, CEO | suggested 2026-11-13 |
+| SISCO Holding (Sustained Infrastructure Holding) | Saleh Hefni, Managing Director | suggested 2026-11-13 |
+| Al Moammar Information Systems (MIS) | Ibrahim Al Moammar, Vice Chairman (interim executive lead) | suggested 2026-11-13 |
+| Arabian Internet & Communications Services (solutions by stc) | Omar Al Nomani, CEO | suggested 2026-11-13 |
+| Bawan Company | Zeyad Al Barrak, Acting CEO (from Dec 2025) | suggested 2026-11-13 |
+| Ataa Educational Co. | Ibrahim Abdulkarim Al-Turki, CEO (2021 source; verify) | suggested 2026-11-13 |
+| Seera Group Holding | Majed Al-Nefaie, CEO (per press; verify) | suggested 2026-11-13 |
+| BinDawood Holding | Ahmad BinDawood, CEO | suggested 2026-11-13 |
+| Tasnee (National Industrialization Co.) | Fahad Al-Mishal, CEO (from 1 Oct 2026) | suggested 2026-11-13 |
 | Savvy Games Group | Turqi Alnowaiser, interim CEO (after Brian Ward stepped down, Sep 2026) | open |
 | Manga Productions (Misk) | Dr. Essam Bukhary, CEO | open |
 | Saudi Research & Media Group (SRMG) | Jomana Al Rashid, CEO | open |
