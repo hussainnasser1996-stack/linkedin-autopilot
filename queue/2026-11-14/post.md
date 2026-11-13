@@ -1,6 +1,6 @@
 # 2026-11-14 — Unity at a reported $25B: what a buyer has to believe
 
-Pillar: PE, buyouts & M&A · Card: bars · Mode: auto (scheduled) · Buffer post id: 6af51eca8a1a2f52b517dde9
+Pillar: PE, buyouts & M&A · Card: bars · Mode: auto (scheduled) · Buffer post id: 6af739b9705172d78f6bbde9 (caption shortened + neutral 13 Nov)
 Image: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/main/cards/2026-11-14-unity-pif-silver-lake.png
 Bank candidate: research/topics.md #2 (re-checked 2026-11-12: still reported talks, no deal agreed). Candidate #1 (HUMAIN financing) skipped: overlaps the 13 Nov post (Aramco SAR 9.9B, Infra SAR 2.5B).
 

@@ -1,6 +1,6 @@
 # 2026-11-15 — Savvy × Moonton: China clears a $6B Saudi games deal
 
-Pillar: Games & interactive · Card: compare · Mode: auto (scheduled) · Buffer post id: 6af6705fc1a0010a5bf11513
+Pillar: Games & interactive · Card: compare · Mode: auto (scheduled) · Buffer post id: 6af739bc38a1decc74967db1 (caption shortened + neutral 13 Nov)
 Image: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/main/cards/2026-11-15-savvy-moonton-china-approval.png
 Company tag: Savvy Games Group (start 48, length 17).
 Bank candidate: research/topics.md #4. Skipped #1 (HUMAIN financing, overlaps 13 Nov post) and #3 (MENA October funding: Gulf capital pillar, and its mega-deal angle overlaps the 12 Nov Saudi VC post).
