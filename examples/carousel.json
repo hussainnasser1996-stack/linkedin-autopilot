@@ -1,0 +1,21 @@
+{
+  "title": "Saudi VC 9M 2026: two deals carry the headline",
+  "sources": "MAGNiTT KSA Venture Capital Q3 2026 update; entARABI, 5 Nov 2026",
+  "slides": [
+    {"type": "cover", "eyebrow": "Saudi VC · 9M 2026", "title": "$1B raised.", "highlight": "Two deals made up 56%.", "sub": "What the headline hides, in 6 slides."},
+    {"type": "stat", "eyebrow": "The headline", "number": "$1.0B", "label": "Raised by Saudi startups in the first nine months of 2026", "note": "113 deals. Funding down 29% and deal count down 39% on the same period last year."},
+    {"type": "stat", "eyebrow": "The concentration", "number": "$563M", "label": "Two mega rounds, 56% of the total", "note": "Take them out and the rest of the market is back at 9M 2024 levels."},
+    {"type": "bars", "eyebrow": "Change vs 9M 2025", "title": "Who pulled back most", "bars": [
+      {"label": "International investor participation", "value": 51, "display": "-51%", "highlight": true},
+      {"label": "Funding outside the two mega rounds", "value": 50, "display": "-50%"},
+      {"label": "Deal count", "value": 39, "display": "-39%"},
+      {"label": "Total funding", "value": 29, "display": "-29%"},
+      {"label": "Active investors", "value": 26, "display": "-26%"},
+      {"label": "Series A deals", "value": 17, "display": "-17%"}]},
+    {"type": "points", "eyebrow": "Three things I'd take from it", "title": "Read past the total", "points": [
+      "Two rounds worth $563M carry the headline. The rest is back at 9M 2024 levels.",
+      "International investors pulled back the most, so more depends on how steadily local funds deploy.",
+      "Series A held up better (-17%). Companies with traction are still raising."]},
+    {"type": "end", "eyebrow": "What I'll watch", "text": "Next quarter I'll watch non-mega funding before the headline total.", "question": "Founders and fund managers: does this match your pipeline?"}
+  ]
+}

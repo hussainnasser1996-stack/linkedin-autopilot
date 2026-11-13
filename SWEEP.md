@@ -54,6 +54,18 @@ Format exactly:
 ```
 Then commit to `main` with message `sweep: week of <date>` and push to `main`.
 
+
+## 4B. Draft the weekly newsletter issue (LinkedIn newsletter, published by Hussain)
+LinkedIn has no API for newsletter issues, so this is a ready-to-paste draft. Write `research/newsletter/<YYYY-MM-DD>.md`:
+- Title (max 70 chars) and a one-line subtitle.
+- 500-800 words in his voice (voice-examples.md): "The week in Gulf deals" — the 3 strongest stories of the past 7 days from
+  this sweep (each: what happened, 2-3 figures with sources, one line on why it matters), then "What I'm watching next week"
+  from the Calendar (2-4 dated items). Close with one question to readers.
+- Every figure from a source fetched this run, sources as plain links under each story. Hard rules + humanizer pass apply.
+- Cover image: render a `statement` card (one line headline of the week) to `research/newsletter/<date>-cover.png`,
+  host it in the cards repo `cards/newsletter-<date>.png` (same as daily step 4), put the URL at the top of the draft.
+- Commit with the sweep. Then a second push: Title `Newsletter draft ready <date>`, body = title + first two lines.
+
 ## 5. Notify his phone
 One push with curl to `https://ntfy.sh/<config.json ntfy_topic>`:
 Title `LinkedIn topic bank ready: week of <date>`, body = the top 3 working titles, one per line.

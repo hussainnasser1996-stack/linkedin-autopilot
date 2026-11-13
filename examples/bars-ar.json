@@ -1,0 +1,15 @@
+{
+  "type": "bars",
+  "lang": "ar",
+  "eyebrow": "رأس المال الجريء في السعودية · 9 أشهر 2026",
+  "title": "مليار دولار في 9 أشهر.",
+  "highlight": "صفقتان شكّلتا 56% منها.",
+  "bars": [
+    {"label": "المستثمرون الدوليون", "value": 51, "display": "-51%", "highlight": true},
+    {"label": "خارج الصفقتين الكبيرتين", "value": 50, "display": "-50%"},
+    {"label": "عدد الصفقات", "value": 39, "display": "-39%"},
+    {"label": "إجمالي التمويل", "value": 29, "display": "-29%"}
+  ],
+  "bars_caption": "التغير مقارنة بالأشهر التسعة الأولى من 2025",
+  "sources": "MAGNiTT · entARABI"
+}

@@ -11,6 +11,18 @@ Work in this repo. Never print or log any API key.
 3. If `mode: paused` → stop. If `mode: auto` and today is after `approval_until` → set `mode: review`
    in CONTROL.md (commit it) and continue in review mode.
 
+## Format by weekday (target date, Asia/Riyadh)
+| Day | Format | How |
+|---|---|---|
+| Sun | card | as below (the Sunday sweep also drafts the weekly newsletter issue) |
+| Mon | **carousel** | PDF document post, 6-8 slides (step 3B) |
+| Tue | card | as below |
+| Wed | card | (video is a separate experiment made on the Mac; skip Wed only if `queue/<date>/` already exists) |
+| Thu | **carousel** | PDF document post, 6-8 slides (step 3B) |
+| Fri | **Arabic** | Arabic caption + Arabic card (`"lang": "ar"`), step 3C. Saved as a Buffer DRAFT while CONTROL.md `arabic_mode: review` |
+| Sat | **poll** | Buffer cannot post polls: write `queue/<date>/poll.md` only (step 3D), no Buffer call |
+If `queue/<date>/` already exists for the target date (made by hand), treat that date as taken and move on.
+
 ## 1. Research (15 searches max)
 - First read `research/topics.md` (the weekly sweep's ranked bank). Take the highest-ranked candidate with
   `Status: open` whose pillar is not the same as the last entry in history.md, whose `Use:` date allows the
@@ -45,7 +57,33 @@ Work in this repo. Never print or log any API key.
 - Open the PNG and look at it. Text must not overflow or overlap; fix the JSON (shorter labels/sentence)
   and re-render until clean. Card figures must equal caption figures.
 
-## 4. Host the image
+
+## 3B. Carousel (Mon, Thu) instead of the card
+- Write `queue/<date>/carousel.json` (schema in `scripts/render_carousel.py` docstring, example `examples/carousel.json`):
+  cover (dark) → 1 slide per key number (stat/bars) → points (max 4, one idea each) → end (dark: what you'll watch + the question).
+  6-8 slides. One idea per slide, short lines; every figure must match the caption and the sources.
+- Render: `python3 scripts/render_carousel.py queue/<date>/carousel.json queue/<date>/` → carousel.pdf + cover.png.
+  Open cover.png and render 2-3 inner pages to PNG (PyMuPDF if available, else Chrome screenshot) and look at them;
+  fix overflow and re-render. Caption: same rules, but end the hook with a reason to swipe; keep it shorter (the slides carry the detail).
+- Host: copy carousel.pdf to the cards repo `docs/<date>-<slug>.pdf` and cover.png to `cards/<date>-<slug>-cover.png`; push; check both URLs return 200.
+- post.json: `document_url`, `document_title` (max 58 chars), `thumbnail_url` (the cover) instead of `image_url`.
+
+## 3C. Arabic (Fri)
+- Same research and fact rules. Write the caption in clear Modern Standard Arabic as a Saudi finance professional would write it on
+  LinkedIn: short lines, plain words, no flowery phrases, no religious openers, Western digits (2026, 56%), company names in their usual
+  form (Latin names like MAGNiTT stay Latin). Keep his structure: hook number → list → "أمران ألاحظهما:" style points → one question.
+  Hashtags: 2 Arabic + 1-2 English. No harakat. Then the humanizer pass, applied to Arabic (cut filler, inflated words, triads).
+- Card: same JSON with `"lang": "ar"` (all text in Arabic, sources may stay Latin). Render and look at it.
+- If CONTROL.md `arabic_mode: review` (default) → post.json `"draft": true` even when mode is auto. Push title says "Arabic DRAFT".
+
+## 3D. Poll (Sat)
+- Write `queue/<date>/poll.md`: an intro text (2-4 short lines with the one fact that sets it up + source), the question
+  (max 140 chars), 2-4 options (max 30 chars each), duration 1 week. Options must be neutral and mutually exclusive; no option that
+  needs a figure we can't source. Humanizer pass on the intro.
+- No Buffer call. Commit, then push to the phone: Title `LinkedIn POLL ready <date>`, body = intro, question and options exactly as
+  they should be pasted. (The Mac session or Hussain posts it at 09:00.)
+
+## 4. Host the image (card days)
 - Copy the PNG to the public cards repo (`config.json` → `cards_repo`, cloned via the GitHub proxy):
   path `cards/<YYYY-MM-DD>-<slug>.png`, commit and push to its `main` branch.
 - Image URL = `https://raw.githubusercontent.com/<cards_repo>/main/cards/<file>`.

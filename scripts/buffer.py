@@ -13,6 +13,8 @@ Commands:
 
 post.json:
   {"channel_id": "...", "text": "...", "image_url": "https://...png",
+   # or "document_url": "https://...pdf", "document_title": "...", "thumbnail_url": "https://...png"  (carousel)
+   # or "video_url": "https://...mp4", "thumbnail_url": "..."                                       (video)
    "first_comment": "...", "due_at": "2026-11-12T06:00:00.000Z",
    "annotations": [ {id, entity, length, link, localizedName, start, vanityName} ]  # optional company tags
   }
@@ -46,6 +48,11 @@ def channels(org):
     print(json.dumps(gql(q, {"o": org}), indent=2))
 
 
+def delete(post_id):
+    q = """mutation($i: DeletePostInput!){ deletePost(input:$i){ __typename ... on MutationError { message } } }"""
+    print(json.dumps(gql(q, {"i": {"id": post_id}}), indent=2))
+
+
 def scheduled(org):
     q = """query($o: OrganizationId!){ posts(first: 20, input:{organizationId:$o, filter:{status:[scheduled]},
            sort:[{field: dueAt, direction: asc}]}){ edges{ node{ id text dueAt status } } } }"""
@@ -71,7 +78,13 @@ def schedule(path):
     if p.get("draft"):
         inp["saveToDraft"] = True
     inp["aiAssisted"] = True
-    if p.get("image_url"):
+    if p.get("document_url"):   # carousel = PDF document post
+        inp["assets"] = [{"document": {"url": p["document_url"], "title": p.get("document_title", "")[:58],
+                                       **({"thumbnailUrl": p["thumbnail_url"]} if p.get("thumbnail_url") else {})}}]
+    elif p.get("video_url"):
+        inp["assets"] = [{"video": {"url": p["video_url"],
+                                    **({"thumbnailUrl": p["thumbnail_url"]} if p.get("thumbnail_url") else {})}}]
+    elif p.get("image_url"):
         inp["assets"] = [{"image": {"url": p["image_url"]}}]
     if li:
         inp["metadata"] = {"linkedin": li}
@@ -86,5 +99,5 @@ def schedule(path):
 
 if __name__ == "__main__":
     cmd, *args = sys.argv[1:] or ["help"]
-    {"orgs": orgs, "channels": channels, "scheduled": scheduled, "schedule": schedule}.get(
+    {"orgs": orgs, "channels": channels, "scheduled": scheduled, "schedule": schedule, "delete": delete}.get(
         cmd, lambda *a: sys.exit(__doc__))(*args)

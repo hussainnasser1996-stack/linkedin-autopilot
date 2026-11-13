@@ -9,6 +9,7 @@ Card types (field "type"):
                + optional 3-column stage strip + sources        (Post-23 style)
   compare    - eyebrow + title + two columns of short items      (Post-14 style)
 See examples/ for one JSON per type.
+Optional "lang": "ar" renders right-to-left in IBM Plex Sans Arabic (bundled in templates/fonts).
 """
 import html, json, os, shutil, subprocess, sys, tempfile
 from pathlib import Path
@@ -55,6 +56,19 @@ h1 span{color:#B8960F}
 .src{font-size:28px;color:#64748B;text-align:right;line-height:1.5;max-width:900px}
 """
 
+AR_CSS = """
+@font-face{font-family:PlexAr;font-weight:400;src:url('FONTS/IBMPlexSansArabic-Regular.ttf')}
+@font-face{font-family:PlexAr;font-weight:500;src:url('FONTS/IBMPlexSansArabic-Medium.ttf')}
+@font-face{font-family:PlexAr;font-weight:600;src:url('FONTS/IBMPlexSansArabic-SemiBold.ttf')}
+@font-face{font-family:PlexAr;font-weight:700;src:url('FONTS/IBMPlexSansArabic-Bold.ttf')}
+html,body{direction:rtl;font-family:PlexAr,Inter,sans-serif}
+.eye,.tag,.st h3,.col h3{letter-spacing:0}
+h1,.big{letter-spacing:0;line-height:1.3}
+.src{text-align:left}
+.val,.bar{direction:ltr}
+.row{grid-template-columns:600px 1fr}
+"""
+
 
 def title_html(c):
     t = e(c["title"])
@@ -75,7 +89,7 @@ def body_bars(c):
     mx = max(float(b["value"]) for b in bars) or 1
     rows = "".join(
         f'<div class="row"><div class="name">{e(b["label"])}</div><div class="barw">'
-        f'<div class="bar{" hl" if b.get("highlight") else ""}" style="width:{int(1100*float(b["value"])/mx)}px"></div>'
+        f'<div class="bar{" hl" if b.get("highlight") else ""}" style="width:{int((1000 if c.get('lang')=='ar' else 1100)*float(b["value"])/mx)}px"></div>'
         f'<div class="val">{e(b["display"])}</div></div></div>'
         for b in bars)
     tag = f'<div class="tag">{e(c["bars_caption"])}</div>' if c.get("bars_caption") else ""
@@ -100,8 +114,9 @@ BODIES = {"statement": body_statement, "bars": body_bars, "compare": body_compar
 
 
 def build_html(c):
-    src = f'<div class="src">Sources: {e(c["sources"])}</div>' if c.get("sources") else "<div></div>"
-    css = BASE_CSS.replace("FONTS", FONTS.as_uri())
+    lab = "المصادر" if c.get("lang") == "ar" else "Sources"
+    src = f'<div class="src">{lab}: {e(c["sources"])}</div>' if c.get("sources") else "<div></div>"
+    css = (BASE_CSS + (AR_CSS if c.get("lang") == "ar" else "")).replace("FONTS", FONTS.as_uri())
     return (f'<!doctype html><html><head><meta charset="utf-8"><style>{css}</style></head><body>'
             f'{BODIES[c["type"]](c)}'
             f'<div class="foot"><div class="sig"><div class="l"></div><div>Hussain Nasser</div></div>{src}</div>'
