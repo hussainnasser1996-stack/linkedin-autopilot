@@ -25,6 +25,8 @@ If `engage/<today>.md` already exists, stop.
   two ideas in one comment, claims about his own deals, clients or data, big market-knowledge claims, disagreement or
   corrections, fees, selling, links, hashtags, emojis, dashes.
 - Run the humanizer (`guidance/humanizer.md`, Embedded mode) on every comment. Do not add any fact not in the post.
+- Skip any post about politics, geopolitics, conflicts or a GCC government/ruler/sovereign fund decision, and never comment
+  anything critical of a GCC state body, person or company (GUIDANCE Hard rules: Gulf sensitivity, no harm).
 
 ## 3. Connect suggestions (15)
 - Take 15 rows with Status `open` from `engage/targets.md`, preferring rows that already have a profile URL in a 4th column.

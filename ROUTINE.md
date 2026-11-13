@@ -43,6 +43,9 @@ If `queue/<date>/` already exists for the target date (made by hand), treat that
 - Caption per GUIDANCE "Post format", in Hussain's voice (voice-examples.md rhythm).
 - Sources line inside the caption, just above the hashtags (no first comment: Buffer Free plan).
 - Self-check against every Hard rule; rewrite if any fails. Check every number in caption against sources.
+- Sensitivity check (read the caption and card as a GCC government official would): anything that could read as criticism of a
+  GCC state body, ruler or sovereign fund, any geopolitics/conflict, anything that blames or mocks a person or company → remove it,
+  or skip the day. Simplicity check: 80-150 words, one idea, max 2 points; cut anything a busy reader doesn't need.
 - Humanizer pass: read `guidance/humanizer.md` in full and apply it to the caption in Embedded mode.
   The writing sample is `guidance/voice-examples.md` (it overrides the patterns, e.g. keep his "Two things: 1… 2…"
   and line-break rhythm). Do not add or drop any fact, number, name or source. Then re-check every number
@@ -79,7 +82,7 @@ If `queue/<date>/` already exists for the target date (made by hand), treat that
 
 ## 3D. Poll (Sat)
 - Write `queue/<date>/poll.md`: an intro text (2-4 short lines with the one fact that sets it up + source), the question
-  (max 140 chars), 2-4 options (max 30 chars each), duration 1 week. Options must be neutral and mutually exclusive; no option that
+  (max 140 chars), 2-4 options (max 30 chars each), duration 1 week. Options must be neutral and mutually exclusive, never about a government, policy or country comparison; no option that
   needs a figure we can't source. Humanizer pass on the intro.
 - No Buffer call. Commit, then push to the phone: Title `LinkedIn POLL ready <date>`, body = intro, question and options exactly as
   they should be pasted. (The Mac session or Hussain posts it at 09:00.)

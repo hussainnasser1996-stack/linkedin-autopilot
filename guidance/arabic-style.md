@@ -55,6 +55,8 @@ Hook number (1-2 lines) → short list of figures → "ملاحظتان:" with 2
 one question to the reader → sources line "المصادر:" → hashtags: 2 Arabic + 1-2 English.
 
 ## 6. Final check (do all, every time)
+0. Gulf sensitivity and no-harm rules from GUIDANCE.md apply even more strongly in Arabic: nothing that could read as
+   criticism of any GCC state body, ruler or sovereign fund; no politics; neutral wording on weak results.
 1. Read every sentence and ask: would a Saudi analyst write this exact sentence? If it looks like word-for-word English, rewrite it.
 2. Scan the table in section 3; none of the left-column phrases may appear.
 3. No minus signs, no harakat, no Eastern digits, numbers match the sources exactly.

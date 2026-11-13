@@ -59,10 +59,10 @@ Then commit to `main` with message `sweep: week of <date>` and push to `main`.
 Newsletter: "Gulf Deal Notes" (https://www.linkedin.com/newsletters/7527033995272978432/), tagline "Where Gulf money goes: the deals, funds and results that matter, at home and abroad." Each issue covers Gulf deals at home AND Gulf money abroad (PIF, Mubadala, ADIA, QIA, ADQ deals in the US/Europe/Asia) — at least one of the 3 stories should be Gulf capital abroad when one exists that week.
 LinkedIn has no API for newsletter issues, so this is a ready-to-paste draft. Write `research/newsletter/<YYYY-MM-DD>.md`:
 - Title (max 70 chars) and a one-line subtitle.
-- 500-800 words in his voice (voice-examples.md): "The week in Gulf deals" (title must not repeat the newsletter name) — the 3 strongest stories of the past 7 days from
-  this sweep (each: what happened, 2-3 figures with sources, one line on why it matters), then "What I'm watching next week"
+- 250-400 words, simple and short, in his voice (voice-examples.md): "The week in Gulf deals" (title must not repeat the newsletter name) — the 3 strongest stories of the past 7 days from
+  this sweep (each: what happened in 1-2 lines, ONE key figure with source, one line on why it matters, and ONE chart card rendered with scripts/render_card.py and hosted like the cover, URL under the story), then "What I'm watching next week"
   from the Calendar (2-4 dated items). Close with one question to readers.
-- Every figure from a source fetched this run, sources as plain links under each story. Hard rules + humanizer pass apply.
+- Every figure from a source fetched this run, sources as plain links under each story. All GUIDANCE Hard rules (incl. Gulf sensitivity, no harm, no bullshit) + full humanizer pass apply.
 - Cover image: render a `statement` card (one line headline of the week) to `research/newsletter/<date>-cover.png`,
   host it in the cards repo `cards/newsletter-<date>.png` (same as daily step 4), put the URL at the top of the draft.
 - Commit with the sweep. Then a second push: Title `Newsletter draft ready <date>`, body = title + first two lines.

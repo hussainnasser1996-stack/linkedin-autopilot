@@ -34,8 +34,9 @@ company, what it does, latest fact, source) · Trends · GCC angle · Bull vs be
 Sources (every URL). Plain language, no hype, every figure with its source.
 
 ## 4. Write the post
-- Longer than a daily post: 250–400 words (under 3,000 characters). Hook in line 1 with the sharpest number.
-- Structure: the question → 3 numbered findings with figures → the GCC angle → what he'll watch next →
+- A bit longer than a daily post: 150–250 words, kept simple (GUIDANCE "Keep it simple"). Hook in line 1 with the sharpest number.
+- Visual: a carousel (scripts/render_carousel.py) or bars card with the key chart, never a statement card.
+- Structure: the question → 2-3 short numbered findings with figures → the GCC angle → what he'll watch next →
   one honest question to readers. Sources line above the hashtags; 5–6 hashtags.
 - All GUIDANCE Hard rules apply (no fund names, holdings, or internal details; never present a company as one
   he or his funds own or track; never mention General Intuition).

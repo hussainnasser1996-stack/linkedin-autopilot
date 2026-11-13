@@ -36,7 +36,7 @@ Rules for the mix:
 
 ## Weekly rhythm (KSA time; posts publish 09:00 Asia/Riyadh)
 - One post every day, 7 days a week (about 30 a month).
-- Each week: at least two bars/data cards, at most one reflection (Builder's notes).
+- Each week: data visuals on every numbers post, at most one reflection (Builder's notes, statement card).
 
 ## Research rules
 - Only use news from the last 14 days (results/data can be from the latest reporting period).
@@ -46,6 +46,10 @@ Rules for the mix:
 - If a figure can't be confirmed in two places (or one primary), drop it or phrase it as "reported".
 - Say "I couldn't find" rather than "there is no".
 
+## Humanizer (mandatory, every piece of text)
+Every caption, carousel slide, card line, poll intro, newsletter issue, deep-dive post, comment, reply and Arabic post goes
+through `guidance/humanizer.md` before it is saved or scheduled. No exceptions. Simple and human beats clever.
+
 ## Hard rules (never break)
 - Never mention CFA (FMVA is fine). No Arabic name or transliterations.
 - No Singular Link or Revival Lab figures, NAVs, valuations, deal terms, portfolio company names, or internal details.
@@ -54,17 +58,33 @@ Rules for the mix:
 - Don't call himself "investor" as an identity line; don't write "based in Riyadh".
 - Don't lecture senior people or claim insider knowledge. Confident on public data, humble on judgement.
 - No politics, religion, or criticism of Saudi government bodies. Constructive framing on Vision 2030.
+- **Gulf sensitivity (Hussain, 13 Nov 2026, absolute):** nothing against any GCC government, ruler, royal family, ministry,
+  regulator, central bank or sovereign fund (PIF, Mubadala, ADIA, QIA, ADQ, KIA…), in any country. No geopolitics, wars,
+  conflicts, sanctions, regional disputes or security events, even as the cause of a number (write "higher costs", not
+  the conflict behind them). Never compare GCC countries to make one look bad. Policy and state programmes are described
+  neutrally or constructively, never judged.
+- **No harm to anyone:** no mocking, blaming or naming-and-shaming of a person, company, founder or fund. A weak result is
+  reported neutrally with the company's own explanation. No rumours or gossip; reported deals only from a top source,
+  worded "reported".
+- **No bullshit:** every claim is a sourced fact or clearly his opinion. No made-up trends, no "everyone is…", no
+  predictions presented as fact, no inflated adjectives. If a fact can't be checked, drop it.
+- **When in doubt, leave it out** (or skip the day). A missed post costs nothing; a wrong or sensitive one costs his name.
 - No emojis. No "leverage/synergy/unlock value". No hype ("game-changer", "revolutionary").
 
 ## Post format
-- 120–220 words. Hook in line 1 (a number or a sharp claim). Short paragraphs, many line breaks.
-- Numbered points when listing ("Two things: 1… 2…").
+- **Keep it simple and short (Hussain, 13 Nov 2026):** 80–150 words. One idea per post. Plain words a busy reader gets
+  in 20 seconds; no jargon without a 3-word explanation; no long sentences (max ~20 words).
+- Hook in line 1 (a number or a sharp claim). Short paragraphs, many line breaks.
+- Numbered points when listing, max 2 points ("Two things: 1… 2…").
 - End with one honest question to the reader.
 - Sources line just above the hashtags: "Sources: …" (names, not URLs unless short). No first comment (Buffer Free plan).
 - Hashtags: 5–6 on the last line. Core: #VentureCapital #GCC #SaudiArabia; add 2–3 topic tags (#Gaming #GameDev #AI #Vision2030 #VentureBuilding …).
 - Tag at most 2 company pages, only ones named in the post, and only positive/neutral mentions.
 
 ## Card
+- **Every post carries a visual (Hussain, 13 Nov 2026):** a chart whenever the story has numbers (bars, compare, carousel
+  with charts, video). `statement` cards at most once a week, only for reflections. The chart shows the one number that
+  makes the point; the caption does not repeat every figure on the card.
 - Types: `bars` (data), `statement` (one sharp line), `compare` (two columns). See examples/.
 - Eyebrow = the pillar name in short (e.g. "Saudi results", "Gulf capital × games", "Market take").
 - Card text must agree with the caption figures exactly.
