@@ -10,6 +10,7 @@
   - Esports Nations Cup (Riyadh, originally 2–29 Nov 2026) was postponed to November 2027, announced 18 Aug 2026 — https://esportsnationscup.com/en/news/ef-postpones-enc-to-november-2027 (confirmed by PocketGamer.biz https://www.pocketgamer.biz/esports-nations-cup-postponed-to-november-2027/). Don't post on it as a live event.
 
 ## Past events (outcomes)
+- 2026-11-09 to 2026-11-12: 6th UN World Data Forum, Riyadh — I couldn't find a concluding report or outcome document; a GASTAT search result is headlined "Sixth UN World Data Forum and Second Saudi Statistics Forum Postponed to 2027" (headline only, unconfirmed) (https://stats.gov.sa/en/w/news/193)
 - 2026-11-01: OPEC+ seven-country monthly meeting — kept September 2026 production levels through December 2026; next meeting 29 Nov (https://www.opec.org/pr-detail/2033620-1-november-2026.html)
 - 2026-11-01: PIF–Aramco HUMAIN transaction close — completed: PIF 51%, Aramco 49%, SAR 9.9bn ($2.6bn) cash from Aramco in 2026 (https://www.aramco.com/en/news-media/news/2026/pif-and-aramco-close-humain-transaction-to-accelerate-humains-global-growth)
 - 2026-11-03: Aramco Q3 2026 results — base dividend SAR 82.07bn declared, record date 16 Nov (https://www.argaam.com/en/reports/company-dividend/63056?preview=true)
