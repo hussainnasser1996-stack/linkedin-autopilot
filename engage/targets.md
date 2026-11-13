@@ -67,27 +67,27 @@
 | Seera Group Holding | Majed Al-Nefaie, CEO (per press; verify) | suggested 2026-11-13 |
 | BinDawood Holding | Ahmad BinDawood, CEO | suggested 2026-11-13 |
 | Tasnee (National Industrialization Co.) | Fahad Al-Mishal, CEO (from 1 Oct 2026) | suggested 2026-11-13 |
-| Savvy Games Group | Turqi Alnowaiser, interim CEO (after Brian Ward stepped down, Sep 2026) | open |
-| Manga Productions (Misk) | Dr. Essam Bukhary, CEO | open |
-| Saudi Research & Media Group (SRMG) | Jomana Al Rashid, CEO | open |
-| SALIC (Saudi Agricultural & Livestock Investment Co.) | Sulaiman Al-Rumaih, Group CEO | open |
-| Hevolution Foundation | Dr. Mehmood Khan, CEO; Dr. William Greene, CIO | open |
-| PKF Al Bassam & Co. | Ibrahim Al-Bassam, Managing Partner | open |
-| UHY Al Mousa CPAs & Consultants | Mousa Al Mousa, Managing Partner (named contact) | open |
+| Savvy Games Group | Turqi Alnowaiser, interim CEO (after Brian Ward stepped down, Sep 2026) | suggested 2026-11-13 |
+| Manga Productions (Misk) | Dr. Essam Bukhary, CEO | suggested 2026-11-13 |
+| Saudi Research & Media Group (SRMG) | Jomana Al Rashid, CEO | suggested 2026-11-13 |
+| SALIC (Saudi Agricultural & Livestock Investment Co.) | Sulaiman Al-Rumaih, Group CEO | suggested 2026-11-13 |
+| Hevolution Foundation | Dr. Mehmood Khan, CEO; Dr. William Greene, CIO | suggested 2026-11-13 |
+| PKF Al Bassam & Co. | Ibrahim Al-Bassam, Managing Partner | suggested 2026-11-13 |
+| UHY Al Mousa CPAs & Consultants | Mousa Al Mousa, Managing Partner (named contact) | suggested 2026-11-13 |
 | El Sayed El Ayouty & Co. (Moore Saudi Arabia) | Mohamed El Ayouty, Managing Partner | done |
 | BDO Saudi Arabia (Dr. Mohamed Al-Amri & Co.) | Gihad Al-Amri, Managing Partner; Ahmed Aljumah, Partner & COO | done |
 | Forvis Mazars Saudi Arabia (Al-Kharashi & Co.) | Ahmed Elgamassy, Head of Financial Advisory; Abdullah Al-Msned, Country Leader | done |
 | Kroll (Riyadh) | Mahmoud Totonji, MD Saudi Arabia; Hakim Abdeljaouad, Head of Valuation Advisory ME | done |
 | Strategic Gears | Hattan Saaty, CEO | done |
 | ValuStrat (KSA) | Yousuf Siddiki, Managing Partner KSA | done |
-| Jahez International | Ghassab Al-Mandeel, CEO | open |
-| Fakeeh Care Group | Mazen Fakeeh, Chairman & President | open |
-| Batterjee Holding | Mazen Batterjee, Chairman | open |
-| Dallah Healthcare | Tarek Al-Kasabi, Chairman; Dr. Ahmed Babaeer, CEO (2024 source) | open |
-| MBC Group | Mike Sneesby, CEO | open |
-| Al Hassan Ghazi Ibrahim Shaker Co. (Shaker Group) | Mohammed Ibrahim Abunayyan, CEO | open |
-| Catrion Catering Holding | Mohammed Hassan Al Shuhail, CEO | open |
-| Halwani Bros. | Mohamed Abdel Fattah, Group CEO | open |
+| Jahez International | Ghassab Al-Mandeel, CEO | suggested 2026-11-13 |
+| Fakeeh Care Group | Mazen Fakeeh, Chairman & President | suggested 2026-11-13 |
+| Batterjee Holding | Mazen Batterjee, Chairman | suggested 2026-11-13 |
+| Dallah Healthcare | Tarek Al-Kasabi, Chairman; Dr. Ahmed Babaeer, CEO (2024 source) | suggested 2026-11-13 |
+| MBC Group | Mike Sneesby, CEO | suggested 2026-11-13 |
+| Al Hassan Ghazi Ibrahim Shaker Co. (Shaker Group) | Mohammed Ibrahim Abunayyan, CEO | suggested 2026-11-13 |
+| Catrion Catering Holding | Mohammed Hassan Al Shuhail, CEO | suggested 2026-11-13 |
+| Halwani Bros. | Mohamed Abdel Fattah, Group CEO | suggested 2026-11-13 |
 | Middle East Paper Co. (MEPCO) | Faisal Haddawi, CEO | open |
 | Oman Investment Authority (OIA) | Abdulsalam Al Murshidi, President | open |
 | Al Anwar Holdings SAOG | Ahmed Ibrahim, Investor Relations Officer | open |
