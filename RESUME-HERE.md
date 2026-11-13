@@ -6,9 +6,7 @@
   GitHub Action `.github/workflows/buffer.yml` (+ scripts/schedule_pending.py): routine pushes queue/<date>/post.json → Action
   schedules with repo secret BUFFER_API_KEY → writes queue/<date>/buffer_id.txt. Daily 06:15 KSA safety-net run. Never re-posts
   (skips buffer_id.txt or a Buffer id already in post.md).
-- BLOCKER until done: repo secret BUFFER_API_KEY. Auto-mode blocks Claude setting it; Hussain runs:
-  `! security find-generic-password -s buffer-api-key -w | tr -d '\n' | gh secret set BUFFER_API_KEY -R hussainnasser1996-stack/linkedin-autopilot`
-  then: `gh workflow run buffer.yml -R hussainnasser1996-stack/linkedin-autopilot` must go green.
+- DONE 13 Nov 17:17Z: repo secret BUFFER_API_KEY set; Action run 43471329787 green with "Buffer key OK" (key checked live every run).
 - FOUND + FIXED: render_card.py f-string broke on Python 3.11 (cloud default) — fixed; the Action compiles all scripts on 3.11.
 - Mon 16 Nov Acwa Q3 carousel (built by the cloud test) scheduled from the Mac: Buffer 6af7440ff27e6d89214393ab.
 - Queue: 14 Unity (scheduled), 15 Savvy (scheduled), 16 Acwa carousel (scheduled), 17 = routine builds on 14 Nov 05:00, 18 Ma'aden video DRAFT (silent).
