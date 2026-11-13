@@ -29,28 +29,28 @@
 | Raz Amwal | Abdullah Al Zamel, CEO | suggested 2026-11-12 |
 | Narmo Capital | Eng. Fahad AlOmran, CEO & Advisory Manager | suggested 2026-11-12 |
 | Sadeed Financial | Mohammed B. Algadhib, CEO & Arranging Manager | suggested 2026-11-12 |
-| Alkhizanah Capital | Raed Musaad AlSudairy, Vice Chairman & CEO | open |
-| National Capital (Rikaz Alwataniya) | Nasser Al Madi (per CEO message on site; title not confirmed) | open |
-| J. Awan Capital | Jehanzeb Awan, Founder & CEO | open |
-| Alfanar United Capital | Mazen Eldandashli, CEO (acting, per site) | open |
-| Bayt Alnomow Capital | Raafat Al Sawy Abu Alizeid, CEO & Head of Asset Management | open |
+| Alkhizanah Capital | Raed Musaad AlSudairy, Vice Chairman & CEO | suggested 2026-11-13 |
+| National Capital (Rikaz Alwataniya) | Nasser Al Madi (per CEO message on site; title not confirmed) | suggested 2026-11-13 |
+| J. Awan Capital | Jehanzeb Awan, Founder & CEO | suggested 2026-11-13 |
+| Alfanar United Capital | Mazen Eldandashli, CEO (acting, per site) | suggested 2026-11-13 |
+| Bayt Alnomow Capital | Raafat Al Sawy Abu Alizeid, CEO & Head of Asset Management | suggested 2026-11-13 |
 | Tamra Capital | Hattan Rayes, CEO & MD | done |
 | Estidamah Capital | Rami Atwan, CEO & Board Member | done |
-| BMG Financial Group | Basil M.K. Al-Ghalayini, Founder, Chairman & CEO | open |
+| BMG Financial Group | Basil M.K. Al-Ghalayini, Founder, Chairman & CEO | suggested 2026-11-13 |
 | Ithmar Saudi Financial Consultancy | Fawaz Y. Ghanem, CEO | done |
-| Nitaq Capital | Saleh Abdullah Al Henaki, CEO & Chairman | open |
-| UHY Al Mousa | Mousa Al Mousa, CEO | open |
+| Nitaq Capital | Saleh Abdullah Al Henaki, CEO & Chairman | suggested 2026-11-13 |
+| UHY Al Mousa | Mousa Al Mousa, CEO | suggested 2026-11-13 |
 | Baker Tilly Saudi Arabia | Bader Altamimi, General Partner & CEO | done |
 | Ardent Advisory | Sharad Bhandari, Managing Partner | done |
 | Zahid Group | Haytham W. Zahid, Group CEO; Erdi Kursunoglu, Group CFO | done |
-| Xenel Industries | Khalid Ahmed Zainal Alireza, CEO (third-party source) | open |
-| E.A. Juffali & Brothers | Khaled Juffali, Chairman | open |
-| Al-Dabbagh Group | Amr Al-Dabbagh, Chairman & CEO | open |
-| Assila Investments | Abdullah Mohammed Al-Issa, Chairman | open |
+| Xenel Industries | Khalid Ahmed Zainal Alireza, CEO (third-party source) | suggested 2026-11-13 |
+| E.A. Juffali & Brothers | Khaled Juffali, Chairman | suggested 2026-11-13 |
+| Al-Dabbagh Group | Amr Al-Dabbagh, Chairman & CEO | suggested 2026-11-13 |
+| Assila Investments | Abdullah Mohammed Al-Issa, Chairman | suggested 2026-11-13 |
 | Alfozan Holding | Abdulatif Al Fozan, COO; Adel Merheb, CIO (directory listing) | done |
-| Savola Group | Sameh Hassan, Group CEO (per 2026 press; verify) | open |
-| Alsulaiman Group | Saud Alsulaiman, CEO | open |
-| Algihaz Holding | Sami Al Angari, CEO & Vice Chairman | open |
+| Savola Group | Sameh Hassan, Group CEO (per 2026 press; verify) | suggested 2026-11-13 |
+| Alsulaiman Group | Saud Alsulaiman, CEO | suggested 2026-11-13 |
+| Algihaz Holding | Sami Al Angari, CEO & Vice Chairman | suggested 2026-11-13 |
 | Zamil Group Holding | Adib Al Zamil, CEO; Khalid AlZamil, Chairman | open |
 | AlKifah Holding | Osama Al Afaleq, Vice Chairman | open |
 | AlRajhi Partners | Saad AlGheriri, CEO; Mosbah Kahaleh, Director | done |
