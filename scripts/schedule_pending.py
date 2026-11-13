@@ -9,6 +9,11 @@ import datetime as dt, json, pathlib, re, subprocess, sys
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 today = dt.datetime.now(dt.timezone.utc).date().isoformat()
 failed = 0
+# prove the key works on every run (a run with nothing to schedule must still fail loudly on a bad key)
+chk = subprocess.run([sys.executable, str(ROOT / "scripts/buffer.py"), "orgs"], capture_output=True, text=True)
+if chk.returncode != 0 or "organizations" not in chk.stdout:
+    print("BUFFER KEY CHECK FAILED:", (chk.stdout + chk.stderr)[-300:]); sys.exit(1)
+print("Buffer key OK")
 for pj in sorted(ROOT.glob("queue/*/post.json")):
     d = pj.parent
     if d.name < today or (d / "buffer_id.txt").exists():
