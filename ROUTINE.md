@@ -69,6 +69,7 @@ If `queue/<date>/` already exists for the target date (made by hand), treat that
 - post.json: `document_url`, `document_title` (max 58 chars), `thumbnail_url` (the cover) instead of `image_url`.
 
 ## 3C. Arabic (Fri)
+- FIRST read `guidance/arabic-style.md` and follow it fully (write in Arabic from the facts, never translate an English draft; banned translation phrases; glossary; final check).
 - Same research and fact rules. Write the caption in clear Modern Standard Arabic as a Saudi finance professional would write it on
   LinkedIn: short lines, plain words, no flowery phrases, no religious openers, Western digits (2026, 56%), company names in their usual
   form (Latin names like MAGNiTT stay Latin). Keep his structure: hook number → list → "أمران ألاحظهما:" style points → one question.
