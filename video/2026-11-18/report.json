@@ -1,0 +1,388 @@
+{
+ "meta": {
+  "company": "Ma’aden",
+  "fictional": false,
+  "period": "Q3 2026",
+  "prior_period": "Q3 2025",
+  "report_label": "Results",
+  "kpi_title": "The quarter in numbers",
+  "as_of": "Q3 2026",
+  "currency": "USD",
+  "currency_symbol": "$",
+  "units": "US$ millions unless stated · SAR converted at 3.75",
+  "source": "Ma’aden, Condensed consolidated interim financial statements for the quarter and nine months ended 30 September 2026 (unaudited), and Q3-2026 Results Presentation, 9 November 2026",
+  "notes": "EBITDA is a non-IFRS measure from Maaden's results presentation. Corporate & other = group total less the three reported segments.",
+  "theme": {
+   "ink": "#0F172A",
+   "paper": "#F8F7F4",
+   "panel": "#EFECE4",
+   "accent": "#0F172A",
+   "gold": "#B8960C",
+   "pos": "#1C6B4A",
+   "neg": "#A33A2E",
+   "muted": "#7A7A7A",
+   "slate": "#B5B0A4"
+  },
+  "scene_text": {
+   "kpis": {
+    "kicker": "Q3 2026 vs Q3 2025"
+   },
+   "revenue_history": {
+    "kicker": "Same quarter, three years",
+    "title": "Revenue keeps climbing"
+   },
+   "segments": {
+    "title": "Phosphate shrinks, metals grow"
+   },
+   "bridge": {
+    "title": "Aluminum and gold drove it"
+   },
+   "income_statement": {
+    "title": "From revenue to profit"
+   }
+  },
+  "closing": "Every figure checked against the source",
+  "scene_frames": {
+   "title": 95,
+   "kpis": 279,
+   "revenue_history": 150,
+   "segments": 228,
+   "bridge": 185,
+   "income_statement": 250,
+   "end": 167
+  }
+ },
+ "kpis": [
+  {
+   "id": "revenue_usd",
+   "label": "Revenue",
+   "value": 2971,
+   "display": "$2,971m",
+   "delta": "+11%",
+   "direction": "up",
+   "good": true,
+   "tie": {
+    "path": "segments.total.revenue",
+    "scale": 1
+   }
+  },
+  {
+   "id": "ebitda",
+   "label": "EBITDA",
+   "value": 870,
+   "display": "$870m",
+   "delta": "−24%",
+   "direction": "down",
+   "good": false,
+   "tie": {
+    "path": "segments.total.op_profit",
+    "scale": 1
+   }
+  },
+  {
+   "id": "op_margin",
+   "label": "EBITDA margin",
+   "value": 29,
+   "display": "29%",
+   "delta": "−13 pts",
+   "direction": "down",
+   "good": false
+  },
+  {
+   "id": "phosphate_ebitda",
+   "label": "Phosphate EBITDA",
+   "value": 135,
+   "display": "$135m",
+   "delta": "−83%",
+   "direction": "down",
+   "good": false,
+   "tie": {
+    "path": "segments.items.0.op_profit",
+    "scale": 1
+   }
+  },
+  {
+   "id": "aluminum_ebitda",
+   "label": "Aluminum EBITDA",
+   "value": 419,
+   "display": "$419m",
+   "delta": "+108%",
+   "direction": "up",
+   "good": true,
+   "tie": {
+    "path": "segments.items.1.op_profit",
+    "scale": 1
+   }
+  },
+  {
+   "id": "gold_ebitda",
+   "label": "Gold & growth minerals EBITDA",
+   "value": 403,
+   "display": "$403m",
+   "delta": "+71%",
+   "direction": "up",
+   "good": true,
+   "tie": {
+    "path": "segments.items.2.op_profit",
+    "scale": 1
+   }
+  }
+ ],
+ "revenue_history": {
+  "title": "Third-quarter revenue, US$ B",
+  "unit": "US$ B",
+  "points": [
+   {
+    "label": "Q3 24",
+    "value": 2.145,
+    "display": "2.145"
+   },
+   {
+    "label": "Q3 25",
+    "value": 2.67,
+    "display": "2.670"
+   },
+   {
+    "label": "Q3 26",
+    "value": 2.971,
+    "display": "2.971"
+   }
+  ]
+ },
+ "segments": {
+  "title": "Revenue by segment, US$ millions",
+  "op_label": "EBITDA",
+  "total": {
+   "label": "Group",
+   "revenue": 2971,
+   "revenue_prior": 2670,
+   "op_profit": 870,
+   "display": {
+    "revenue": "2,971",
+    "revenue_prior": "2,670",
+    "growth": "11%",
+    "op_profit": "870",
+    "margin": "29%"
+   }
+  },
+  "items": [
+   {
+    "label": "Phosphate",
+    "color": "accent",
+    "revenue": 1370,
+    "revenue_prior": 1501,
+    "op_profit": 135,
+    "display": {
+     "revenue": "1,370",
+     "revenue_prior": "1,501",
+     "op_profit": "135",
+     "margin": "10%",
+     "share": "46.1%"
+    }
+   },
+   {
+    "label": "Aluminum",
+    "color": "muted",
+    "revenue": 985,
+    "revenue_prior": 748,
+    "op_profit": 419,
+    "display": {
+     "revenue": "985",
+     "revenue_prior": "748",
+     "growth": "32%",
+     "op_profit": "419",
+     "margin": "43%",
+     "share": "33.2%"
+    }
+   },
+   {
+    "label": "Gold & growth minerals",
+    "color": "gold",
+    "revenue": 596,
+    "revenue_prior": 400,
+    "op_profit": 403,
+    "display": {
+     "revenue": "596",
+     "revenue_prior": "400",
+     "growth": "49%",
+     "op_profit": "403",
+     "margin": "68%",
+     "share": "20.1%"
+    }
+   },
+   {
+    "label": "Corporate & other",
+    "color": "slate",
+    "revenue": 20,
+    "revenue_prior": 21,
+    "op_profit": -87,
+    "display": {
+     "revenue": "20",
+     "revenue_prior": "21",
+     "op_profit": "(87)",
+     "share": "0.7%"
+    }
+   }
+  ]
+ },
+ "bridge": {
+  "title": "Revenue bridge Q3 2025 → Q3 2026, US$ millions",
+  "start": {
+   "label": "Q3 2025",
+   "value": 2670,
+   "display": "2,670"
+  },
+  "steps": [
+   {
+    "label": "Phosphate",
+    "value": -131,
+    "display": "−131"
+   },
+   {
+    "label": "Aluminum",
+    "value": 237,
+    "display": "+237"
+   },
+   {
+    "label": "Gold & growth minerals",
+    "value": 196,
+    "display": "+196"
+   },
+   {
+    "label": "Corporate & other",
+    "value": -1,
+    "display": "−1"
+   }
+  ],
+  "end": {
+   "label": "Q3 2026",
+   "value": 2971,
+   "display": "2,971"
+  }
+ },
+ "income_statement": {
+  "title": "Income statement, US$ thousands",
+  "columns": [
+   "Q3 2026",
+   "Q3 2025"
+  ],
+  "rows": [
+   {
+    "label": "Revenue",
+    "values": [
+     2970751,
+     2669685
+    ],
+    "display": [
+     "2,970,751",
+     "2,669,685"
+    ]
+   },
+   {
+    "label": "Cost of sales",
+    "values": [
+     -2226906,
+     -1614209
+    ],
+    "display": [
+     "(2,226,906)",
+     "(1,614,209)"
+    ]
+   },
+   {
+    "label": "Gross profit",
+    "values": [
+     743845,
+     1055476
+    ],
+    "display": [
+     "743,845",
+     "1,055,476"
+    ],
+    "total": true,
+    "sum_of": [
+     "Revenue",
+     "Cost of sales"
+    ]
+   },
+   {
+    "label": "Operating expenses, net",
+    "values": [
+     -325205,
+     -272431
+    ],
+    "display": [
+     "(325,205)",
+     "(272,431)"
+    ]
+   },
+   {
+    "label": "Operating profit",
+    "values": [
+     418640,
+     783045
+    ],
+    "display": [
+     "418,640",
+     "783,045"
+    ],
+    "total": true,
+    "sum_of": [
+     "Gross profit",
+     "Operating expenses, net"
+    ]
+   },
+   {
+    "label": "Share of JVs and associate",
+    "values": [
+     125860,
+     25137
+    ],
+    "display": [
+     "125,860",
+     "25,137"
+    ]
+   },
+   {
+    "label": "Net finance cost",
+    "values": [
+     -71522,
+     -92260
+    ],
+    "display": [
+     "(71,522)",
+     "(92,260)"
+    ]
+   },
+   {
+    "label": "Zakat, income tax and severance fees",
+    "values": [
+     -44798,
+     -38555
+    ],
+    "display": [
+     "(44,798)",
+     "(38,555)"
+    ]
+   },
+   {
+    "label": "Profit for the quarter",
+    "values": [
+     428180,
+     677367
+    ],
+    "display": [
+     "428,180",
+     "677,367"
+    ],
+    "total": true,
+    "sum_of": [
+     "Operating profit",
+     "Share of JVs and associate",
+     "Net finance cost",
+     "Zakat, income tax and severance fees"
+    ]
+   }
+  ]
+ }
+}
