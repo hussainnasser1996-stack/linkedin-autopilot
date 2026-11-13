@@ -3,6 +3,8 @@
 
 Actor: harvestapi/linkedin-post-search (pay per result, ~USD 0.002/post; budget kept inside Apify's free monthly credit).
 Token: env APIFY_TOKEN, or macOS Keychain service "apify-token". Never printed.
+In the cloud routine, the environment's network secret adds `Authorization: Bearer <token>`
+to requests for api.apify.com, so no token is needed there.
 
 Usage:
   apify_posts.py search  [--max 12]   -> engage/candidates-<date>.json  (keyword queries from engage/queries.txt, last 24h)
@@ -25,15 +27,13 @@ def token():
                                capture_output=True, text=True).stdout.strip()
         except FileNotFoundError:
             t = ""
-    if not t:
-        sys.exit("APIFY_TOKEN missing (env or Keychain 'apify-token')")
-    return t
+    return t  # empty in the cloud: the network-secret proxy adds the header
 
 
 def run(inp, timeout=280):
     url = f"https://api.apify.com/v2/acts/{ACTOR}/run-sync-get-dataset-items?timeout={timeout}"
     req = urllib.request.Request(url, data=json.dumps(inp).encode(), method="POST",
-                                 headers={"Content-Type": "application/json", "Authorization": f"Bearer {token()}"})
+                                 headers={"Content-Type": "application/json", **({"Authorization": f"Bearer {t}"} if (t := token()) else {})})
     with urllib.request.urlopen(req, timeout=timeout + 30) as r:
         return json.loads(r.read())
 
