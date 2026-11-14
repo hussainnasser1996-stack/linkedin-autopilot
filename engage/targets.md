@@ -88,25 +88,25 @@
 | Al Hassan Ghazi Ibrahim Shaker Co. (Shaker Group) | Mohammed Ibrahim Abunayyan, CEO | suggested 2026-11-13 |
 | Catrion Catering Holding | Mohammed Hassan Al Shuhail, CEO | suggested 2026-11-13 |
 | Halwani Bros. | Mohamed Abdel Fattah, Group CEO | suggested 2026-11-13 |
-| Middle East Paper Co. (MEPCO) | Faisal Haddawi, CEO | open |
-| Oman Investment Authority (OIA) | Abdulsalam Al Murshidi, President | open |
-| Al Anwar Holdings SAOG | Ahmed Ibrahim, Investor Relations Officer | open |
-| Oman Investment Bank (OIB) | Mohamed Sultan Salim Al Habsi, CEO | open |
-| Tawoos Group | Sameer Ul Haque, Chief Investment Officer | open |
+| Middle East Paper Co. (MEPCO) | Faisal Haddawi, CEO | suggested 2026-11-14 |
+| Oman Investment Authority (OIA) | Abdulsalam Al Murshidi, President | suggested 2026-11-14 |
+| Al Anwar Holdings SAOG | Ahmed Ibrahim, Investor Relations Officer | suggested 2026-11-14 |
+| Oman Investment Bank (OIB) | Mohamed Sultan Salim Al Habsi, CEO | suggested 2026-11-14 |
+| Tawoos Group | Sameer Ul Haque, Chief Investment Officer | suggested 2026-11-14 |
 | Suhail Bahwan Group (Holding) | Sheikh Suhail Bahwan, Chairman | open |
-| Markaz | Ali H. Khalil, CEO | open |
-| KAMCO Invest | Faisal Mansour Sarkhou, CEO (Dalal J. Al Shaya, Director Private Equity) | open |
-| Boubyan Capital | Jabra Ghandor, CEO (per Simply Wall St, unconfirmed) | open |
-| KIPCO | Sheikha Dana Naser Sabah Al-Ahmad Al-Sabah, Group CEO | open |
-| National Investments Co (NIC) | Fahad Abdulrahman Al-Mukhaizim, CEO | open |
+| Markaz | Ali H. Khalil, CEO | suggested 2026-11-14 |
+| KAMCO Invest | Faisal Mansour Sarkhou, CEO (Dalal J. Al Shaya, Director Private Equity) | suggested 2026-11-14 |
+| Boubyan Capital | Jabra Ghandor, CEO (per Simply Wall St, unconfirmed) | suggested 2026-11-14 |
+| KIPCO | Sheikha Dana Naser Sabah Al-Ahmad Al-Sabah, Group CEO | suggested 2026-11-14 |
+| National Investments Co (NIC) | Fahad Abdulrahman Al-Mukhaizim, CEO | suggested 2026-11-14 |
 | KMEFIC | CEO not confirmed (sources conflict) | open |
-| Arzan Financial Group | Jassem Zainal, Vice Chairman & CEO | open |
-| Noor Financial Investment | Gururaj Rao, CEO (per Simply Wall St, unconfirmed) | open |
-| KFH Capital | Abdullah Sulaiman Al-Haddad, CEO | open |
+| Arzan Financial Group | Jassem Zainal, Vice Chairman & CEO | suggested 2026-11-14 |
+| Noor Financial Investment | Gururaj Rao, CEO (per Simply Wall St, unconfirmed) | suggested 2026-11-14 |
+| KFH Capital | Abdullah Sulaiman Al-Haddad, CEO | suggested 2026-11-14 |
 | Coast Investment & Development | Asaad Al Banwan, Vice Chairman & CEO (per Altss, unconfirmed); Mohammad Al-Qaoud (email on | open |
 | Rasameel Investment | Hamad Al Sheikh Musaed / Robert Aspin listed on team (no CEO published) | open |
-| Bayan Investment | Yousef Mohammad Al Essa, CEO | open |
-| Al Safat Investment | Zeyad Tareq Al Mukhaizeem, Vice Chairman & CEO | open |
+| Bayan Investment | Yousef Mohammad Al Essa, CEO | suggested 2026-11-14 |
+| Al Safat Investment | Zeyad Tareq Al Mukhaizeem, Vice Chairman & CEO | suggested 2026-11-14 |
 | NBK Wealth (incl. NBK Capital) | CEO not confirmed | open |
 | Kuwait Finance & Investment Co (KFIC) | Tareq Mishari Al-Bahar, CEO | open |
 | Osoul Investment | Sulaiman Ahmad Al-Ameeri, Vice Chairman & CEO | open |
