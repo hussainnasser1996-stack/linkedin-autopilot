@@ -103,24 +103,24 @@
 | Arzan Financial Group | Jassem Zainal, Vice Chairman & CEO | suggested 2026-11-14 |
 | Noor Financial Investment | Gururaj Rao, CEO (per Simply Wall St, unconfirmed) | suggested 2026-11-14 |
 | KFH Capital | Abdullah Sulaiman Al-Haddad, CEO | suggested 2026-11-14 |
-| Coast Investment & Development | Asaad Al Banwan, Vice Chairman & CEO (per Altss, unconfirmed); Mohammad Al-Qaoud (email on | open |
-| Rasameel Investment | Hamad Al Sheikh Musaed / Robert Aspin listed on team (no CEO published) | open |
+| Coast Investment & Development | Asaad Al Banwan, Vice Chairman & CEO (per Altss, unconfirmed); Mohammad Al-Qaoud (email on | suggested 2026-11-15 |
+| Rasameel Investment | Hamad Al Sheikh Musaed / Robert Aspin listed on team (no CEO published) | suggested 2026-11-15 |
 | Bayan Investment | Yousef Mohammad Al Essa, CEO | suggested 2026-11-14 |
 | Al Safat Investment | Zeyad Tareq Al Mukhaizeem, Vice Chairman & CEO | suggested 2026-11-14 |
 | NBK Wealth (incl. NBK Capital) | CEO not confirmed | open |
-| Kuwait Finance & Investment Co (KFIC) | Tareq Mishari Al-Bahar, CEO | open |
-| Osoul Investment | Sulaiman Ahmad Al-Ameeri, Vice Chairman & CEO | open |
-| Kuwait Investment Company (KIC) | Bader Al-Subaiee, CEO | open |
-| Al Imtiaz Investment Group | Fouzi Khalid Sultan Bin Essa, acting CEO (per Altss, unconfirmed) | open |
-| TechInvest | Fahad AlSharekh, CEO | open |
-| InvestGB (Gulf Capital Investment Co) | Hani AlAwadhi, Vice Chairman & CEO | open |
-| Baker Tilly Kuwait | Hisham Sorour, Managing Partner | open |
-| Grant Thornton Kuwait | Abdullatif M. Al Aiban, Managing Partner | open |
-| RSM Kuwait | Nayef Al Yaseen (Albazie), Office Managing Partner | open |
-| Forvis Mazars Kuwait | Fahad Al Azemi, Managing Partner | open |
-| BDO Kuwait | Qais M. Al Nisf, Managing Partner | open |
-| KPMG Kuwait | Dr. Rasheed Al Qenae, Managing Partner; Ankul Aggarwal, Head of Deal Advisory | open |
-| UHY Pillars (Kuwait) | Wael Arafa, Managing Partner | open |
+| Kuwait Finance & Investment Co (KFIC) | Tareq Mishari Al-Bahar, CEO | suggested 2026-11-15 |
+| Osoul Investment | Sulaiman Ahmad Al-Ameeri, Vice Chairman & CEO | suggested 2026-11-15 |
+| Kuwait Investment Company (KIC) | Bader Al-Subaiee, CEO | suggested 2026-11-15 |
+| Al Imtiaz Investment Group | Fouzi Khalid Sultan Bin Essa, acting CEO (per Altss, unconfirmed) | suggested 2026-11-15 |
+| TechInvest | Fahad AlSharekh, CEO | suggested 2026-11-15 |
+| InvestGB (Gulf Capital Investment Co) | Hani AlAwadhi, Vice Chairman & CEO | suggested 2026-11-15 |
+| Baker Tilly Kuwait | Hisham Sorour, Managing Partner | suggested 2026-11-15 |
+| Grant Thornton Kuwait | Abdullatif M. Al Aiban, Managing Partner | suggested 2026-11-15 |
+| RSM Kuwait | Nayef Al Yaseen (Albazie), Office Managing Partner | suggested 2026-11-15 |
+| Forvis Mazars Kuwait | Fahad Al Azemi, Managing Partner | suggested 2026-11-15 |
+| BDO Kuwait | Qais M. Al Nisf, Managing Partner | suggested 2026-11-15 |
+| KPMG Kuwait | Dr. Rasheed Al Qenae, Managing Partner; Ankul Aggarwal, Head of Deal Advisory | suggested 2026-11-15 |
+| UHY Pillars (Kuwait) | Wael Arafa, Managing Partner | suggested 2026-11-15 |
 | Crowe Kuwait | Rabea Saad Al Muhanna, Managing Partner | open |
 | Moore Kuwait | Idris Atcha, Managing Partner; Ahmed Awny, Partner (advisory) | open |
 | Al Rayan Investment (ARI) | Akber Khan, Acting CEO | open |

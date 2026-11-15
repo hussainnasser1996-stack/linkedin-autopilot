@@ -20,3 +20,15 @@
 2026-11-14 | UAE Stock Talks | https://www.linkedin.com/posts/uae-stock-talks_explore-salik-stock-httpslnkdindagjasgw-activity-7526904234114637824-JurM
 2026-11-14 | Naveed Hussain | https://www.linkedin.com/posts/naveed-hussayn79_transfer-pricing-ksa-the-gcc-activity-7526966117202976768-1JOD
 2026-11-14 | MENA FINTECH ASSOCIATION | https://www.linkedin.com/posts/mena-fintech-association_mfta-x-leantech-weekly-newsletter-activity-7526875471343513600-rCst
+2026-11-15 | Tammam Al-Dandachi | https://www.linkedin.com/posts/tammamaldandachi_at-the-6th-ppp-mena-forum-one-discussion-activity-7527354603173142528-bDBA
+2026-11-15 | Max Zhang | https://www.linkedin.com/posts/max-zhang-a0993a23b_ctolnews-softbank-aiinfrastructure-activity-7527262638968520704-SPfb
+2026-11-15 | Joris Kersten | https://www.linkedin.com/posts/joriskersten_bvds-2027-activity-7527327294919458816-HQDS
+2026-11-15 | The Deal Wire | https://www.linkedin.com/posts/the-deal-wire_saudi-listed-acwa-one-of-the-worlds-largest-activity-7527364757239169024-cmfu
+2026-11-15 | IntelliNews | https://www.linkedin.com/posts/intellinews_saudiarabia-sharebuyback-investment-activity-7527396019433639936-gIjr
+2026-11-15 | Carmen Arroyo Nieto | https://www.linkedin.com/posts/carmen-arroyo-nieto_and-heres-a-breakdown-of-antonio-gracias-activity-7527444387677609984-ZlLv
+2026-11-15 | Founderscrowds | https://www.linkedin.com/posts/founderscrowds_after-jensen-huang-quits-vcs-brace-for-smaller-activity-7527490739799265282-Bo0C
+2026-11-15 | Burkhard Fassbach | https://www.linkedin.com/posts/burkhard-fassbach-42b142317_kalshi-in-talks-for-new-funding-round-at-activity-7527397667040038912-vXzj
+2026-11-15 | Dinmore Bell | https://www.linkedin.com/posts/dinmorebell_a-uae-branch-of-a-uk-company-is-not-a-subsidiary-activity-7527483019708882945-WG8z
+2026-11-15 | MENA Startup Digest | https://www.linkedin.com/posts/menastartupdigest_uae-startup-souqview-launches-arabic-first-activity-7527309557686026240-mJD2
+2026-11-15 | EV | https://www.linkedin.com/posts/eletric-vehicles-com_lucids-new-accounting-chief-gets-same-market-value-activity-7527395906216771584-8aH1
+2026-11-15 | DeepWingAI | https://www.linkedin.com/posts/deepwing_the-gauntlet-base44-the-80m-sale-that-activity-7527467320110342144-FyYP
