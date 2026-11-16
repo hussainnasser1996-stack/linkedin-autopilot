@@ -21,3 +21,5 @@ If you're planning compute in the region, which do you check first: chip supply 
 
 Sources: TSMC monthly revenue reports (Oct 2025, Oct 2026); Focus Taiwan
 #VentureCapital #GCC #SaudiArabia #AI #Semiconductors
+
+Buffer post id (scheduled by GitHub Action): 6afa653ea869c35e5baf1b15 · status scheduled
