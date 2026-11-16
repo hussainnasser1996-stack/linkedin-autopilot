@@ -1,0 +1,18 @@
+TSMC just posted its biggest month ever — and it's not just a chip story, it's a Gulf compute story.
+
+October revenue: NT$586.9B. Up 59.7% on October 2025 and 14.7% on September. The previous record was August, at NT$514.8B.
+
+January to October: NT$4,485.6B, up 43.3%.
+
+Here's why it matters today: Nvidia reports its quarter later today, US time. TSMC's monthly sales come out first, making them the earliest public read on chip supply, a crucial signal for anyone buying GPUs, including the AI data centres being built in the Gulf.
+
+Two things I'll watch tonight:
+1. Whether Nvidia's numbers show the same jump.
+2. What it says about supply into 2027.
+
+The signal is clear.
+
+If you're planning compute in the region, which number do you check first: chip supply or power?
+
+Sources: TSMC monthly revenue reports (Oct 2025, Oct 2026); Focus Taiwan
+#VentureCapital #GCC #SaudiArabia #AI #Semiconductors
