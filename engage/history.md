@@ -32,3 +32,16 @@
 2026-11-15 | MENA Startup Digest | https://www.linkedin.com/posts/menastartupdigest_uae-startup-souqview-launches-arabic-first-activity-7527309557686026240-mJD2
 2026-11-15 | EV | https://www.linkedin.com/posts/eletric-vehicles-com_lucids-new-accounting-chief-gets-same-market-value-activity-7527395906216771584-8aH1
 2026-11-15 | DeepWingAI | https://www.linkedin.com/posts/deepwing_the-gauntlet-base44-the-80m-sale-that-activity-7527467320110342144-FyYP
+2026-11-16 | George Mraovic | https://www.linkedin.com/posts/george-mraovic-2b71163b8_not-all-saudi-capital-is-looking-for-the-activity-7527830577656258560-9tCP
+2026-11-16 | Founding MENA | https://www.linkedin.com/posts/foundingmena_menastartups-startupfunding-venturecapital-activity-7527958764596051968-pc4k
+2026-11-16 | Arif Nadeem | https://www.linkedin.com/posts/arif-nadeem_saudiarabia-equestrianindustry-investmentopportunities-activity-7527783102929260544-Y4kJ
+2026-11-16 | AraGeek | https://www.linkedin.com/posts/arageek-com_menastartups-funding-venturecapital-activity-7527650949075714048-OPXp
+2026-11-16 | SheetVenture | https://www.linkedin.com/posts/sheetventure_saudiarabia-vision2030-saudistartups-activity-7527622540463226881-W4f9
+2026-11-16 | Ryan Moynagh | https://www.linkedin.com/posts/rmoynagh_pimlico-familyoffices-sovereignwealthfunds-activity-7527724648592019456-TxQ0
+2026-11-16 | Alvyon Middle East | https://www.linkedin.com/posts/alvyon-gcc_gcc-mergersandacquisitions-activity-7527742285435006976-OJ3v
+2026-11-16 | ThePeoplesAdOne | https://www.linkedin.com/posts/thepeoplesadone_two-private-equity-giants-are-now-competing-activity-7527691130772135938-zbh4
+2026-11-16 | ForwardBrief | https://www.linkedin.com/posts/businesssignalmedia_fintech-privatemarkets-gcc-activity-7527633995954610176-B4M-
+2026-11-16 | The Elite Spotlight | https://www.linkedin.com/posts/the-elite-spotlight_theelitespotlight-leadership-chiefinvestmentofficer-activity-7527717379049680896-UgoK
+2026-11-16 | Private Markets Wire | https://www.linkedin.com/posts/privatemarketswire_privateequity-privatemarkets-nba-activity-7527710332618784768-IC-h
+2026-11-16 | Investor.Exchange | https://www.linkedin.com/posts/investorexchange_salt-investments-reports-strong-revenue-surge-activity-7527732144836640768-oNOq
+2026-11-16 | MyFounders.Club GCC | https://www.linkedin.com/posts/myfoundersclub-global_menastartups-gccstartups-global-activity-7527821486104055809-N5cE
