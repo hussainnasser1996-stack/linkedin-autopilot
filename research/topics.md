@@ -69,7 +69,7 @@
   - Jan–Oct NT$4,485.62bn, +43.3% — TSMC (primary)
   - Previous record NT$514.81bn (August) — Focus Taiwan (confirmed by FourWeekMBA https://fourweekmba.com/ai-tsmcs-october-sales-jump-59-7-to-a-2026-high-of-nt586-9b/)
 - Card: bars — monthly revenue: Aug 2026 NT$514.8bn, Oct 2026 NT$586.9bn (add Oct 2025 only if taken from TSMC's 2025 release)
-- Status: open
+- Status: used 2026-11-17
 
 ### 6. UAE to run about 200 of Uber's ~700 driverless cars · Pillar 6 · Score 22/25 · Use: any day
 - Angle: The Gulf is one of Uber's biggest robotaxi markets now, not a pilot site. What it means for operators and city planners here.

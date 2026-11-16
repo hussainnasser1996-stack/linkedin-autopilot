@@ -29,3 +29,4 @@
 - 2026-11-14: PE, buyouts & M&A: Unity at a reported $25B from Silver Lake and PIF, about 24x run-rate EBITDA and 3.5% FCF yield, so the case rests on ads growth (autopilot, auto)
 - 2026-11-15: Games & interactive: China cleared Savvy's >$6B Moonton purchase unconditionally; ByteDance paid ~$4B in 2021; with Scopely $4.9B, Savvy >$10.9B on two mobile studios, teams left in charge (autopilot, auto)
 - 2026-11-16: Saudi results: Acwa Q3 quarter vs year, carousel (autopilot test, auto)
+- 2026-11-17: AI compute & chips: TSMC record October NT$586.9B (+59.7% YoY), read as the earliest supply signal on Nvidia results day; GCC compute buyers angle (autopilot, auto)
