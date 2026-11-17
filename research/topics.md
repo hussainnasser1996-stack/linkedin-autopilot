@@ -50,7 +50,7 @@
   - Emaar holds just over 79%; buyout cost about AED 12.6bn — EnterpriseAM https://enterpriseam.com/uae/2026/11/05/emaar-moves-to-buy-out-emaar-development-minorities-at-a-valuation-of-aed-60-bn/ (confirmed by Gulf News https://gulfnews.com/business/markets/emaar-properties-offers-dh15-per-share-cash-in-emaar-development-buyout-1.500735685, Bloomberg "up to $3.2bn")
   - Implied value ~AED 60bn; offer below AED 16.54 average analyst target — EnterpriseAM (single source; phrase as reported)
 - Card: bars — Offer AED 15.00 vs 2 Nov close AED 12.56 vs 2017 subscription AED 6.03
-- Status: open
+- Status: used 2026-11-19
 
 ### 4. Nebius: revenue +571%, and capex runs ahead of it · Pillar 2 · Score 22/25 · Use: any day
 - Angle: Neoclouds are capital machines. For GCC backers of local GPU clouds, the ratio of capex to revenue is the number to watch, more than growth.
