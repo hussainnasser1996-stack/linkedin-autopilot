@@ -45,3 +45,5 @@ Bank #1 (Anthropic IPO) skipped: final price not known before posting (unverifie
 - Point 1 label "The undisturbed price." removed (§19-style label).
 - Point 2 "Anyone buying then gets…" → "From that price the offer adds 3.3%" (no implied claim about buyers).
 - Second scan: §1 none, §2 none (no restating closer), §6 none, §8 no dashes, §19 no bold or labels.
+
+Buffer post id (scheduled by GitHub Action): 6afbb6614b26315855b4a421 · status scheduled
