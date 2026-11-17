@@ -45,3 +45,15 @@
 2026-11-16 | Private Markets Wire | https://www.linkedin.com/posts/privatemarketswire_privateequity-privatemarkets-nba-activity-7527710332618784768-IC-h
 2026-11-16 | Investor.Exchange | https://www.linkedin.com/posts/investorexchange_salt-investments-reports-strong-revenue-surge-activity-7527732144836640768-oNOq
 2026-11-16 | MyFounders.Club GCC | https://www.linkedin.com/posts/myfoundersclub-global_menastartups-gccstartups-global-activity-7527821486104055809-N5cE
+2026-11-17 | Banki Business Advisors | https://www.linkedin.com/posts/banki-business-advisors_mergersandacquisitions-gcc-oman-activity-7527978197922152448-p1q_
+2026-11-17 | Karim Salam | https://www.linkedin.com/posts/karim-salam-emba_gcc-mena-privateequity-activity-7527969527075119105-NEY2
+2026-11-17 | CapitalSA | https://www.linkedin.com/posts/capitalsa-daily_saudi-private-funds-now-hold-200-billion-activity-7528067102952562688-OGaD
+2026-11-17 | Alnilam Partners | https://www.linkedin.com/posts/priv%C3%A9concierge_gcc-education-privateequity-activity-7527966734381834240-yBgU
+2026-11-17 | AbornOne | https://www.linkedin.com/posts/aborn1_venturecapital-gcc-saudiarabia-activity-7528040241413292033-vANO
+2026-11-17 | Abdul Hannaan Kirmani | https://www.linkedin.com/posts/hannaan_venturecapital-gulftech-startups-activity-7528090904549744640-hDMu
+2026-11-17 | Serafin VC | https://www.linkedin.com/posts/serafinvc_uae-saudiarabia-mena-activity-7527968403534454784-tk-k
+2026-11-17 | Simon Innes | https://www.linkedin.com/posts/simoninnes_saudiarabia-ksa-vision2030-activity-7527964865509072896-vX0N
+2026-11-17 | Monnishaa Sengupta | https://www.linkedin.com/posts/monnishaa-sengupta-85999326_saudiarabia-investment-mena-activity-7528270569113448449-Z3N8
+2026-11-17 | GreekMergers | https://www.linkedin.com/posts/greekmergers_greekma-mergersandacquisitions-greece-activity-7527979536915787776-39ax
+2026-11-17 | Awad Mohammed | https://www.linkedin.com/posts/awad-mohammed-31774537_privatization-investmentbanking-m-activity-7528294763079467009-wMRH
+2026-11-17 | Al Nukhba Network | https://www.linkedin.com/posts/%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D8%AE%D8%A8%D8%A9-al-nukhba-network_investmentbanking-venturecapital-privateequity-activity-7528083416274145280-pEq4

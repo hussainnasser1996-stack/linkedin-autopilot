@@ -93,7 +93,7 @@
 | Al Anwar Holdings SAOG | Ahmed Ibrahim, Investor Relations Officer | suggested 2026-11-14 |
 | Oman Investment Bank (OIB) | Mohamed Sultan Salim Al Habsi, CEO | suggested 2026-11-14 |
 | Tawoos Group | Sameer Ul Haque, Chief Investment Officer | suggested 2026-11-14 |
-| Suhail Bahwan Group (Holding) | Sheikh Suhail Bahwan, Chairman | open |
+| Suhail Bahwan Group (Holding) | Sheikh Suhail Bahwan, Chairman | suggested 2026-11-17 |
 | Markaz | Ali H. Khalil, CEO | suggested 2026-11-14 |
 | KAMCO Invest | Faisal Mansour Sarkhou, CEO (Dalal J. Al Shaya, Director Private Equity) | suggested 2026-11-14 |
 | Boubyan Capital | Jabra Ghandor, CEO (per Simply Wall St, unconfirmed) | suggested 2026-11-14 |
@@ -139,28 +139,28 @@
 | Grant Thornton Qatar | Dr Sultan Hassan Al Dosari, Chairman & Managing Partner | suggested 2026-11-16 |
 | Forvis Mazars Qatar | Mohab Samy, Managing Partner & ME Board Member | suggested 2026-11-16 |
 | KPMG Qatar | Venkat Krishnaswamy, Country Senior Partner | suggested 2026-11-16 |
-| Russell Bedford Qatar | Hani Mukhaimer, Managing Partner (older source); Ahmad Mukhaimer, Partner | open |
-| ECOVIS Qatar | Mohammed Sultan Al-Ali, Senior Partner (email mohammad.al-ali@ecovis.qa on site) | open |
+| Russell Bedford Qatar | Hani Mukhaimer, Managing Partner (older source); Ahmad Mukhaimer, Partner | suggested 2026-11-17 |
+| ECOVIS Qatar | Mohammed Sultan Al-Ali, Senior Partner (email mohammad.al-ali@ecovis.qa on site) | suggested 2026-11-17 |
 | MBG Corporate Services Qatar | no named exec found | open |
 | BDO Qatar | no named partner found | open |
-| Crowe Qatar | Adib Al Chaa, Managing Partner | open |
-| RSM Qatar | Majed Al Rasromani, Managing Partner | open |
-| Uniqus Consultech (Doha office) | Dinesh Jangid, Regional Managing Partner; Jamil Khatri, CEO | open |
+| Crowe Qatar | Adib Al Chaa, Managing Partner | suggested 2026-11-17 |
+| RSM Qatar | Majed Al Rasromani, Managing Partner | suggested 2026-11-17 |
+| Uniqus Consultech (Doha office) | Dinesh Jangid, Regional Managing Partner; Jamil Khatri, CEO | suggested 2026-11-17 |
 | MEVP (Middle East Venture Partners) | Walid Mansour, Co-founder & Co-CEO; Walid Hanna, Founder & CEO (third-party profiles) | done |
-| Global Ventures | Noor Sweid, Founder & General Partner | open |
+| Global Ventures | Noor Sweid, Founder & General Partner | suggested 2026-11-17 |
 | BECO Capital | Dany Farha, Co-Founder & Managing Partner; Amer Alaily, Growth Fund lead | done |
 | Levant Capital | Salameh Sweis, CEO & Co-founder (directory listing) | done |
-| Samena Capital | Shirish Saraf, Founder & Vice Chairman | open |
-| TVM Capital Healthcare | Dr Helmut Schuehsler, Chairman & CEO | open |
+| Samena Capital | Shirish Saraf, Founder & Vice Chairman | suggested 2026-11-17 |
+| TVM Capital Healthcare | Dr Helmut Schuehsler, Chairman & CEO | suggested 2026-11-17 |
 | Nahda Capital Partners | Iñigo de Luna, Founder & Managing Partner | done |
-| Annex Investments | Ahmed Nasser Al Nowais, Founder & CEO (third-party profile) | open |
-| Aditum Investment Management | David Marshall, Senior Executive Officer; Gaurav Kumar, Deputy SEO | open |
+| Annex Investments | Ahmed Nasser Al Nowais, Founder & CEO (third-party profile) | suggested 2026-11-17 |
+| Aditum Investment Management | David Marshall, Senior Executive Officer; Gaurav Kumar, Deputy SEO | suggested 2026-11-17 |
 | Janus Henderson (MENA Private Credit) | Sikander Ahmed, Head of MENA Private Credit | done |
-| Dalma Capital | Zachary Cefaratti, Founder (third-party profile) | open |
+| Dalma Capital | Zachary Cefaratti, Founder (third-party profile) | suggested 2026-11-17 |
 | Al Mal Capital | Sanjay Vig, CEO | done |
-| Al Dhabi Capital | Ahmed Al Romaithi, Co-founder & SEO; Nabil Sleiman, Co-founder & CIO (third-party profile) | open |
-| Partners Capital (Middle East) | Issam Hamid, Partner & Head of Middle East | open |
-| Bentley Reid (DIFC) | Peter Clark, CEO | open |
+| Al Dhabi Capital | Ahmed Al Romaithi, Co-founder & SEO; Nabil Sleiman, Co-founder & CIO (third-party profile) | suggested 2026-11-17 |
+| Partners Capital (Middle East) | Issam Hamid, Partner & Head of Middle East | suggested 2026-11-17 |
+| Bentley Reid (DIFC) | Peter Clark, CEO | suggested 2026-11-17 |
 | Ardian (Abu Dhabi) | François Aissa Touazi, Chairman, Ardian Limited Abu Dhabi | open |
 | Crescent Enterprises | Badr Jafar, CEO | open |
 | Abu Dhabi Capital Group (ADCG) | H.E. Abubaker Al Khoori, Group CEO (third-party profile) | open |
