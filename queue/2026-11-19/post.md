@@ -1,7 +1,7 @@
 # 2026-11-19 — Emaar Development buyout: one price, five premiums (carousel)
 
 Pillar: PE, buyouts & M&A · Format: carousel (6 slides, PDF) · Mode: auto
-Buffer post id: (pending, written by the Action)
+Buffer post id: 6afbb6614b26315855b4a421
 PDF: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/main/docs/2026-11-19-emaar-development-buyout-premium.pdf
 
 ## Caption

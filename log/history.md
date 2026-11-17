@@ -30,3 +30,4 @@
 - 2026-11-15: Games & interactive: China cleared Savvy's >$6B Moonton purchase unconditionally; ByteDance paid ~$4B in 2021; with Scopely $4.9B, Savvy >$10.9B on two mobile studios, teams left in charge (autopilot, auto)
 - 2026-11-16: Saudi results: Acwa Q3 quarter vs year, carousel (autopilot test, auto)
 - 2026-11-17: AI compute & chips: TSMC record October NT$586.9B (+59.7% YoY), read as the earliest supply signal on Nvidia results day; GCC compute buyers angle (autopilot, auto)
+- 2026-11-19: PE, buyouts & M&A: Emaar's AED 15 offer for Emaar Development is +3.3% to +148.8% depending on the base; I'd use the 2 Nov undisturbed close (+19.4%), carousel (autopilot, auto)
