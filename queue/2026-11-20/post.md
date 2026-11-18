@@ -21,3 +21,5 @@ Image: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/
 
 المصادر: نتائج Nebius للربع الثالث 2026، CNBC
 #الذكاء_الاصطناعي #مراكز_البيانات #AI #GCC
+
+Buffer post id (scheduled by GitHub Action): 6afd07d793fa11d37dfc6665 · status draft
