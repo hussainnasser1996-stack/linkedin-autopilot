@@ -15,4 +15,5 @@ focus_this_week:
 # optional free text, e.g. "more gaming", "cover Aramco results Tuesday", "no AI posts"
 
 skip_dates:
+- 2026-11-19  # his Al Arabiya GTA VI clip goes out by hand that day
 # optional list of YYYY-MM-DD dates with no post
