@@ -60,7 +60,7 @@
   - Q3 purchases of property, equipment and intangibles $7.30bn — Nebius 6-K (primary)
   - 2027 outlook: revenue $12–13bn, capex $40–45bn — CNBC (single source; phrase as reported)
 - Card: bars — Q3 2026: revenue $0.98bn vs capex $7.30bn
-- Status: open
+- Status: used 2026-11-20
 
 ### 5. TSMC's record October, two days before Nvidia · Pillar 1 · Score 22/25 · Use: on/before 2026-11-17
 - Angle: Foundry sales are the earliest read on chip supply for every GPU buyer, Gulf sovereign compute included.

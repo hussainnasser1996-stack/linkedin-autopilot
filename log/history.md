@@ -31,3 +31,4 @@
 - 2026-11-16: Saudi results: Acwa Q3 quarter vs year, carousel (autopilot test, auto)
 - 2026-11-17: AI compute & chips: TSMC record October NT$586.9B (+59.7% YoY), read as the earliest supply signal on Nvidia results day; GCC compute buyers angle (autopilot, auto)
 - 2026-11-19: PE, buyouts & M&A: Emaar's AED 15 offer for Emaar Development is +3.3% to +148.8% depending on the base; I'd use the 2 Nov undisturbed close (+19.4%), carousel (autopilot, auto)
+- 2026-11-20: Data centres & power for AI: Nebius Q3 revenue +571% to $980.8m but capex $7.3bn (7.4x revenue); 2027 plan still >3x; watch capex/revenue for GCC GPU clouds, Arabic (autopilot, auto, Arabic draft)
