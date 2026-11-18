@@ -161,23 +161,23 @@
 | Al Dhabi Capital | Ahmed Al Romaithi, Co-founder & SEO; Nabil Sleiman, Co-founder & CIO (third-party profile) | suggested 2026-11-17 |
 | Partners Capital (Middle East) | Issam Hamid, Partner & Head of Middle East | suggested 2026-11-17 |
 | Bentley Reid (DIFC) | Peter Clark, CEO | suggested 2026-11-17 |
-| Ardian (Abu Dhabi) | François Aissa Touazi, Chairman, Ardian Limited Abu Dhabi | open |
-| Crescent Enterprises | Badr Jafar, CEO | open |
-| Abu Dhabi Capital Group (ADCG) | H.E. Abubaker Al Khoori, Group CEO (third-party profile) | open |
-| Dubai Investments PJSC | Khalid Bin Kalban, Vice Chairman & CEO | open |
-| Amanat Holdings | John Ireland, CEO | open |
+| Ardian (Abu Dhabi) | François Aissa Touazi, Chairman, Ardian Limited Abu Dhabi | suggested 2026-11-18 |
+| Crescent Enterprises | Badr Jafar, CEO | suggested 2026-11-18 |
+| Abu Dhabi Capital Group (ADCG) | H.E. Abubaker Al Khoori, Group CEO (third-party profile) | suggested 2026-11-18 |
+| Dubai Investments PJSC | Khalid Bin Kalban, Vice Chairman & CEO | suggested 2026-11-18 |
+| Amanat Holdings | John Ireland, CEO | suggested 2026-11-18 |
 | Alantra (UAE) | Saad Ashraf and George Giannakis, Managing Partners UAE; Nicholas Petrakakos, Partner & MD | done |
-| PJT Partners (ex-deNovo, Dubai) | May Nasrallah, deNovo founder, executive chair (per 2024 report) | open |
-| Sirius Capital (Atom Investment Banking) | Bhanu Vittalam, CEO, Atom Investment Banking | open |
-| Ankura (Dubai) | Guy Elkington, Senior MD (also James Tebbs, Muthmainur Rahman, Senior MDs) | open |
-| Accuracy (Middle East) | Richard Scott, Partner | open |
+| PJT Partners (ex-deNovo, Dubai) | May Nasrallah, deNovo founder, executive chair (per 2024 report) | suggested 2026-11-18 |
+| Sirius Capital (Atom Investment Banking) | Bhanu Vittalam, CEO, Atom Investment Banking | suggested 2026-11-18 |
+| Ankura (Dubai) | Guy Elkington, Senior MD (also James Tebbs, Muthmainur Rahman, Senior MDs) | suggested 2026-11-18 |
+| Accuracy (Middle East) | Richard Scott, Partner | suggested 2026-11-18 |
 | Deloitte Middle East (Strategy & Transactions) | Scott Whalan, Partner, Deloitte Private Leader, Valuation & Modelling; Robin Butteriss, S& | done |
-| PKF UAE | Stany Pereira, Managing Partner | open |
-| RSM UAE | Bassam Dahman, Managing Partner & RSM Regional Leader MENA | open |
-| Almha Capital | H.E. Hareb Al Darmaki, Founder (per site) | open |
-| I.M. Mamlouk & Company | Issam Mamlouk, Founder (per press) | open |
-| ASCA Capital | Jacob Jensen, Tom Hodgson, Niels Stidsen, Partners (per site) | open |
-| Branford Capital | Dinesh D'Souza (email listed on site) | open |
+| PKF UAE | Stany Pereira, Managing Partner | suggested 2026-11-18 |
+| RSM UAE | Bassam Dahman, Managing Partner & RSM Regional Leader MENA | suggested 2026-11-18 |
+| Almha Capital | H.E. Hareb Al Darmaki, Founder (per site) | suggested 2026-11-18 |
+| I.M. Mamlouk & Company | Issam Mamlouk, Founder (per press) | suggested 2026-11-18 |
+| ASCA Capital | Jacob Jensen, Tom Hodgson, Niels Stidsen, Partners (per site) | suggested 2026-11-18 |
+| Branford Capital | Dinesh D'Souza (email listed on site) | suggested 2026-11-18 |
 | FIG Investments | Ahmed Alsaleh (email listed on site) | open |
 | Sadin Investments Company (سادن الاستثمار) | Abdulrahman AlRashed, CEO [https://sadininvest.com/ar-finance-team/] | open |
 | EQCM (Empty Quarter Capital Management) | Osama Alowedi, Founder & CEO [https://fortune.com/2026/09/30/from-ipo-boom-to-standoff-sau | open |

@@ -57,3 +57,14 @@
 2026-11-17 | GreekMergers | https://www.linkedin.com/posts/greekmergers_greekma-mergersandacquisitions-greece-activity-7527979536915787776-39ax
 2026-11-17 | Awad Mohammed | https://www.linkedin.com/posts/awad-mohammed-31774537_privatization-investmentbanking-m-activity-7528294763079467009-wMRH
 2026-11-17 | Al Nukhba Network | https://www.linkedin.com/posts/%D8%B4%D8%A8%D9%83%D8%A9-%D8%A7%D9%84%D9%86%D8%AE%D8%A8%D8%A9-al-nukhba-network_investmentbanking-venturecapital-privateequity-activity-7528083416274145280-pEq4
+2026-11-18 | IMAP - International Mergers and Acquisitions Partnership | https://www.linkedin.com/posts/imap_the-gcc-retail-market-is-steady-and-structural-activity-7528472527568920576-3Bki
+2026-11-18 | Jada Fund of Funds | https://www.linkedin.com/posts/jada-fund-of-funds_pif-vision2030-privatecapital-activity-7528381558907498496-w_ta
+2026-11-18 | Injaz Company | https://www.linkedin.com/posts/injazcompany_sr-39615-billion-in-9m-net-profits-428-activity-7528353270369689600-_m0x
+2026-11-18 | Ahmed Kandash | https://www.linkedin.com/posts/ahmed-kandash-902604232_autobia-saudiarabia-mena-activity-7528525356903915520-AUtn
+2026-11-18 | ArabFounders | https://www.linkedin.com/posts/arabfounders-%D8%B9%D8%B1%D8%A8-%D9%81%D8%A7%D9%88%D9%86%D8%AF%D8%B1%D8%B2_saudiarabia-equestrianindustry-horseindustry-activity-7528375385873342464-H85-
+2026-11-18 | Sachin Aiyappa | https://www.linkedin.com/posts/sachin-aiyappa-a2bbb694_thegcccompass-uae-saudiarabia-activity-7528402961744584704-gDn0
+2026-11-18 | MITO Technology | https://www.linkedin.com/posts/mito-technology_industrialdecarbonisation-climatetech-deeptech-activity-7528389236212027393-udAH
+2026-11-18 | Saad Al Hajri | https://www.linkedin.com/posts/saad-al-hajri-pmp-629a4910b_projectcontrols-energy-vision2030-activity-7528355191381979137-QZEa
+2026-11-18 | Last Deal Company | https://www.linkedin.com/posts/last-deal_same-price-different-plant-activity-7528406543600394240-mfE2
+2026-11-18 | OCÉANE Invest | https://www.linkedin.com/posts/oceane-invest_etf-saudiarabia-snbc-activity-7528419342150086657-ijzY
+2026-11-18 | Startup Muslim | https://www.linkedin.com/posts/startupmuslimglobal_startupmuslim-fintech-digitalgold-activity-7528448072079704064-YW6a
