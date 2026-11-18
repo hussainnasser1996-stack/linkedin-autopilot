@@ -13,6 +13,8 @@
   - I couldn't find dated Tadawul results, IPO subscriptions, AGMs, sukuk issues, MAGNiTT/Wamda, SAMA bulletin, Saudi PMI, Tadawul monthly or GASTAT October CPI releases in the window. Saudi 2027 final budget usually comes in December; I couldn't find a date. Next OPEC+ meeting 29 Nov; Abu Dhabi Finance Week 7–10 Dec.
 
 ## Past events (outcomes)
+- 2026-11-17: Nvidia Q3 FY27 results — revenue $115.8bn (+103% YoY, +20% QoQ) vs guide $108.0bn ±2%; GAAP/non-GAAP gross margin 74.8%/74.9% vs guide 74.0% ±50bp; Q4 guide $130.0bn ±3%, gross margin 71.0–72.0% (https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)
+- 2026-11-16: Aramco Q3 base dividend record date passed (SAR 0.3393/share; payment due 25 Nov) (https://jawlah.co/en/67618)
 - 2026-11-10: CoreWeave Q3 2026 results — revenue $3.661bn (+168%), net loss $709m, backlog ~$132.5bn; 2026 revenue guide raised to $13.0–13.3bn, capex $37–39bn (https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx)
 - 2026-11-11: DIP Holding listed on DFM — priced AED 1.12, ~AED 1.94bn raised, rose as much as 6.2% on debut (https://gulfnews.com/business/markets/dubais-dip-shares-jump-6-on-debut-after-dh194-billion-ipo-1.500743544)
 - 2026-11-06: Emaar Development minority offer opened — AED 15.00 cash, runs to 10 Dec (https://www.emaar.com/en/investor-relations/emaar-development-acquisition-offer)
