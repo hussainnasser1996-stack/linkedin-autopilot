@@ -68,3 +68,15 @@
 2026-11-18 | Last Deal Company | https://www.linkedin.com/posts/last-deal_same-price-different-plant-activity-7528406543600394240-mfE2
 2026-11-18 | OCÉANE Invest | https://www.linkedin.com/posts/oceane-invest_etf-saudiarabia-snbc-activity-7528419342150086657-ijzY
 2026-11-18 | Startup Muslim | https://www.linkedin.com/posts/startupmuslimglobal_startupmuslim-fintech-digitalgold-activity-7528448072079704064-YW6a
+2026-11-19 | RUKAZ Ventures | https://www.linkedin.com/posts/rukaz-ventures_saudiarabia-venturecapital-startups-activity-7528815294363058176-VrYg
+2026-11-19 | Redmond Ramsdale | https://www.linkedin.com/posts/redmond-ramsdale-6731a14_saudi-bank-liquidity-to-remain-tight-in-2027-activity-7528762122839908352-a1Gv
+2026-11-19 | Mohamed Houssem Njah | https://www.linkedin.com/posts/mohamed-houcem-njeh_ratesvsgrowth2026-11-18-activity-7528711626926235648-Aeot
+2026-11-19 | MenaptBytes by AIA | https://www.linkedin.com/posts/menaptbytes-by-aia_saudi-lambda-studios-raises-13-million-activity-7528842383279681536-_TOJ
+2026-11-19 | Techno Time | https://www.linkedin.com/posts/techno-time-172b3383_technotime-fintech-startupfunding-activity-7528889813446488064-cnsC
+2026-11-19 | Saadou Barry | https://www.linkedin.com/posts/saadou-barry-275a07439_venturecapital-saudiarabia-startups-activity-7528857111422992385-qE2N
+2026-11-19 | PharmaBoard Advisory | https://www.linkedin.com/posts/pharmaboardadvisory_marketentry-gccpharma-businessdevelopment-activity-7528796815081701376-_iKa
+2026-11-19 | Ali Hassan | https://www.linkedin.com/posts/ali-hassan-chartered-fcsi-1298b111_capitalraising-gccmarkets-institutionalinvestment-activity-7528849088486842369-ed7G
+2026-11-19 | Deepti Shanmughan | https://www.linkedin.com/posts/deepti-shanmughan-human-capital-governance_familybusiness-successionplanning-governance-activity-7528714147199393792-rTFC
+2026-11-19 | Hassan A. Khatib | https://www.linkedin.com/posts/hassan-a-khatib-47a218283_ipos-arent-what-they-used-to-be-what-was-activity-7528732052435820544-fn2z
+2026-11-19 | Maryam Omar Bakarmom | https://www.linkedin.com/posts/maryam-omar-bakarmom_watch-the-highlights-from-our-panel-discussion-activity-7528921384937496576-av6t
+2026-11-19 | Abílio Alagôa da Silva | https://www.linkedin.com/posts/ab%C3%ADlio-alag%C3%B4a-da-silva-9a5950_saudiarabia-portugal-vision2030-activity-7528796550483968000-0YGx

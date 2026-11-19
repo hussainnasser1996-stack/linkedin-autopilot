@@ -107,7 +107,7 @@
 | Rasameel Investment | Hamad Al Sheikh Musaed / Robert Aspin listed on team (no CEO published) | suggested 2026-11-15 |
 | Bayan Investment | Yousef Mohammad Al Essa, CEO | suggested 2026-11-14 |
 | Al Safat Investment | Zeyad Tareq Al Mukhaizeem, Vice Chairman & CEO | suggested 2026-11-14 |
-| NBK Wealth (incl. NBK Capital) | CEO not confirmed | open |
+| NBK Wealth (incl. NBK Capital) | CEO not confirmed | suggested 2026-11-19 |
 | Kuwait Finance & Investment Co (KFIC) | Tareq Mishari Al-Bahar, CEO | suggested 2026-11-15 |
 | Osoul Investment | Sulaiman Ahmad Al-Ameeri, Vice Chairman & CEO | suggested 2026-11-15 |
 | Kuwait Investment Company (KIC) | Bader Al-Subaiee, CEO | suggested 2026-11-15 |
@@ -178,17 +178,17 @@
 | I.M. Mamlouk & Company | Issam Mamlouk, Founder (per press) | suggested 2026-11-18 |
 | ASCA Capital | Jacob Jensen, Tom Hodgson, Niels Stidsen, Partners (per site) | suggested 2026-11-18 |
 | Branford Capital | Dinesh D'Souza (email listed on site) | suggested 2026-11-18 |
-| FIG Investments | Ahmed Alsaleh (email listed on site) | open |
-| Sadin Investments Company (سادن الاستثمار) | Abdulrahman AlRashed, CEO [https://sadininvest.com/ar-finance-team/] | open |
-| EQCM (Empty Quarter Capital Management) | Osama Alowedi, Founder & CEO [https://fortune.com/2026/09/30/from-ipo-boom-to-standoff-sau | open |
-| Credx Capital Company | Khaled Albasias, Vice Chairman & CEO [https://credx.sa/en/about/] | open |
-| WBL Capital | Raed Nasser AlRayes, Managing Director & CEO, Head of Arranging [https://wblcapital.sa/abo | open |
-| Tanami Capital Investment Company | Dr. Nawaf Almaskati, CEO (KSA), Head of Asset Management [https://www.tanamicapital.com/ab | open |
-| Saaf Capital (سعف المالية) | Khalid Mohsen Alkrewi, CEO & Managing Director [https://saaf.com.sa/en/team] | open |
-| Alawa Alnomu Capital Company (علاوة النمو المالية) | Sulaiman Jebreen AlJebreen, CEO & Head of Advisory [https://alawa.com.sa] | open |
-| Aajil Capital Company | Faisal Chowdhry, CEO & CIO [https://www.wamda.com/en/2026/09/aajil-capital-secures-cma-lic | open |
-| Two Atoms Capital Company | Abdullah Hamoud, Board Member & CEO [https://www.twoatoms.com] | open |
-| Erteqa Financial Company | Khlood A. Aldukheil, Chairman & CEO [https://erteqa.sa/about] | open |
-| Vault Saudi LTD Co | Abdulrahman AlSudairy, General Manager, Vault Saudi [https://en.sharikatmubasher.com/news/ | open |
-| Chrome Advisory Company | Loulwa Bakr, Managing Partner; Eng. Khalid Suleimani, Chairman | open |
-| CLA Saudi Arabia (CLA Alaufi & Alharbi, ex-HCPA) | Abdullah Al Harbi, Partner; Turki Al Aufi, Partner [https://claglobal.com/locations-networ | open |
+| FIG Investments | Ahmed Alsaleh (email listed on site) | suggested 2026-11-19 |
+| Sadin Investments Company (سادن الاستثمار) | Abdulrahman AlRashed, CEO [https://sadininvest.com/ar-finance-team/] | suggested 2026-11-19 |
+| EQCM (Empty Quarter Capital Management) | Osama Alowedi, Founder & CEO [https://fortune.com/2026/09/30/from-ipo-boom-to-standoff-sau | suggested 2026-11-19 |
+| Credx Capital Company | Khaled Albasias, Vice Chairman & CEO [https://credx.sa/en/about/] | suggested 2026-11-19 |
+| WBL Capital | Raed Nasser AlRayes, Managing Director & CEO, Head of Arranging [https://wblcapital.sa/abo | suggested 2026-11-19 |
+| Tanami Capital Investment Company | Dr. Nawaf Almaskati, CEO (KSA), Head of Asset Management [https://www.tanamicapital.com/ab | suggested 2026-11-19 |
+| Saaf Capital (سعف المالية) | Khalid Mohsen Alkrewi, CEO & Managing Director [https://saaf.com.sa/en/team] | suggested 2026-11-19 |
+| Alawa Alnomu Capital Company (علاوة النمو المالية) | Sulaiman Jebreen AlJebreen, CEO & Head of Advisory [https://alawa.com.sa] | suggested 2026-11-19 |
+| Aajil Capital Company | Faisal Chowdhry, CEO & CIO [https://www.wamda.com/en/2026/09/aajil-capital-secures-cma-lic | suggested 2026-11-19 |
+| Two Atoms Capital Company | Abdullah Hamoud, Board Member & CEO [https://www.twoatoms.com] | suggested 2026-11-19 |
+| Erteqa Financial Company | Khlood A. Aldukheil, Chairman & CEO [https://erteqa.sa/about] | suggested 2026-11-19 |
+| Vault Saudi LTD Co | Abdulrahman AlSudairy, General Manager, Vault Saudi [https://en.sharikatmubasher.com/news/ | suggested 2026-11-19 |
+| Chrome Advisory Company | Loulwa Bakr, Managing Partner; Eng. Khalid Suleimani, Chairman | suggested 2026-11-19 |
+| CLA Saudi Arabia (CLA Alaufi & Alharbi, ex-HCPA) | Abdullah Al Harbi, Partner; Turki Al Aufi, Partner [https://claglobal.com/locations-networ | suggested 2026-11-19 |
