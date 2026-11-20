@@ -99,7 +99,7 @@
 | Boubyan Capital | Jabra Ghandor, CEO (per Simply Wall St, unconfirmed) | suggested 2026-11-14 |
 | KIPCO | Sheikha Dana Naser Sabah Al-Ahmad Al-Sabah, Group CEO | suggested 2026-11-14 |
 | National Investments Co (NIC) | Fahad Abdulrahman Al-Mukhaizim, CEO | suggested 2026-11-14 |
-| KMEFIC | CEO not confirmed (sources conflict) | open |
+| KMEFIC | CEO not confirmed (sources conflict) | suggested 2026-11-20 |
 | Arzan Financial Group | Jassem Zainal, Vice Chairman & CEO | suggested 2026-11-14 |
 | Noor Financial Investment | Gururaj Rao, CEO (per Simply Wall St, unconfirmed) | suggested 2026-11-14 |
 | KFH Capital | Abdullah Sulaiman Al-Haddad, CEO | suggested 2026-11-14 |
@@ -124,16 +124,16 @@
 | Crowe Kuwait | Rabea Saad Al Muhanna, Managing Partner | suggested 2026-11-16 |
 | Moore Kuwait | Idris Atcha, Managing Partner; Ahmed Awny, Partner (advisory) | suggested 2026-11-16 |
 | Al Rayan Investment (ARI) | Akber Khan, Acting CEO | suggested 2026-11-16 |
-| Dlala Holding | CEO seat vacant (Managing Director in charge) | open |
+| Dlala Holding | CEO seat vacant (Managing Director in charge) | suggested 2026-11-20 |
 | Al Faisal Holding | Sheikh Faisal bin Qassim Al Thani, Chairman; Ali Mahmoudy, Chief Strategy Officer | suggested 2026-11-16 |
 | Qatar Oman Investment Co | Nasser bin Mohammad Aale Al-Khalidi, CEO (per Jan 2026 listing); Khalid Sultan Al Rabban,  | suggested 2026-11-16 |
 | Estithmar Holding | Basel Shaddad, Holding CEO (from May 2026); Fadi Al Faqih, Group CEO Estithmar Capital | suggested 2026-11-16 |
 | Al Mana Group | Almoatasim Billah Sharqawi, Group CEO; Saoud Omar Almana, Chairman | suggested 2026-11-16 |
 | Mannai Corporation | Alekh Grewal, Group CEO | suggested 2026-11-16 |
-| Al Attiya Group | no named exec found | open |
+| Al Attiya Group | no named exec found | suggested 2026-11-20 |
 | Rasmal Ventures | Alexander Wiedmer, Co-Managing Partner | suggested 2026-11-16 |
 | Darwish Holding | Bader Al-Darwish, Chairman & Managing Director | suggested 2026-11-16 |
-| Aamal Company | CEO not confirmed; Sheikh Faisal bin Qassim Al Thani, Chairman (Al Faisal Holding) | open |
+| Aamal Company | CEO not confirmed; Sheikh Faisal bin Qassim Al Thani, Chairman (Al Faisal Holding) | suggested 2026-11-20 |
 | Baker Tilly Qatar | Sami Lutfi Zaitoon, Managing Partner | suggested 2026-11-16 |
 | Moore Qatar (Moore JFC) | Mago JB Singh, Group Managing Partner | suggested 2026-11-16 |
 | Grant Thornton Qatar | Dr Sultan Hassan Al Dosari, Chairman & Managing Partner | suggested 2026-11-16 |
@@ -141,8 +141,8 @@
 | KPMG Qatar | Venkat Krishnaswamy, Country Senior Partner | suggested 2026-11-16 |
 | Russell Bedford Qatar | Hani Mukhaimer, Managing Partner (older source); Ahmad Mukhaimer, Partner | suggested 2026-11-17 |
 | ECOVIS Qatar | Mohammed Sultan Al-Ali, Senior Partner (email mohammad.al-ali@ecovis.qa on site) | suggested 2026-11-17 |
-| MBG Corporate Services Qatar | no named exec found | open |
-| BDO Qatar | no named partner found | open |
+| MBG Corporate Services Qatar | no named exec found | suggested 2026-11-20 |
+| BDO Qatar | no named partner found | suggested 2026-11-20 |
 | Crowe Qatar | Adib Al Chaa, Managing Partner | suggested 2026-11-17 |
 | RSM Qatar | Majed Al Rasromani, Managing Partner | suggested 2026-11-17 |
 | Uniqus Consultech (Doha office) | Dinesh Jangid, Regional Managing Partner; Jamil Khatri, CEO | suggested 2026-11-17 |

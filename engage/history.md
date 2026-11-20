@@ -80,3 +80,13 @@
 2026-11-19 | Hassan A. Khatib | https://www.linkedin.com/posts/hassan-a-khatib-47a218283_ipos-arent-what-they-used-to-be-what-was-activity-7528732052435820544-fn2z
 2026-11-19 | Maryam Omar Bakarmom | https://www.linkedin.com/posts/maryam-omar-bakarmom_watch-the-highlights-from-our-panel-discussion-activity-7528921384937496576-av6t
 2026-11-19 | Abílio Alagôa da Silva | https://www.linkedin.com/posts/ab%C3%ADlio-alag%C3%B4a-da-silva-9a5950_saudiarabia-portugal-vision2030-activity-7528796550483968000-0YGx
+2026-11-20 | Nabih Eid | https://www.linkedin.com/posts/nabeeh-eldardery_privateequity-carveout-manda-activity-7529164991569121280-kVh4
+2026-11-20 | Didier Beltai-Menth | https://www.linkedin.com/posts/dbeltaimenth_privateequity-valuecreation-activity-7529098728440262656-PJ1w
+2026-11-20 | Mohamed Bassuny | https://www.linkedin.com/posts/mohamedbassuny_saudi-bank-liquidity-to-remain-tight-in-2027-activity-7529139151997419520-KvYY
+2026-11-20 | AYAN PARTNERS | https://www.linkedin.com/posts/ayan-partners_privateequity-northafrica-fintech-activity-7529109541779693569-zzBy
+2026-11-20 | Connecting the Dots in FinTech | https://www.linkedin.com/posts/connectinthedotsinfintech_connect-money-raises-35-million-pre-series-activity-7529385877341474816-u_IM
+2026-11-20 | Thomas Allgeyer | https://www.linkedin.com/posts/thomas-allgeyer_venture-money-piles-up-while-payouts-thin-activity-7529097925361147904-Bwe7
+2026-11-20 | Banki Business Advisors | https://www.linkedin.com/posts/banki-business-advisors_businessexit-mergersandacquisitions-sellyourbusiness-activity-7529120765053595649-ERY7
+2026-11-20 | GIB Capital | https://www.linkedin.com/posts/gibcapitalksa_772m-activity-7529092362518663168--1WM
+2026-11-20 | Ali Gurlek | https://www.linkedin.com/posts/aligurlek_koncar-powertransformers-strategicpartnerships-activity-7529099069189898240-HjBg
+2026-11-20 | Noor Abu Jbara | https://www.linkedin.com/posts/noor-abu-jbara-9181b352_watch-the-highlights-from-our-panel-discussion-activity-7529096530776109058-EwgP
