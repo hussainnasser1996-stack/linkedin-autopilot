@@ -44,3 +44,5 @@ Pre-Humanizer caption: queue/2026-11-22/caption-draft.txt. Voice sample: guidanc
 Second scan: §1 none (the "from X to Y" line is Uber's stated shift, both halves carry information); §2 none; §6 the four fleet tasks are distinct jobs, not a rhythm triad; §8 zero em/en dashes; §19 no bold.
 Facts re-checked: nearly 200 (UAE, year-end), ~700 (world, year-end), over 2,000 (end-2027), half US / half outside — all match the prepared remarks and the card.
 Hard rules: no CFA, no Singular Link/Revival Lab details, no job-search wording, no politics/geopolitics (the remarks' Middle East bookings note was left out), no GCC body named or judged, no country comparison, no emojis/hype. Sensitivity: neutral company targets; UAE mentioned positively. Words: 144 (excl. sources/hashtags). Company tags: none (Uber not in linkedin_orgs).
+
+Buffer post id (scheduled by GitHub Action): 6affab25ca85ebefb0ea6033 · status scheduled
