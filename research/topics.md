@@ -13,6 +13,7 @@
   - I couldn't find dated Tadawul results, IPO subscriptions, AGMs, sukuk issues, MAGNiTT/Wamda, SAMA bulletin, Saudi PMI, Tadawul monthly or GASTAT October CPI releases in the window. Saudi 2027 final budget usually comes in December; I couldn't find a date. Next OPEC+ meeting 29 Nov; Abu Dhabi Finance Week 7–10 Dec.
 
 ## Past events (outcomes)
+- 2026-11-19: Anthropic listing day on Nasdaq (ANT) per Nasdaq notice; I couldn't confirm the first-day close in a search on 20 Nov (https://nasdaqtrader.com/TraderNews.aspx?id=DTN2026-28)
 - 2026-11-18: Anthropic IPO priced at $83 (above $70–78 range), ~980m shares (upsized from 825m), $81.3bn raised, largest IPO on record, ~$1.5tn fully diluted; trades on Nasdaq as ANT (https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html, https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time)
 - 2026-11-17: Nvidia Q3 FY27 results — revenue $115.8bn (+103% YoY, +20% QoQ) vs guide $108.0bn ±2%; GAAP/non-GAAP gross margin 74.8%/74.9% vs guide 74.0% ±50bp; Q4 guide $130.0bn ±3%, gross margin 71.0–72.0% (https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)
 - 2026-11-16: Aramco Q3 base dividend record date passed (SAR 0.3393/share; payment due 25 Nov) (https://jawlah.co/en/67618)

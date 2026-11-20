@@ -1,6 +1,6 @@
 # 2026-11-22 — Uber: nearly 200 of ~700 driverless cars in the UAE by year-end
 
-Pillar: Robotics, autonomy & mobility · Card: bars · Mode: auto · Buffer post id: (pending)
+Pillar: Robotics, autonomy & mobility · Card: bars · Mode: auto · Buffer post id: 6affab25ca85ebefb0ea6033
 Image: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/main/cards/2026-11-22-uber-uae-driverless.png
 Bank candidate: research/topics.md #6. Skipped #2 Ma'aden (covered by the 18 Nov video).
 Target date: 2026-11-22 (Sun, card). 2026-11-21 already queued (poll). Last history pillar: Gulf capital & venture building.

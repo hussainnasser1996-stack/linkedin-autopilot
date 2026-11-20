@@ -33,3 +33,4 @@
 - 2026-11-19: PE, buyouts & M&A: Emaar's AED 15 offer for Emaar Development is +3.3% to +148.8% depending on the base; I'd use the 2 Nov undisturbed close (+19.4%), carousel (autopilot, auto)
 - 2026-11-20: Data centres & power for AI: Nebius Q3 revenue +571% to $980.8m but capex $7.3bn (7.4x revenue); 2027 plan still >3x; watch capex/revenue for GCC GPU clouds, Arabic (autopilot, auto, Arabic draft)
 - 2026-11-21: Gulf capital & venture building: Anthropic IPO at $83 raises $81.3bn (~$1.5tn); QIA in at $183bn, MGX co-led at $380bn; poll on what moves the stock most (autopilot, auto, poll)
+- 2026-11-22: Robotics, autonomy & mobility: Uber expects nearly 200 of its ~700 fully driverless cars in the UAE by end-2026 (>2,000 by end-2027); now a fleet business, buy/finance/run the cars and depots is where local companies get built (autopilot, auto)
