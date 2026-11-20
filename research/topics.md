@@ -81,7 +81,7 @@
   - ~200 in the UAE by end-2026 — Annahar https://www.annahar.com/economy/363844/ (also headlined by Al Khaleej and AGBI https://www.agbi.com/transport/2026/11/uber-to-have-200-driverless-cars-on-uae-roads-this-year/; phrase as reported)
   - Driverless partners named: WeRide and Baidu now; Pony and Momenta to be added — Uber transcript (primary)
 - Card: bars — Uber driverless fleet end-2026: UAE ~200, rest of world ~500; end-2027 target 2,000+
-- Status: open
+- Status: used 2026-11-22
 
 ### 7. Nvidia Q3 FY27: did the 74% gross margin hold? · Pillar 1 · Score 21/25 · Use: from 2026-11-18 (results 17 Nov)
 - Angle: Follow-up to the 13 Nov deep dive. The chip layer keeps most of the AI data-centre margin; check whether that held and what it means for GCC buyers of compute.
