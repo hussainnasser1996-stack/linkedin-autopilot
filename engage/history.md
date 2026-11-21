@@ -90,3 +90,14 @@
 2026-11-20 | GIB Capital | https://www.linkedin.com/posts/gibcapitalksa_772m-activity-7529092362518663168--1WM
 2026-11-20 | Ali Gurlek | https://www.linkedin.com/posts/aligurlek_koncar-powertransformers-strategicpartnerships-activity-7529099069189898240-HjBg
 2026-11-20 | Noor Abu Jbara | https://www.linkedin.com/posts/noor-abu-jbara-9181b352_watch-the-highlights-from-our-panel-discussion-activity-7529096530776109058-EwgP
+2026-11-21 | Prof. Helmi Boshnak, PhD, MSc | https://www.linkedin.com/posts/prof-helmi-boshnak-phd-msc-5a44b87b_the-accounting-role-of-financial-and-non-financial-activity-7529586558413193217-oy0E
+2026-11-21 | Ryan Moynagh | https://www.linkedin.com/posts/rmoynagh_startups-gcc-accelerators-activity-7529423520062267392-9HHd
+2026-11-21 | Peyman Parsi | https://www.linkedin.com/posts/peymanparsi-scale_gcc-ai-enterpriseai-activity-7529505932356026368-RQEP
+2026-11-21 | Kooshduth Sharma Ramburhose, FCCA | https://www.linkedin.com/posts/kooshduth-sharma-ramburhose-fcca-a35a4a191_private-equity-aum-activity-7529575229963014144-ZXPK
+2026-11-21 | Tech in Africa | https://www.linkedin.com/posts/tech-in-africa_orange-is-adding-250-million-to-orange-ventures-activity-7529468804498636800-Yus8
+2026-11-21 | Builders in Fintech | https://www.linkedin.com/posts/buildersinfintech_fintech-payments-ai-activity-7529461063637975040-oE1t
+2026-11-21 | Ecofin Agency | https://www.linkedin.com/posts/ecofin-agency_venturecapital-startups-africa-activity-7529511941749317633-9_KH
+2026-11-21 | Georges van Hoegaerden | https://www.linkedin.com/posts/georgesvh_new-expectations-for-limited-partners-in-activity-7529707920947728384-n8T5
+2026-11-21 | Elric Langton | https://www.linkedin.com/posts/smallcompanychampion_mtc-uksmallcaps-rns-activity-7529488724645171201-pcnU
+2026-11-21 | Grizzz AI | https://www.linkedin.com/posts/grizzz-ai_startup-screening-how-big-sky-capitals-activity-7529609977435439104-HvTS
+2026-11-21 | FoundrProtocol | https://www.linkedin.com/posts/foundrprotocol_saudiarabia-gccfounders-misa-activity-7529525820948828160-6C2h
