@@ -1,0 +1,20 @@
+Nvidia kept 74.8% gross margin last quarter. Next quarter it guides 71% to 72%. Swipe to see why that matters.
+
+The quarter to 25 October, from Nvidia's release:
+Revenue: $115.8bn, up 103%
+Data centre: $107.6bn, up 110%
+Gross margin: 74.8%, against a 74.0% guide
+
+Two things I'd look at:
+
+1. The real story isn't the revenue — it's the margin. Q4 guide: $130bn at 71% to 72%. Q4 also has an extra week.
+
+2. On the call, the CFO said Q4 should be the bottom, with 72% to 73% in fiscal 2028.
+
+On 13 Nov I wrote that the chip layer keeps most of the AI data-centre margin. About 3 points lower, it still does.
+
+That matters.
+
+For Gulf buyers of compute, that margin is a crucial part of every GPU price.
+
+If you buy or resell compute in the Gulf, do you track Nvidia's margin in your planning?

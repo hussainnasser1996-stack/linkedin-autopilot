@@ -1,0 +1,17 @@
+{
+  "title": "Nvidia Q3 FY27: the margin steps down",
+  "sources": "Nvidia Q3 FY27 release (17 Nov 2026) and Q2 FY27 outlook; Q3 FY27 earnings call via ValueAdd VC and The Singju Post",
+  "slides": [
+    {"type": "cover", "eyebrow": "AI compute · Nvidia Q3 FY27", "title": "74.8% gross margin.", "highlight": "Q4 guide: 71% to 72%.", "sub": "The chip layer's margin, in 6 slides."},
+    {"type": "stat", "eyebrow": "The quarter to 25 Oct", "number": "$115.8bn", "label": "Revenue, up 103% on a year ago", "note": "Nvidia had guided $108.0bn, plus or minus 2%."},
+    {"type": "stat", "eyebrow": "Where it comes from", "number": "$107.6bn", "label": "Data centre revenue, up 110%", "note": "About 93% of the quarter's revenue."},
+    {"type": "bars", "eyebrow": "Gross margin (GAAP)", "title": "The step down", "bars": [
+      {"label": "Q2 FY27", "value": 75.0, "display": "75.0%"},
+      {"label": "Q3 FY27 (guide was 74.0%)", "value": 74.8, "display": "74.8%"},
+      {"label": "Q4 FY27 guide", "value": 71.5, "display": "71% to 72%", "highlight": true}]},
+    {"type": "points", "eyebrow": "Two things I'd look at", "title": "Read the guide", "points": [
+      "Q4 guide: $130bn of revenue at a 71% to 72% margin. Q4 has one extra week.",
+      "On the call, the CFO said Q4 should be the low point, with 72% to 73% expected in fiscal 2028."]},
+    {"type": "end", "eyebrow": "What I'll watch", "text": "Whether the margin gets back to 72% to 73% in fiscal 2028.", "question": "If you buy or resell compute here, do you track Nvidia's margin?"}
+  ]
+}

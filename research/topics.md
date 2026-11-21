@@ -91,7 +91,7 @@
   - Results and call 17 Nov 2026 — https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873 (primary)
   - Pull actuals from the release before writing. Source note: research/deep-dives/2026-11-ai-datacentre-margins.md
 - Card: bars — gross margin: guide 74.0% vs actual
-- Status: open
+- Status: used 2026-11-23
 
 ### 8. Saudi startups turn to private credit · Pillar 5 · Score 21/25 · Use: any day (not next to #1)
 - Angle: With venture equity thinner this year, lenders are stepping in. Debt suits companies with revenue that can carry repayments; it isn't a fix for every startup.
