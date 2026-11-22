@@ -33,7 +33,7 @@
   - EV ÷ client assets ≈ 2.7% (own calculation from the two primary figures; say so)
   - Canaccord holds ~66.9% and expects ~£564m of proceeds — search summary of Family Wealth Report https://www.familywealthreport.com/article.php/Gulf-SWF%2C-Investment-House-To-Acquire-Canada_dash_Owned-Canaccord-Wealth (not opened this run; open it before use or leave it out)
 - Card: bars — client assets £43.4bn vs enterprise value £1.17bn (≈2.7%)
-- Status: open
+- Status: used 2026-11-24
 
 ### 2. Isomorphic Labs raises $5bn, and MGX comes back · Pillar 4 · Score 23/25 · Use: any day
 - Angle: The biggest AI drug-discovery round I've seen, and still no drug in clinical trials. Investors are paying for the platform before human data. That matters for GCC life-science funds weighing the same kind of bet. MGX is a repeat backer.
