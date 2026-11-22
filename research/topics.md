@@ -1,144 +1,144 @@
-# Topic bank: week of 2026-11-15 (sweep run 2026-11-15T01:18Z)
+# Topic bank: week of 2026-11-22 (sweep run 2026-11-22T01:10Z)
 
 ## Calendar (next 7 days)
-- 2026-11-16: Aramco Q3 2026 base dividend record date (SAR 0.3393/share, SAR 82.07bn total; paid 25 Nov) · Aramco · Earnings · Impact H — https://jawlah.co/en/67618
-- 2026-11-17: Nvidia Q3 FY2027 results (quarter to 25 Oct); call 2pm PT = 01:00 Riyadh on 18 Nov · Nvidia / AI chips · Earnings · Impact H — https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873
-- 2026-11-18: Anthropic IPO pricing (range $70–78, up to ~$1.4tn at the top; QIA and MGX are existing holders) · Anthropic / Gulf capital abroad · Corporate · Impact H — https://enterpriseam.com/uae/2026/11/13/anthropics-ipo-draws-heavy-demand-and-could-still-fetch-usd-1-5-tn-valuation/
-- 2026-11-19: Anthropic starts trading on Nasdaq (ticker ANT) · Anthropic / Gulf capital abroad · Corporate · Impact H — https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation
+- 2026-11-23: Global Games Show Abu Dhabi, ADNEC (23–24 Nov) · Games / esports · Industry · Impact M — https://tradefest.io/en/event/global-games-show-abu-dhabi-november-2026 (other listings give different dates; check globalgamesshow.com before posting on it)
+- 2026-11-24: Dell Q3 FY2027 results, after US close (AI servers; Q3 revenue guide $49.0bn, +81%) · Dell / AI compute · Earnings · Impact H — https://en.arincen.com/instruments/DELL/earnings (third-party calendar; I couldn't find Dell's own call notice, so confirm on investors.delltechnologies.com. Guide: https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000039/exhibit991earnings8kq2fy27.htm)
+- 2026-11-25: Aramco Q3 2026 base dividend paid (SAR 0.3393/share, SAR 82.07bn total) · Aramco · Earnings · Impact H — https://www.argaam.com/en/reports/company-dividend/63056
+- 2026-11-25: Derayah Financial Q3 dividend paid (SAR 0.33/share, record date 16 Nov) · Derayah / Saudi brokers · Earnings · Impact M — https://www.argaam.com/en/reports/company-dividend/63326
+- 2026-11-26: CIO Xchange Saudi Arabia, Riyadh (CIO leadership and AI) · Saudi enterprise tech · Industry · Impact M — https://event.idc.com/?p=36563
 - Notes:
-  - Microsoft Saudi Arabia East region: "available to customers in November 2026", no day given; I couldn't find a go-live announcement — https://news.microsoft.com/source/emea/2026/08/microsoft-announces-saudi-arabia-east-datacenter-region-will-be-available-in-november-2026/
-  - IDC CIO Summit KSA moved to 25–26 Jan 2027 (https://event.idc.com/event/idc-cio-summit-ksa/). Connected World KSA (17–18 Nov) shows a change of date to 08–09 Oct 2027 (https://www.tradefairdates.com/Connected-World-KSA-M9936/Riyadh.html). Don't post on either as live.
-  - Emaar Development offer period runs 6 Nov–10 Dec 2026 (outside window) — https://www.emaar.com/en/investor-relations/emaar-development-acquisition-offer
-  - HUMAIN says its full AI stack (incl. a 3-trillion-parameter open-weight model) is available 15 Dec (outside window) — https://www.arabnews.com/saudi-arabia/humain-ceo-unveils-december-ai-stack-rollout-humain-launch-plans-for-2027-3011422
-  - I couldn't find dated Tadawul results, IPO subscriptions, AGMs, sukuk issues, MAGNiTT/Wamda, SAMA bulletin, Saudi PMI, Tadawul monthly or GASTAT October CPI releases in the window. Saudi 2027 final budget usually comes in December; I couldn't find a date. Next OPEC+ meeting 29 Nov; Abu Dhabi Finance Week 7–10 Dec.
+  - Microsoft Saudi Arabia East region: "available to customers in November 2026", no day given. I couldn't find a go-live announcement as of 22 Nov — https://news.microsoft.com/source/emea/2026/08/microsoft-announces-saudi-arabia-east-datacenter-region-will-be-available-in-november-2026/
+  - Esports Nations Cup (Riyadh) was postponed to November 2027, so don't post on it as live — https://www.pocketgamer.biz/esports-nations-cup-postponed-to-november-2027/
+  - Just outside the window: OPEC+ meeting 29 Nov; Kingdom of Gaming, Riyadh 1–3 Dec; Emaar Development offer closes 10 Dec; HUMAIN full AI stack due 15 Dec.
+  - I couldn't find dated Tadawul IPO subscriptions, AGMs, sukuk issues, MAGNiTT/Wamda reports, a SAMA October bulletin, GASTAT October CPI or a final 2027 budget date in the window.
 
 ## Past events (outcomes)
-- 2026-11-19: Anthropic listing day on Nasdaq (ANT) per Nasdaq notice; I couldn't confirm the first-day close in a search on 20 Nov (https://nasdaqtrader.com/TraderNews.aspx?id=DTN2026-28)
-- 2026-11-18: Anthropic IPO priced at $83 (above $70–78 range), ~980m shares (upsized from 825m), $81.3bn raised, largest IPO on record, ~$1.5tn fully diluted; trades on Nasdaq as ANT (https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html, https://www.aljazeera.com/economy/2026/11/19/anthropic-raises-81-3bn-in-biggest-ipo-of-all-time)
-- 2026-11-17: Nvidia Q3 FY27 results — revenue $115.8bn (+103% YoY, +20% QoQ) vs guide $108.0bn ±2%; GAAP/non-GAAP gross margin 74.8%/74.9% vs guide 74.0% ±50bp; Q4 guide $130.0bn ±3%, gross margin 71.0–72.0% (https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)
-- 2026-11-16: Aramco Q3 base dividend record date passed (SAR 0.3393/share; payment due 25 Nov) (https://jawlah.co/en/67618)
-- 2026-11-10: CoreWeave Q3 2026 results — revenue $3.661bn (+168%), net loss $709m, backlog ~$132.5bn; 2026 revenue guide raised to $13.0–13.3bn, capex $37–39bn (https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx)
-- 2026-11-11: DIP Holding listed on DFM — priced AED 1.12, ~AED 1.94bn raised, rose as much as 6.2% on debut (https://gulfnews.com/business/markets/dubais-dip-shares-jump-6-on-debut-after-dh194-billion-ipo-1.500743544)
-- 2026-11-06: Emaar Development minority offer opened — AED 15.00 cash, runs to 10 Dec (https://www.emaar.com/en/investor-relations/emaar-development-acquisition-offer)
-- Savvy–Moonton: SAMR approval published 6 Nov; I couldn't find a closing announcement yet (https://www.pocketgamer.biz/china-approves-savvy-games-groups-moonton-acquisition/)
-- 2026-11-09 to 2026-11-12: UN World Data Forum, Riyadh — I couldn't confirm an outcome (last week's sweep found a GASTAT headline saying it was postponed to 2027)
+- 2026-11-20: WeRide Q3 2026 results: revenue RMB321.5m (+88.0%), overseas 45.7% of revenue, gross margin 43.0%, Middle East fleet ~600 vehicles (https://ir.weride.ai/news-releases/news-release-details/overseas-revenue-1715-yoy-contributing-nearly-half-total-revenue)
+- 2026-11-19: Anthropic first day on Nasdaq (ANT): first trade $111.50, close $97.17, +17.1% on the $83 IPO price, on a day the Nasdaq fell 2.2% (https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo)
+- 2026-11-18: Anthropic IPO priced at $83 (above $70–78 range), ~980m shares (upsized from 825m), $81.3bn raised, largest IPO on record, ~$1.5tn fully diluted (https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html)
+- 2026-11-17: Nvidia Q3 FY27 results: revenue $115.8bn (+103% YoY) vs guide $108.0bn ±2%; GAAP/non-GAAP gross margin 74.8%/74.9% vs guide 74.0% ±50bp; Q4 guide $130.0bn ±3% (https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027)
+- 2026-11-16: Aramco Q3 base dividend record date passed (SAR 0.3393/share; payment 25 Nov) (https://jawlah.co/en/67618)
+- 2026-11-17 to 18: IDC CIO Summit KSA. Last week's sweep found it moved to Jan 2027 and another listing kept it at 17–18 Nov. I couldn't confirm which is right.
+- 2026-11-10: CoreWeave Q3 2026: revenue $3.661bn (+168%), net loss $709m, backlog ~$132.5bn (https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx)
+- 2026-11-11: DIP Holding listed on DFM at AED 1.12, ~AED 1.94bn raised, up as much as 6.2% on debut (https://gulfnews.com/business/markets/dubais-dip-shares-jump-6-on-debut-after-dh194-billion-ipo-1.500743544)
+- Savvy–Moonton: SAMR approval published 6 Nov. I still couldn't find a closing announcement (https://www.pocketgamer.biz/china-approves-savvy-games-groups-moonton-acquisition/)
 
 ## Candidates (ranked)
-### 1. Gulf sovereigns get a public price on Anthropic · Pillar 8 · Score 24/25 · Use: on/after 2026-11-18 (pricing day)
-- Angle: QIA and MGX bought in privately at $183bn and $380bn. The IPO puts a market price on those stakes for the first time. Stake sizes aren't public, so no estimates.
+### 1. Mubadala buys a UK wealth manager at about 2.7% of client assets · Pillar 10 · Score 23/25 · Use: any day
+- Angle: Read it like a deal modeller. Wealth managers get priced on client assets and fee margin. At £1.17bn for £43.4bn of assets, the buyers have to believe those assets stay and keep growing. Gulf capital abroad, neutral framing.
 - Facts:
-  - Series F, Sep 2025: $13bn at $183bn post-money; QIA named among investors — Anthropic https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation (primary)
-  - Series G, Feb 2026: $30bn at $380bn post-money; MGX among co-leads — Anthropic https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation (primary; MGX co-lead confirmed by The Decoder https://the-decoder.com/anthropic-raises-30-billion-pushing-valuation-to-380-billion/)
-  - IPO range $70–78, 825m shares, up to $64.4bn, ~$1.4tn at the top (fully diluted) — TNW https://thenextweb.com/news/anthropic-ipo-terms-1-4-trillion-valuation (confirmed by EnterpriseAM, citing Reuters/CNBC https://enterpriseam.com/uae/2026/11/13/anthropics-ipo-draws-heavy-demand-and-could-still-fetch-usd-1-5-tn-valuation/)
-  - Pricing 18 Nov, trading 19 Nov; orders ~6x the stock (Bloomberg, reported) — EnterpriseAM (trading date confirmed by TNW)
-  - Re-check the final price on 18–19 Nov before posting; write "reported" until it prices.
-- Card: bars — Anthropic valuation: Sep 2025 $183bn, Feb 2026 $380bn, IPO top of range ~$1,400bn
-- Status: used 2026-11-21
+  - Enterprise value about £1.17bn, all cash, announced 16 Nov 2026 — Mubadala https://www.mubadala.com/en/news/mubadala-and-centerbridge-partners-to-acquire-canaccord-genuitys-uk-wealth-management-business (primary; confirmed by Caproasia https://caproasia.com/2026/11/21/uae-abu-dhabi-381-billion-sovereign-wealth-fund-mubadala-investment-company-united-states-52-billion-private-equity-firm-centerbridge-partners-to-buy-canada-1-1-billion-financial-group-canaccord)
+  - £43.4bn of assets under management and administration at 30 Jun 2026 — Mubadala (primary)
+  - Jointly owned by Mubadala and Centerbridge; management keeps a "meaningful" stake; completion expected H1 2027 — Mubadala (primary)
+  - EV ÷ client assets ≈ 2.7% (own calculation from the two primary figures; say so)
+  - Canaccord holds ~66.9% and expects ~£564m of proceeds — search summary of Family Wealth Report https://www.familywealthreport.com/article.php/Gulf-SWF%2C-Investment-House-To-Acquire-Canada_dash_Owned-Canaccord-Wealth (not opened this run; open it before use or leave it out)
+- Card: bars — client assets £43.4bn vs enterprise value £1.17bn (≈2.7%)
+- Status: open
 
-### 2. Ma'aden Q3: revenue up, EBITDA down, and the mix explains it · Pillar 5 · Score 24/25 · Use: any day
-- Angle: Read it like an investor. Gold and aluminium had record quarters; phosphate absorbed record sulfur costs and no ammonia export sales (the company's own explanation). Mix matters more than the headline.
+### 2. Isomorphic Labs raises $5bn, and MGX comes back · Pillar 4 · Score 23/25 · Use: any day
+- Angle: The biggest AI drug-discovery round I've seen, and still no drug in clinical trials. Investors are paying for the platform before human data. That matters for GCC life-science funds weighing the same kind of bet. MGX is a repeat backer.
+- Facts:
+  - $5bn Series C, co-led by Greenoaks and Sequoia; a16z new; MGX, Thrive, GV, CapitalG, Temasek and the UK Sovereign AI Fund returned — TechCrunch https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials/ (confirmed by pharmaphorum https://pharmaphorum.com/news/isomorphic-labs-raises-5bn-massive-third-round)
+  - Follows a $2.1bn round in May 2026 — TechCrunch (confirmed by pharmaphorum)
+  - No candidate in clinical trials yet; funds aimed at first programmes reaching trials — pharmaphorum (confirmed by TechCrunch)
+  - Valuation ~$50bn — pharmaphorum "estimated"; TechCrunch cites Bloomberg on a $50bn target (phrase as reported)
+  - Total raised >$7.7bn since 2021 — pharmaphorum (single source; phrase as reported)
+- Card: bars — 2026 rounds: May $2.1bn vs Nov $5.0bn
+- Status: open
+
+### 3. HUMAIN borrows for chips and for the grid: SAR 2.5bn from Infra · Pillar 2 · Score 22/25 · Use: by 2026-11-25 (freshness)
+- Angle: The first Saudi AI data-centre deals funded with infrastructure debt. Per megawatt, the chips cost about 30 times what the grid connection costs. Power gets built ahead and the GPUs follow in phases.
+- Facts:
+  - Up to SAR 2.5bn (~$667m) in two facilities from the National Infrastructure Fund — EnterpriseAM https://enterpriseam.com/ksa/2026/11/11/humains-getting-a-big-cash-infusion-from-the-saudi-national-infrastructure-fund/ (confirmed by W.Media https://w.media/?p=45246)
+  - GPU facility up to SAR 1.1bn (~$293m) for ~25 MW of IT load — W.Media (confirmed by EnterpriseAM)
+  - Grid facility up to SAR 1.4bn (~$373m) for substations, transmission and connections built for up to 1 GW of IT capacity — W.Media (confirmed by EnterpriseAM)
+  - Per MW (own calculation): chips ~SAR 44m/MW vs grid ~SAR 1.4m per MW of capacity it enables. The grid figure is "up to"; say so.
+  - First phase of the non-binding Davos framework (up to SAR 4.5bn, up to 250 MW) — EnterpriseAM (single source; phrase as reported)
+- Card: compare — "Chips: SAR 1.1bn · ~25 MW" vs "Grid: SAR 1.4bn · up to 1 GW"
+- Status: open
+
+### 4. Saudi time and savings deposits pass demand deposits · Pillar 5 · Score 22/25 · Use: any day
+- Angle: Savers are moving money into deposits that pay interest. That raises banks' funding cost, at the same time as loan growth is running ahead of deposit growth. It's the number to watch in Q4 bank margins.
+- Facts:
+  - Sep 2026: time & savings SAR 1.417tn (46.1% of deposits) vs demand SAR 1.405tn (45.7%); a year earlier 39.3% vs 50.4% — Asharq Al-Awsat https://english.aawsat.com/node/5342735 (crossover confirmed by Argaam headline https://www.argaam.com/en/article/articledetail/id/1955163, "first time since 2008"; page body didn't load, so phrase the 2008 detail as reported)
+  - Loans +7.3% YoY; September increase ~SAR 35.9bn, largest in 16 months — Asharq Al-Awsat (single source for 7.3%; another search summary gave 6.2% for total bank credit, so re-check the SAMA September bulletin before using a growth figure)
+  - Total deposits ~SAR 3.076tn, +4.8% YoY — Asharq Al-Awsat (single source; phrase as reported)
+  - Don't repeat the 11 Nov provisions angle.
+- Card: bars — share of deposits: demand 50.4% → 45.7%, time & savings 39.3% → 46.1% (Sep 2025 vs Sep 2026)
+- Status: open
+
+### 5. BILL goes private at $6bn, with a strategic buyer holding an option · Pillar 10 · Score 21/25 · Use: any day (not back to back with #1)
+- Angle: The structure is the story. TPG takes control, while Corpay puts in $1.1bn for about a third and an option to buy the rest in 2030. The sponsor has a likely exit buyer from day one. Fintech payments, GCC fintech read-across.
+- Facts:
+  - $63.25/share cash, ~$6.0bn fully diluted equity value, 31% premium to the 60-day VWAP to 16 Nov; announced 19 Nov 2026 — BILL 8-K https://www.sec.gov/Archives/edgar/data/0001786352/000119312526469396/d176726dex991.htm (primary)
+  - TPG majority, Corpay minority; close expected H1 2027; no financing condition — BILL 8-K (primary)
+  - Corpay $1.1bn for ~one-third, option to buy 100% in 2030 — TradingView (Corpay 8-K) https://www.tradingview.com/news/tradingview:05bdb587df189:0-corpay-to-invest-1-1-billion-in-bill-take-private-deal-expects-2027-eps-accretion/ (confirmed by Quartr summary https://quartr.com/events/corpay-inc-cpay-m-a-announcement_ojLW45Vn)
+  - ~500,000 businesses use BILL — BILL 8-K (primary)
+  - The 19 Nov post already used "which premium base"; lead with structure, not the premium.
+- Card: compare — "TPG: majority, control" vs "Corpay: $1.1bn, ~1/3, option on 100% in 2030"
+- Status: open
+
+### 6. Ma'aden Q3: revenue up, EBITDA down, and the mix explains it · Pillar 5 · Score 20/25 · Use: any day (not same week as #4 back to back)
+- Angle: Gold and aluminium had record quarters, and phosphate absorbed record sulfur costs (the company's own explanation). The mix matters more than the headline.
 - Facts:
   - Q3 revenue $3.0bn, +11% YoY; EBITDA $0.9bn, −24%; net profit attributable $0.4bn — Ma'aden https://www.maaden.com/news-insights/latest-news/maaden-releases-third-quarter-2026-results (primary; confirmed by Arab News https://www.arabnews.com/business/knowledge-economic-city-maaden-report-higher-q3-revenues-as-profit-growth-diverges-3010696)
-  - Segment EBITDA: aluminium $419m, gold & growth metals $403m (+71%), phosphate $135m (−83%) — Arab News (single source; phrase as reported; Ma'aden release confirms record gold/aluminium quarters)
-  - Gold output +22% to 139koz — Arab News (single source; phrase as reported)
-  - Phosphate granulated output recovered to 1.6Mt; cost reason: record sulfur prices, no ammonia export sales — Ma'aden (primary)
-  - Use the company's explanation only. No shipping-route or regional framing.
+  - Segment EBITDA: aluminium $419m, gold $403m (+71%), phosphate $135m (−83%) — Arab News (single source; phrase as reported)
+  - Carried from last week's bank (checked 15 Nov). Re-open both links before use. No shipping-route or regional framing.
 - Card: bars — Q3 EBITDA by segment: Aluminium $419m, Gold $403m, Phosphate $135m
 - Status: open
 
-### 3. Emaar's AED 15 offer for Emaar Development: what the premium says · Pillar 10 · Score 23/25 · Use: any day (offer open to 10 Dec)
-- Angle: A parent buying out minorities of its own listed subsidiary. The premium depends on which day you measure from; explain that plainly, like a deal modeller.
+### 7. Dell's AI server book, read on results day · Pillar 1 · Score 20/25 · Use: on/after 2026-11-25 (results 24 Nov, date to confirm)
+- Angle: Server makers are the next read on GPU demand after Nvidia. For GCC compute buyers, Dell's order book shows how long the queue is. Compare actuals with the guide; no beat/miss language without a dated consensus.
 - Facts:
-  - AED 15.00 cash per share: 19.4% over the 2 Nov close (AED 12.56), 21.7% over 1-week VWAP, 15.7% over 3-month VWAP — Emaar IR https://www.emaar.com/en/investor-relations/emaar-development-acquisition-offer (primary)
-  - Offer runs 6 Nov–10 Dec 2026; price is 148.8% above the 2017 pre-listing subscription price of AED 6.03 — Emaar IR (primary)
-  - Emaar holds just over 79%; buyout cost about AED 12.6bn — EnterpriseAM https://enterpriseam.com/uae/2026/11/05/emaar-moves-to-buy-out-emaar-development-minorities-at-a-valuation-of-aed-60-bn/ (confirmed by Gulf News https://gulfnews.com/business/markets/emaar-properties-offers-dh15-per-share-cash-in-emaar-development-buyout-1.500735685, Bloomberg "up to $3.2bn")
-  - Implied value ~AED 60bn; offer below AED 16.54 average analyst target — EnterpriseAM (single source; phrase as reported)
-- Card: bars — Offer AED 15.00 vs 2 Nov close AED 12.56 vs 2017 subscription AED 6.03
-- Status: used 2026-11-19
-
-### 4. Nebius: revenue +571%, and capex runs ahead of it · Pillar 2 · Score 22/25 · Use: any day
-- Angle: Neoclouds are capital machines. For GCC backers of local GPU clouds, the ratio of capex to revenue is the number to watch, more than growth.
-- Facts:
-  - Q3 revenue $980.8m, +571% YoY (from $146.1m) — Nebius 6-K https://www.sec.gov/Archives/edgar/data/0001513845/000110465926126008/tm2629571d1_ex99-1.htm (primary; confirmed by CNBC https://www.cnbc.com/2026/11/12/nebius-q3-earnings-report-2026.html)
-  - Adj. EBITDA $465.8m vs $(5.2)m a year earlier — Nebius 6-K (primary)
-  - Q3 purchases of property, equipment and intangibles $7.30bn — Nebius 6-K (primary)
-  - 2027 outlook: revenue $12–13bn, capex $40–45bn — CNBC (single source; phrase as reported)
-- Card: bars — Q3 2026: revenue $0.98bn vs capex $7.30bn
-- Status: used 2026-11-20
-
-### 5. TSMC's record October, two days before Nvidia · Pillar 1 · Score 22/25 · Use: on/before 2026-11-17
-- Angle: Foundry sales are the earliest read on chip supply for every GPU buyer, Gulf sovereign compute included.
-- Facts:
-  - October revenue NT$586.89bn, a monthly record, +59.7% YoY, +14.7% MoM — TSMC https://pr.tsmc.com/english/news/3349 (primary; confirmed by Focus Taiwan https://focustaiwan.tw/business/202611100014)
-  - Jan–Oct NT$4,485.62bn, +43.3% — TSMC (primary)
-  - Previous record NT$514.81bn (August) — Focus Taiwan (confirmed by FourWeekMBA https://fourweekmba.com/ai-tsmcs-october-sales-jump-59-7-to-a-2026-high-of-nt586-9b/)
-- Card: bars — monthly revenue: Aug 2026 NT$514.8bn, Oct 2026 NT$586.9bn (add Oct 2025 only if taken from TSMC's 2025 release)
-- Status: used 2026-11-17
-
-### 6. UAE to run about 200 of Uber's ~700 driverless cars · Pillar 6 · Score 22/25 · Use: any day
-- Angle: The Gulf is one of Uber's biggest robotaxi markets now, not a pilot site. What it means for operators and city planners here.
-- Facts:
-  - ~700 fully driverless vehicles on Uber by end-2026, 2,000+ by end-2027 — Uber Q3 call transcript https://s23.q4cdn.com/407969754/files/doc_events/2026/Nov/04/Uber-Q3-Earnings-Call-Transcript.pdf (primary)
-  - ~200 in the UAE by end-2026 — Annahar https://www.annahar.com/economy/363844/ (also headlined by Al Khaleej and AGBI https://www.agbi.com/transport/2026/11/uber-to-have-200-driverless-cars-on-uae-roads-this-year/; phrase as reported)
-  - Driverless partners named: WeRide and Baidu now; Pony and Momenta to be added — Uber transcript (primary)
-- Card: bars — Uber driverless fleet end-2026: UAE ~200, rest of world ~500; end-2027 target 2,000+
-- Status: used 2026-11-22
-
-### 7. Nvidia Q3 FY27: did the 74% gross margin hold? · Pillar 1 · Score 21/25 · Use: from 2026-11-18 (results 17 Nov)
-- Angle: Follow-up to the 13 Nov deep dive. The chip layer keeps most of the AI data-centre margin; check whether that held and what it means for GCC buyers of compute.
-- Facts:
-  - Q3 FY27 guide: revenue $108.0bn ±2%, gross margin 74.0% ±50bp — Nvidia 8-K https://www.sec.gov/Archives/edgar/data/0001045810/000104581026000073/q2fy27pr.htm (primary)
-  - Results and call 17 Nov 2026 — https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873 (primary)
-  - Pull actuals from the release before writing. Source note: research/deep-dives/2026-11-ai-datacentre-margins.md
-- Card: bars — gross margin: guide 74.0% vs actual
-- Status: used 2026-11-23
-
-### 8. Saudi startups turn to private credit · Pillar 5 · Score 21/25 · Use: any day (not next to #1)
-- Angle: With venture equity thinner this year, lenders are stepping in. Debt suits companies with revenue that can carry repayments; it isn't a fix for every startup.
-- Facts:
-  - SVC invested in Jadwa Investment's flagship private credit fund; the fund has deployed more than SAR 400m across five investments, a sixth expected in Q4 2026 — Jawlah https://jawlah.co/en/68011 (confirmed by Zawya press release https://www.zawya.com/en/press-release/companies-news/saudi-venture-capital-invests-in-jadwa-investments-flagship-private-credit-fund-2211633)
-  - Raqamyah arranged up to $107m of debt in 2026, double its 2025 volume — EnterpriseAM https://enterpriseam.com/ksa/2026/11/12/borrowing-to-bridge-saudi-arabias-venture-funding-gap/ (single source; phrase as reported)
-  - Stride Ventures has committed $90m to Saudi deals — EnterpriseAM, citing Bloomberg (single source; phrase as reported)
-  - Saudi VC $1bn in 9M 2026, down nearly a third — EnterpriseAM (matches MAGNiTT figure used 12 Nov; don't repeat that angle)
-  - Leave out any regional-conflict framing from the source.
-- Card: bars — Saudi private-credit amounts: Jadwa fund SAR 400m+ deployed, Raqamyah $107m arranged (2026), Stride $90m committed
+  - Q2 FY27 (1 Sep 2026): revenue $47.0bn, +58%; AI server orders $60.9bn; AI server revenue $16.4bn; AI backlog $95bn — Dell 8-K https://www.sec.gov/Archives/edgar/data/0001571996/000157199626000039/exhibit991earnings8kq2fy27.htm (primary)
+  - FY27 guide raised: revenue $192.0bn; AI-optimised server revenue $74.0bn — Dell 8-K (primary)
+  - Q3 guide: revenue $49.0bn (+81%) — Dell 8-K (primary)
+  - Pull the Q3 actuals from Dell's release before writing. Not the day after the 23 Nov Nvidia post (pillar 1 twice in a row).
+- Card: bars — AI server orders vs revenue vs backlog (Q2 FY27, swap in Q3 actuals)
 - Status: open
 
-### 9. MENA's top 30 game makers: Saudi 12, UAE 12 · Pillar 7 · Score 20/25 · Use: any day
-- Angle: Saudi and the UAE take 24 of 30 places on PocketGamer.biz's list. Where the studios with real player spending sit, and what that says about the region's games base.
+### 8. WeRide: nearly half its revenue now comes from outside China · Pillar 6 · Score 19/25 · Use: on/after 2026-11-29 (space from the 22 Nov Uber post)
+- Angle: The Gulf is now a revenue market for robotaxi makers, not a pilot site. Abu Dhabi and Dubai carry most of the overseas growth. Talk economics (gross margin, revenue mix), not fleet counts again.
 - Facts:
-  - By country: Saudi 12, UAE 12, Jordan 5, Morocco 1 (count from the list) — PocketGamer.biz https://www.pocketgamer.biz/the-top-30-mena-game-makers-of-2026/ (single source; phrase as "by PocketGamer.biz's list")
-  - Rank 1 Tamatem (Jordan), ~200 staff, $25m total funding — PocketGamer.biz (single source)
-  - Kammelna (KSA): 6m+ downloads; acquired by Impact46 for $53m in Aug 2025 — PocketGamer.biz (confirmed by Wamda https://www.wamda.com/index.php/2025/08/impact46-acquires-saudi-gaming-studio-kammelna-53-million)
-  - Recount the country split on the page before carding.
+  - Q3 revenue RMB321.5m ($48.0m), +88.0% YoY; gross margin 43.0% vs 32.9% — WeRide IR https://ir.weride.ai/news-releases/news-release-details/overseas-revenue-1715-yoy-contributing-nearly-half-total-revenue (primary; confirmed by SEC 6-K https://www.sec.gov/Archives/edgar/data/0001867729/000110465926130438/tm2630019d1_ex99-1.htm)
+  - Overseas revenue RMB146.9m, +171.5%, 45.7% of total; overseas >90% of robotaxi revenue — WeRide IR (primary)
+  - Middle East fleet ~600 vehicles at 31 Oct, from ~400 at 31 Jul; target full core-urban coverage of Abu Dhabi and Dubai by end-2026 — WeRide IR (primary)
+  - Net loss RMB310.0m — WeRide IR (primary)
+- Card: bars — revenue mix Q3 2026: overseas 45.7% vs China 54.3%
+- Status: open
+
+### 9. A Saudi Roblox studio raises to move onto Steam · Pillar 7 · Score 19/25 · Use: any day
+- Angle: Lambda Studios started on Roblox and now wants its own IP on PC. Platform moves cost money, and seed rounds like this pay for them. Keep it off the "after-seed gap" angle from 10 Nov.
+- Facts:
+  - $1.3m round led by Merak Capital, 12 Nov 2026 — Wamda https://www.wamda.com/2026/11/merak-capital-leads-1-3-million-investment-saudi-gaming-startup-lambda-studios (confirmed by Jawlah https://jawlah.co/en/68053)
+  - Founded by Sari and Firas AlSaedi, incorporated 2024; games have drawn "millions of players" (Merak's words); expanding beyond Roblox to Steam while keeping its IP — Wamda (confirmed by Jawlah)
+  - Merak's earlier gaming rounds: $1m Floaty (Jul), co-led $1.45m Majestic Mind with Impact46 (Aug) — MENA Startup Digest https://menastartupdigest.com/saudi-gaming-studio-lambda-studios-raises-1-3m-led-by-merak-capital/ (single source; phrase as reported)
+  - Tag Merak Capital (in config) only if the mention stays neutral.
+- Card: bars — Merak Capital gaming rounds 2026: Floaty $1.0m, Majestic Mind $1.45m (co-led), Lambda $1.3m
+- Status: open
+
+### 10. Oman's sovereign fund backs a Chinese lab-robotics company · Pillar 8 · Score 18/25 · Use: any day
+- Angle: Gulf capital abroad, beyond the usual US AI names: OIA joined a ~$200m round for AI-run lab automation. Neutral framing, no geopolitics.
+- Facts:
+  - Nearly $200m round announced 19 Nov 2026; Oman Investment Authority participated, CMB International new; Asia Investment Capital, Granite Asia and Sinovation Ventures returned — Oman Observer https://www.omanobserver.om/article/1199940/business/economy/omani-fund-joins-200m-chinese-ai-funding-round (confirmed by TNW https://thenextweb.com/news/megarobo-200m-oman-investment-authority-ai-lab-experiments)
+  - ~$600m raised in earlier rounds — Oman Observer (single source here; phrase as reported)
+  - Sources differ on whether OIA led the round. Say "joined".
+- Card: bars — MegaRobo funding: earlier rounds ~$600m vs this round ~$200m
+- Status: open
+
+### 11. Microsoft's Saudi cloud region: data stays in the Kingdom · Pillar 3 · Score 18/25 · Use: once go-live is announced (due "November 2026")
+- Angle: Data-residency rules only bite when the in-country cloud exists. When the region opens, regulated Saudi firms can move eligible workloads without sending data abroad. Report the launch neutrally, with no judgement on policy.
+- Facts:
+  - Saudi Arabia East region "available to customers in November 2026"; Eastern Province; three availability zones — Microsoft https://news.microsoft.com/source/emea/2026/08/microsoft-announces-saudi-arabia-east-datacenter-region-will-be-available-in-november-2026/ (primary; confirmed by Asharq Al-Awsat https://english.aawsat.com/technology/5313290-microsoft-make-its-saudi-arabia-datacenter-region-available-november)
+  - I couldn't find a go-live announcement as of 22 Nov. Search before using; if nothing, skip.
+- Card: statement or compare — "Before: eligible workloads hosted abroad" vs "After: three zones in the Eastern Province"
+- Status: open
+
+### 12. MENA's top 30 game makers: Saudi 12, UAE 12 · Pillar 7 · Score 17/25 · Use: any day (not the same week as #9)
+- Angle: Saudi Arabia and the UAE take 24 of the 30 places on PocketGamer.biz's list. It shows where studios with real player spending sit.
+- Facts:
+  - By country: Saudi 12, UAE 12, Jordan 5, Morocco 1 — PocketGamer.biz https://www.pocketgamer.biz/the-top-30-mena-game-makers-of-2026/ (single source; phrase as "by PocketGamer.biz's list"; recount on the page)
+  - Kammelna (KSA) acquired by Impact46 for $53m in Aug 2025 — PocketGamer.biz (confirmed by Wamda https://www.wamda.com/index.php/2025/08/impact46-acquires-saudi-gaming-studio-kammelna-53-million)
+  - Carried from last week. Re-open the list before use.
 - Card: bars — Top 30 MENA game makers by country: Saudi 12, UAE 12, Jordan 5, Morocco 1
-- Status: open
-
-### 10. HUMAIN says a 3-trillion-parameter open model lands 15 December · Pillar 3 · Score 20/25 · Use: any day (frame as announced plans)
-- Angle: A Saudi company says it will ship the model, cloud and software as one stack, hosted in-Kingdom. Report it as the CEO's plan; judge it when it ships.
-- Facts:
-  - 3 trillion parameters, described as "world's largest open-weight model", available in December — Arab News https://www.arabnews.com/saudi-arabia/humain-ceo-unveils-december-ai-stack-rollout-humain-launch-plans-for-2027-3011422 (confirmed by tbreak https://tbreak.com/humain-ai-stack-december-humain-plus-2027/)
-  - Full stack available 15 Dec — Arab News (confirmed by tbreak)
-  - "88 percent less cost" claim vs models outside the Kingdom — Arab News (company claim; phrase as CEO claim)
-  - No model name, licence or benchmarks published yet.
-- Card: compare — "Announced: 3T parameters, open weights, 15 Dec" vs "Still to see: licence, benchmarks, pricing"
-- Status: open
-
-### 11. Recursion: an AI-first biotech with human data and cash into 2029 · Pillar 4 · Score 19/25 · Use: any day
-- Angle: AI drug discovery is now judged on clinical data and runway, not platform talk. A useful benchmark for GCC life-science funds.
-- Facts:
-  - REC-4881 (Phase 2, FAP): 13 of 15 patients (87%) had lower polyp burden at 12 weeks, median reduction 47% — Recursion Q3 release https://finviz.com/news/413647/recursion-reports-third-quarter-2026-financial-results-and-extends-cash-runway-highlights-positive-clinical-data-in-rec-4881-and-rec-1245-sanofi-development-candidate-option-and-appointment-of-fred-hassan-as-chair (primary)
-  - Q3 revenue $18.6m vs $5.2m; net loss $119.0m vs $162.3m — Recursion (primary; confirmed by RTTNews https://www.rttnews.com/3707529/recursion-pharma-q3-net-loss-narrows-reports-positive-rec-4881-data-advances-pipeline.aspx)
-  - Cash $561.5m at 30 Sep, runway into 2029 — Recursion (primary; $561.5m confirmed by RTTNews)
-- Card: bars — Q3 net loss: Q3 2025 $162.3m vs Q3 2026 $119.0m
-- Status: open
-
-### 12. DIP Holding: the UAE's first IPO of 2026, 4x covered · Pillar 10 · Score 19/25 · Use: any day (not same week as #3 back to back)
-- Angle: A yield-focused listing reopened the UAE IPO window. Read the book: price, cover and who bought.
-- Facts:
-  - AED 1.12/share, ~AED 1.94bn ($529m) for a 20% stake sold by Dubai Investments; market cap ~AED 9.7bn — Gulf News https://gulfnews.com/business/markets/dubais-dip-shares-jump-6-on-debut-after-dh194-billion-ipo-1.500743544 (confirmed by EnterpriseAM https://enterpriseam.com/uae/2026/11/12/uaes-first-ipo-of-the-year-passes-its-first-test-with-a-5-4-pop/)
-  - Orders ~4x the shares — Gulf News (single source; phrase as reported)
-  - Rose as much as 6.2% on debut 11 Nov — Gulf News (EnterpriseAM: ~5.4%)
-  - PIF and a Blackstone unit among buyers, per Bloomberg — Gulf News (confirmed by EnterpriseAM; phrase as reported)
-- Card: bars — DIP share price: offer AED 1.12 vs debut high AED 1.19
 - Status: open
