@@ -1,0 +1,112 @@
+[
+ {
+  "url": "https://www.linkedin.com/posts/hussain-nasser-8b3a4917b_emaar-development-buyout-one-price-five-activity-7529061265739223040-ZPR1",
+  "author": "Hussain Nasser",
+  "headline": "Venture building × AI × games in Saudi Arabia | PE & M&A modelling and valuation | Portfolio Manager, Revival Lab | Investment Director, Glo",
+  "posted": "2026-11-19T06:01:28.946Z",
+  "text": "Emaar is offering AED 15 a share for the part of Emaar Development it doesn't own. Is that a 3% premium or a 149% premium?\n\nBoth. It depends on which start date you pick. The slides show all five.\n\nFrom Emaar's offer page:\nvs the 2017 subscription price (AED 6.03): +148.8%\nvs the 1-week average price: +21.7%\nvs the 2 Nov close: +19.4%\nvs the 3-month average price: +15.7%\nvs the 5 Nov close: +3.3%\n\nTwo things I'd look at:\n\n1. 2 Nov was the last trading day before the board announcement. I'd measure from there: 19.4%.\n\n2. After the news the share closed at AED 14.52 on 5 Nov. From that price the offer adds 3.3%.\n\nEmaar already holds just over 79%. The offer is open until 10 December.\n\nWhich price do you use to judge a buyout premium?\n\nSources: Emaar Properties; Enterprise AM; Gulf News\n#VentureCapital #GCC #SaudiArabia #MergersAndAcquisitions #PrivateEquity #UAE",
+  "comments": []
+ },
+ {
+  "url": "https://www.linkedin.com/posts/claude-ai1_ai-claude-productivity-activity-7529774555192512512-cR3T",
+  "author": "Claude AI",
+  "headline": "37,210 followers",
+  "posted": "2026-11-21T15:09:27.551Z",
+  "text": "I stopped writing prompts in Claude. I type \"/\" now.\n\nEvery task I used to re-explain from scratch is a command.\n\n/grill-me → asks the right questions before it builds anything\n/delete-ai-words → cuts the phrasing that makes text sound like AI\n/linkedin-hook → 10 opening lines, I pick one\n/client-brief → CRM, email and web pulled into one prospect summary\n/meeting-notes → recording in, next steps out\n/fact-checker → every claim checked against the original source\n/handoff → saves context so the next chat picks up where this one ended\n\n25 in total. Full list in the GIF.\n\nHere's the part that matters:\n\nNone of these are hacks. Each one is a Skill: a short file that tells Claude how I want a job done. Written once, reused every day, shared with the team.\n\n𝐓𝐡𝐞 𝐩𝐫𝐨𝐦𝐩𝐭 𝐲𝐨𝐮 𝐫𝐞𝐰𝐫𝐢𝐭𝐞 𝐞𝐯𝐞𝐫𝐲 𝐌𝐨𝐧𝐝𝐚𝐲 𝐢𝐬 𝐚 𝐒𝐤𝐢𝐥𝐥 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞𝐧'𝐭 𝐰𝐫𝐢𝐭𝐭𝐞𝐧 𝐲𝐞𝐭.\n\nWe teach exactly how to build these in GenAI Academy: from your first about-me file to a full command library your whole team runs.\n\n\nWhich command would you build first?\n\nFollow Claude for more AI \n\n#AI #Claude #Productivity #AIskills #GenerativeAI",
+  "comments": [
+   {
+    "author": "Samuel Hargis",
+    "text": "Claude AI,  The \"/handoff\" command is the one most teams overlook but it might be the most valuable.  Context loss between sessions kills momentum faster than a bad prompt ever could.  What's your average command file length, 5 lines or closer to 20?\nhttps://www.linkedin.com/in/samuel-hargis-technology/"
+   },
+   {
+    "author": "Karoly \"Charlie\" Vegh",
+    "text": "Butbutbut... Felix Rieseberg at Anthropic said we're overvalueing and overusing skills? Heard him in this podcast: https://open.spotify.com/episode/4Q7n3wUmIXtizqW1JxTmhS?si=dHCrWoF0RIuJBv9-o4LuKw&utm_source=copy-link&sci=spotify%3Acard-config%3A7Ank5fbXdeDxRBZS35oW2L"
+   },
+   {
+    "author": "Eloi Ouffoue PhD [Candidate] MSc,  MCIOB, PMP®, Certified PPP",
+    "text": "The fact checker"
+   },
+   {
+    "author": "Dr. Ahmed Hamdy Mhsb , PhD, EDiR",
+    "text": "The real power of AI comes from turning repetitive tasks into reusable workflows. I'd start with /fact-checker, especially in healthcare, where accuracy and reliable sources are essential."
+   },
+   {
+    "author": "Krzysztof Mykowski",
+    "text": "Prompt"
+   },
+   {
+    "author": "Juan Fach",
+    "text": ""
+   },
+   {
+    "author": "Shruti Suman",
+    "text": "singularity 1 creativity 1"
+   },
+   {
+    "author": "Humberto Goyen",
+    "text": "Download"
+   },
+   {
+    "author": "João Gonçalves",
+    "text": ""
+   },
+   {
+    "author": "El Hadji Malick Faye",
+    "text": "Deck"
+   },
+   {
+    "author": "Tushar Desai",
+    "text": "This is a great example of moving from basic AI usage to workflow automation. The possibilities are huge."
+   },
+   {
+    "author": "Clinton Balogun",
+    "text": "The fact checker is the one I'd use most. Fast output is great, but checking every claim against the source is what saves you from a confident mistake."
+   },
+   {
+    "author": "Bridget Barnett-Trusty, CPA",
+    "text": "Can you freeze the list so we can read it before it disappears?"
+   },
+   {
+    "author": "Inza Sajid",
+    "text": "Claude AI  /Fact-checker  ommand is useful when you gonna publish AI-generated content."
+   },
+   {
+    "author": "Kamran Aziz",
+    "text": "This is exactly the shift we are seeing in automation too.\n\nI run FDE Automation Pakistan in Faisalabad. We build WhatsApp AI Automation for Dental Clinics, Law Firms and Salons using n8n + AI.\n\nAnd our clients had the same problem you describe,\n\nEvery Monday, they were rewriting the same reply.\n\n\"Cleaning at 5 PM?\"\n\"Appointment available?\"\n\"Need a legal consult?\"\n\nWe solved it the same way you did we turned the prompt into a System.\n\nFor us, the Skill is a Workflow,\n\nWhatsApp -> AI Agent -> Cal"
+   },
+   {
+    "author": "Taras Bulubas",
+    "text": "This gif is terrible idea. It's not funny."
+   },
+   {
+    "author": "Jerry Joynson",
+    "text": "Be nice if one could pause the gif long enough to read the content on the phone"
+   },
+   {
+    "author": "Hemanth K",
+    "text": "Prompt"
+   },
+   {
+    "author": "Minal Thakur .",
+    "text": "The biggest lesson here is simple: Don't keep solving the same prompting problem every day. Build a Skill for it"
+   },
+   {
+    "author": "Abhishek Shukla",
+    "text": "/fact-checker paired with /handoff solves two of the biggest headaches in multi-step work, hallucinated details and lost thread context."
+   }
+  ]
+ },
+ {
+  "url": "https://www.linkedin.com/posts/hussain-nasser-8b3a4917b_gta6-gamingindustry-taketwo-activity-7528843993112293378-s63K",
+  "author": "Hussain Nasser",
+  "headline": "Venture building × AI × games in Saudi Arabia | PE & M&A modelling and valuation | Portfolio Manager, Revival Lab | Investment Director, Glo",
+  "posted": "2026-11-18T15:38:07.115Z",
+  "text": "شاركت مع الأسواق العربية - Al Arabiya Business في الحديث عن إطلاق GTA VI.\n\nلعبة واحدة بأرقام حدث اقتصادي:\n• طلبات مسبقة بنحو 15 مليون نسخة، بقيمة تقارب 1.5 مليار دولار بحسب Sensor Tower\n• تقييم 99 من 100 على Metacritic\n• Take-Two Interactive، المالكة لاستوديو Rockstar Games، تتوقع حجوزات بين 8 و8.2 مليار دولار هذا العام\n\nوالأثر يتجاوز الألعاب: موظفون يأخذون إجازة يوم الإطلاق، ومنصات بث تخسر جزءا من مشاهديها، ومستثمرون ينتظرون أول رقم مبيعات رسمي.\n\nوللمنطقة حصة في القصة: مجموعة Savvy Games Group، المملوكة لصندوق الاستثمارات العامة Public Investment Fund (PIF)، تملك نحو 6% من Take-Two، والصندوق قاد أيضا الاستحواذ على Electronic Arts (EA) بقيمة 55 مليار دولار.\n\nشكرا لقناة Al Arabiya News Channel وفريق العربية Business على الاستضافة والحوار، وشكرا لـ Hanya Amr على الدعوة.\n\n\n‎#GTA6 #GamingIndustry #TakeTwo #Investing #AlArabiya ‎",
+  "comments": [
+   {
+    "author": "Hussain Nasser",
+    "text": "In English: I joined Al Arabiya Business to talk about the GTA VI launch.\n\nOne game with the numbers of an economic event:\n• About 15 million preorders, worth close to $1.5 billion, according to Sensor Tower\n• A 99/100 score on Metacritic\n• Take-Two, which owns Rockstar Games, expects $8 to $8.2 billion in net bookings this year\n\nThe effect goes past gaming: people taking the day off work, streaming platforms losing some viewers, and investors waiting for the first official sales number.\n\nThe re"
+   }
+  ]
+ }
+]

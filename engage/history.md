@@ -101,3 +101,14 @@
 2026-11-21 | Elric Langton | https://www.linkedin.com/posts/smallcompanychampion_mtc-uksmallcaps-rns-activity-7529488724645171201-pcnU
 2026-11-21 | Grizzz AI | https://www.linkedin.com/posts/grizzz-ai_startup-screening-how-big-sky-capitals-activity-7529609977435439104-HvTS
 2026-11-21 | FoundrProtocol | https://www.linkedin.com/posts/foundrprotocol_saudiarabia-gccfounders-misa-activity-7529525820948828160-6C2h
+2026-11-22 | Ihab Saber | https://www.linkedin.com/posts/ihab-saber-b03905139_the-largest-investor-name-on-a-map-may-be-activity-7530117871629246464-UAW7
+2026-11-22 | Economic Planning Council | https://www.linkedin.com/posts/economic-planning-council_the-10-most-valubale-companies-in-saudi-arabia-activity-7530042370533523456-IsT_
+2026-11-22 | Philipp Robeck | https://www.linkedin.com/posts/philipprobeck_saudi-liquidity-squeeze-adds-to-challenges-activity-7529815935180898304-obJ-
+2026-11-22 | The Startup Times | https://www.linkedin.com/posts/the-startup-times_glasspoint-inc-raises-24-million-to-bring-activity-7529988091730767873-VzG4
+2026-11-22 | Mining Saudi Arabia | https://www.linkedin.com/posts/mining-saudi-arabia_miningsaudiarabia-saudimining-miningindustry-activity-7529930629912637441-iTTe
+2026-11-22 | Gholamreza Amirian | https://www.linkedin.com/posts/gholamreza-amirian-471738261_noblelegacyinternational-kuwait-capitalarchitecture-activity-7529923355924398082-CK5S
+2026-11-22 | Startup CPG | https://www.linkedin.com/posts/startupcpg_startupcpg-investorspotlight-cpgfounders-activity-7529966883748560896-JFSj
+2026-11-22 | Tessa Zak | https://www.linkedin.com/posts/tessazak_northside-ventures-aims-to-build-institutional-activity-7529889234120507392-do-z
+2026-11-22 | Future Feed | https://www.linkedin.com/posts/futurefeedto_venturecapital-startups-activity-7529830993235476481-xyIq
+2026-11-22 | Marketplace by APM | https://www.linkedin.com/posts/marketplace_why-private-equity-gets-a-bad-rap-activity-7529966758879854592-tiVi
+2026-11-22 | Pat Brans | https://www.linkedin.com/posts/pat-brans-824a_pat-gelsinger-goes-hunting-for-europes-unbuilt-activity-7529889248003440640-gY_5
