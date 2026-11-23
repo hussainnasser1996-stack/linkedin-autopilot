@@ -1,0 +1,23 @@
+name: Failure triage
+# Every finished run of the booking + monitor workflows lands here. Failures are classified into log/failures.json:
+# transient -> re-run once; code/delivery -> left open for the FIXER routine (Claude cloud, every 2 h, FIXER.md);
+# owner-only (billing, minutes, bad Buffer key) -> one phone alert. A later green run closes the entry.
+on:
+  workflow_run:
+    workflows: ["Schedule in Buffer", "Delivery monitor"]
+    types: [completed]
+concurrency: { group: triage, cancel-in-progress: false }
+permissions: { contents: write, actions: write }
+jobs:
+  triage:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env: { GH_TOKEN: "${{ github.token }}", GH_REPO: "${{ github.repository }}" }
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/triage.py ${{ github.event.workflow_run.id }}
+      - name: Save
+        run: |
+          git config user.name "linkedin-autopilot" && git config user.email "actions@users.noreply.github.com"
+          git add log/failures.json && git commit -qm "triage ${{ github.event.workflow_run.id }}" || exit 0
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep $((i*4)); done

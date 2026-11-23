@@ -1,0 +1,36 @@
+name: Delivery monitor
+# Every 2 h: book anything pending (self-heal), then check today/tomorrow are written, booked and (after 09:20 KSA) sent.
+# Problems -> log/failures.json + run fails -> triage.yml -> FIXER routine (FIXER.md). No Mac involved.
+on:
+  schedule:
+    - cron: "40 */2 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: buffer-schedule
+  cancel-in-progress: false
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      BUFFER_API_KEY: ${{ secrets.BUFFER_API_KEY }}
+      RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Book anything pending
+        run: python scripts/schedule_pending.py
+      - name: Check delivery
+        run: python scripts/monitor.py
+      - name: Save
+        if: always()
+        run: |
+          git config user.name "linkedin-autopilot" && git config user.email "actions@users.noreply.github.com"
+          git add queue log/delivery.md log/failures.json 2>/dev/null
+          git diff --cached --quiet && exit 0
+          git commit -qm "monitor: $(date -u +%FT%H:%MZ)"
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && break; sleep $((i*4)); done

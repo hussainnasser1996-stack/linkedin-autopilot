@@ -1,5 +1,8 @@
 - 23 Nov 2026 (16:31Z): repo made PUBLIC (free Actions). buffer.yml re-enabled, test run 45217530729 green. Mac LaunchAgent
   com.hussain.linkedin-schedule REMOVED. Booking is back on GitHub Actions only; no Mac needed.
+- 23 Nov: SELF-HEALING added (copied from GG Economics): monitor.yml every 2 h (books pending + checks today/tomorrow
+  written/booked/sent → log/delivery.md), triage.yml classifies every failed run → log/failures.json (owner issues = 1 ntfy),
+  FIXER.md cloud routine every 2 h fixes open entries. Re-book a date: commit queue/<date>/retry.
 # RESUME HERE: LinkedIn autopilot (saved 10 Nov 2026)
 
 ## 13 Nov 2026 (night) — END-TO-END CHECK + FIXES

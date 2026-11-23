@@ -5,7 +5,7 @@ name: Schedule in Buffer
 on:
   push:
     branches: [main]
-    paths: ["queue/**/post.json"]
+    paths: ["queue/**/post.json", "queue/**/retry"]
   schedule:
     - cron: "15 3 * * *"   # 06:15 KSA safety net, before the 09:00 post time
   workflow_dispatch:
