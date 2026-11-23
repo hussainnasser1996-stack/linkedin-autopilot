@@ -1,1 +1,18 @@
-[]
+[
+ {
+  "id": "45219017224",
+  "workflow": "Schedule in Buffer",
+  "target": "",
+  "kind": "code",
+  "opened": "2026-11-23T16:40Z",
+  "status": "open",
+  "runs": [
+   {
+    "run": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45219017224",
+    "attempt": 1,
+    "at": "2026-11-23T16:40Z",
+    "error": "FAILED 2099-12-30:  post.json missing text\n##[error]Process completed with exit code 1."
+   }
+  ]
+ }
+]
