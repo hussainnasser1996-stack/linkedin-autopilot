@@ -44,7 +44,7 @@
   - Valuation ~$50bn — pharmaphorum "estimated"; TechCrunch cites Bloomberg on a $50bn target (phrase as reported)
   - Total raised >$7.7bn since 2021 — pharmaphorum (single source; phrase as reported)
 - Card: bars — 2026 rounds: May $2.1bn vs Nov $5.0bn
-- Status: open
+- Status: used 2026-11-25
 
 ### 3. HUMAIN borrows for chips and for the grid: SAR 2.5bn from Infra · Pillar 2 · Score 22/25 · Use: by 2026-11-25 (freshness)
 - Angle: The first Saudi AI data-centre deals funded with infrastructure debt. Per megawatt, the chips cost about 30 times what the grid connection costs. Power gets built ahead and the GPUs follow in phases.
