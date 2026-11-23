@@ -1,7 +1,5 @@
-- 23 Nov 2026: GitHub Actions BLOCKED for this private repo until 1 Dec (account's private minutes spent). TEMPORARY Mac
-  LaunchAgent com.hussain.linkedin-schedule runs scripts/local_schedule.sh at 06:00/07:30/20:00 local + on load: books
-  pending posts with the keychain key, commits buffer_id.txt, ntfy on failure, REMOVES ITSELF on 1 Dec. Log:
-  log/local_schedule.log. Only runs while the Mac is awake. 23 Nov Nvidia post moved to 13:20 UTC (missed 09:00 KSA).
+- 23 Nov 2026 (16:31Z): repo made PUBLIC (free Actions). buffer.yml re-enabled, test run 45217530729 green. Mac LaunchAgent
+  com.hussain.linkedin-schedule REMOVED. Booking is back on GitHub Actions only; no Mac needed.
 # RESUME HERE: LinkedIn autopilot (saved 10 Nov 2026)
 
 ## 13 Nov 2026 (night) — END-TO-END CHECK + FIXES
