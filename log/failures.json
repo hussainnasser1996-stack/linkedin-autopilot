@@ -2,10 +2,10 @@
  {
   "id": "45219017224",
   "workflow": "Schedule in Buffer",
-  "target": "",
+  "target": "2099-12-30",
   "kind": "code",
   "opened": "2026-11-23T16:40Z",
-  "status": "open",
+  "status": "fixing",
   "runs": [
    {
     "run": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45219017224",
@@ -13,6 +13,7 @@
     "at": "2026-11-23T16:40Z",
     "error": "FAILED 2099-12-30:  post.json missing text\n##[error]Process completed with exit code 1."
    }
-  ]
+  ],
+  "fix": "post.json text was empty (data, not code); set text 'PIPELINE TEST - fixer check, draft only', draft kept true; committed retry (e042867)"
  }
 ]
