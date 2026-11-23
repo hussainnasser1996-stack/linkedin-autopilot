@@ -5,6 +5,7 @@ cd ~/Developer/linkedin-autopilot || exit 1
 L=log/local_schedule.log; mkdir -p log
 if [[ "$(date -u +%F)" > "2026-11-30" ]]; then
   echo "$(date -u +%FT%TZ) 1 Dec: Actions are back, removing the LaunchAgent" >> $L
+  /Users/hussainnasser/.local/gh/bin/gh workflow enable buffer.yml >> $L 2>&1   # re-enable the GitHub job (disabled 23 Nov so it stops emailing failures)
   rm -f ~/Library/LaunchAgents/com.hussain.linkedin-schedule.plist
   launchctl bootout gui/$(id -u)/com.hussain.linkedin-schedule 2>/dev/null; exit 0
 fi
