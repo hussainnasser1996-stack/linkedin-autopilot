@@ -5,7 +5,7 @@
   "target": "2099-12-30",
   "kind": "code",
   "opened": "2026-11-23T16:40Z",
-  "status": "fixing",
+  "status": "resolved",
   "runs": [
    {
     "run": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45219017224",
@@ -14,6 +14,8 @@
     "error": "FAILED 2099-12-30:  post.json missing text\n##[error]Process completed with exit code 1."
    }
   ],
-  "fix": "post.json text was empty (data, not code); set text 'PIPELINE TEST - fixer check, draft only', draft kept true; committed retry (e042867)"
+  "fix": "post.json text was empty (data, not code); set text 'PIPELINE TEST - fixer check, draft only', draft kept true; committed retry (e042867)",
+  "resolved": "2026-11-23T16:41Z",
+  "resolved_by": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45219269135"
  }
 ]
