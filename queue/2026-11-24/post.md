@@ -48,3 +48,5 @@ Facts re-checked after the pass: £1.17bn, £43.4bn, 2.7%, £261.1m, 11.6%, 4.5x
 Hard rules: no CFA, no Singular Link/Revival Lab details, no job-search wording, no services offered. Sensitivity: Mubadala described neutrally as a buyer; no judgement of any GCC body, no geopolitics. Words: 127. Company tags: none (Mubadala/Centerbridge/Canaccord not in linkedin_orgs).
 
 Buffer post id: NOT SCHEDULED — Action run 44974410439 failed in 2s (see log/ERROR-2026-11-22.md).
+
+Buffer post id (scheduled by GitHub Action): 6b042608451a68a17f90fda1 · status scheduled
