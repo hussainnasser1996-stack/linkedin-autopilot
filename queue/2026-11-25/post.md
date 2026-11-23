@@ -1,6 +1,6 @@
 # 2026-11-25: Isomorphic Labs raises $5bn with no drug in trials yet
 
-Pillar: Applied AI: health & life sciences · Card: bars · Mode: auto · Buffer post id: pending (GitHub Action)
+Pillar: Applied AI: health & life sciences · Card: bars · Mode: auto · Buffer post id: NOT SCHEDULED (Action run 45098182461 failed, see log/ERROR-2026-11-23.md)
 Image: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/main/cards/2026-11-25-isomorphic-5bn.png
 
 ## Caption
