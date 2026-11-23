@@ -112,3 +112,14 @@
 2026-11-22 | Future Feed | https://www.linkedin.com/posts/futurefeedto_venturecapital-startups-activity-7529830993235476481-xyIq
 2026-11-22 | Marketplace by APM | https://www.linkedin.com/posts/marketplace_why-private-equity-gets-a-bad-rap-activity-7529966758879854592-tiVi
 2026-11-22 | Pat Brans | https://www.linkedin.com/posts/pat-brans-824a_pat-gelsinger-goes-hunting-for-europes-unbuilt-activity-7529889248003440640-gY_5
+2026-11-23 | Ali A. | https://www.linkedin.com/posts/activity-7530172984557256704-KPMF
+2026-11-23 | Economic Planning Council | https://www.linkedin.com/posts/economic-planning-council_privateequity-globalinvestment-privatecapital-activity-7530404801243750400-u81c
+2026-11-23 | Gaurang Desai | https://www.linkedin.com/posts/gaurangd_aetafcaeyaez-aepaesaelaetaeuabraepaesaeiaeyaepaeoaey-activity-7530381552837435392-U2QC
+2026-11-23 | Hamzah Wilson | https://www.linkedin.com/posts/hamzahwilson_saudiarabia-vision2030-sauditech-activity-7530178478990618624-MGvR
+2026-11-23 | Mojaz Law | https://www.linkedin.com/posts/mojazlaw_saudistartups-angelinvesting-corporatelaw-activity-7530300991724797952-p1Av
+2026-11-23 | Globalscope Partners | https://www.linkedin.com/posts/globalscope-partners-ltd_companies-have-different-routes-available-activity-7530193586034950144-gnA8
+2026-11-23 | EY | https://www.linkedin.com/posts/ernstandyoung_technology-services-deal-insightpdf-activity-7530442640102715392-6I99
+2026-11-23 | Adam Mostafa | https://www.linkedin.com/posts/adammostafa80_adammostafa-saudi-coffee-activity-7530139554964672512-iXuh
+2026-11-23 | Monnishaa Sengupta | https://www.linkedin.com/posts/monnishaa-sengupta-85999326_saudiretail-gccretail-retailexpansion-activity-7530300140318806016--GDq
+2026-11-23 | Ronald Achs | https://www.linkedin.com/posts/ronaldachs_oil-royaltiescom-oil-gas-virtual-auction-activity-7530288747486117888-HoYv
+2026-11-23 | Tim (Hatim) Abdel-Khalek | https://www.linkedin.com/posts/tim-hatim-abdel-khalek-cfa-mba-557214a0_a-trillion-dollars-in-gulf-family-wealth-activity-7530277428724801536-lbY_
