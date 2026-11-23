@@ -43,3 +43,5 @@ Bank #7. Skipped #2 Ma'aden (covered by the 18 Nov video; inside 60 days). Pilla
 - §12 "crucial part of every GPU price" → "sits inside every GPU price".
 - §3 "should be the bottom" → "should be the low point" (plain words).
 - Second scan: §1 none, §2 none (no restating closers), §6 none (two points, three data lines are the data), §8 no dashes, §19 no bold or labels.
+
+Buffer post id (scheduled by GitHub Action): 6b043a67e94d538757bebce0 · status scheduled
