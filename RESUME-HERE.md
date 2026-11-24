@@ -48,7 +48,7 @@ A daily cloud pipeline with no Mac involved. A Claude cloud routine researches t
   - `log/history.md`: 23 past topics.
   - `scripts/render_card.py`: card types bars / statement / compare. TESTED; output matches the house style. Inter fonts are bundled in `templates/fonts`.
   - `scripts/buffer.py`: GraphQL client for createPost with customScheduled + dueAt, `metadata.linkedin.firstComment`, annotations (company tags), saveToDraft (review mode) and aiAssisted. Not yet tested against the live API.
-  - `config.json`: `channel_id` and `buffer_organization_id` are still TODO. Channel id = **6af2e6fd62b70b94b0dffb14** (Hussain Nasser LinkedIn). Get the organization id with `python3 scripts/buffer.py orgs`.
+  - `config.json`: `channel_id` and `buffer_organization_id` are still TODO. Channel id = **6b05cb9e8541f09ecb8d5c0c** (Hussain Nasser LinkedIn). Get the organization id with `python3 scripts/buffer.py orgs`.
 - Local repo `~/Developer/linkedin-cards` (public image host for Buffer; git, NOT pushed).
 - Buffer account: hussainnasser.bahrain@gmail.com, email verified, LinkedIn profile connected, time zone Bahrain. Still on the **Free plan**.
 - Buffer API key "LinkedIn Autopilot" created (1 year, posts read/write, account/insights/engagements read). The value was shown once to Hussain. It is NOT stored anywhere by Claude.
@@ -56,7 +56,7 @@ A daily cloud pipeline with no Mac involved. A Claude cloud routine researches t
 ## LIVE (10 Nov 2026)
 - Buffer Free plan (no upgrade). Sources go in the post above the hashtags; no first comment.
 - Buffer key in Mac Keychain (`security find-generic-password -s buffer-api-key -w`) and as network secret in cloud env "LinkedIn Autopilot" (env_01485b9bHjK4NVP9E31BqLLN since 13 Nov — old env archived; secrets api.buffer.com + api.apify.com, Full network).
-- config.json: org 6af2e67f1fcb3809252ef525, channel 6af2e6fd62b70b94b0dffb14. linkedin_orgs still empty (company tags off).
+- config.json: org 6af2e67f1fcb3809252ef525, channel 6b05cb9e8541f09ecb8d5c0c. linkedin_orgs still empty (company tags off).
 - Claude GitHub app installed on ALL repos.
 - Routine trig_01GAp2AkZDTXmm7MptzDUptN, cron `0 2 * * *` UTC = 05:00 KSA daily (switched 10 Nov), Opus 5.5, no connectors: https://claude.ai/code/routines/trig_01GAp2AkZDTXmm7MptzDUptN
 - Test run 10 Nov (review mode) PASSED: researched, wrote, rendered card, hosted image, created Buffer draft, committed. Draft deleted after check (queue/2026-11-11 kept as record). Mode back to `auto`; approval_until 2026-12-10.
