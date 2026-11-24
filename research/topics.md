@@ -13,6 +13,7 @@
   - I couldn't find dated Tadawul IPO subscriptions, AGMs, sukuk issues, MAGNiTT/Wamda reports, a SAMA October bulletin, GASTAT October CPI or a final 2027 budget date in the window.
 
 ## Past events (outcomes)
+- 2026-11-23 to 24: Global Games Show Abu Dhabi (ADNEC). Listings still give 23–24 Nov; I couldn't find a post-event report with outcomes as of 24 Nov (https://tradefest.io/en/event/global-games-show-abu-dhabi-november-2026)
 - 2026-11-20: WeRide Q3 2026 results: revenue RMB321.5m (+88.0%), overseas 45.7% of revenue, gross margin 43.0%, Middle East fleet ~600 vehicles (https://ir.weride.ai/news-releases/news-release-details/overseas-revenue-1715-yoy-contributing-nearly-half-total-revenue)
 - 2026-11-19: Anthropic first day on Nasdaq (ANT): first trade $111.50, close $97.17, +17.1% on the $83 IPO price, on a day the Nasdaq fell 2.2% (https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo)
 - 2026-11-18: Anthropic IPO priced at $83 (above $70–78 range), ~980m shares (upsized from 825m), $81.3bn raised, largest IPO on record, ~$1.5tn fully diluted (https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html)
@@ -65,7 +66,7 @@
   - Total deposits ~SAR 3.076tn, +4.8% YoY — Asharq Al-Awsat (single source; phrase as reported)
   - Don't repeat the 11 Nov provisions angle.
 - Card: bars — share of deposits: demand 50.4% → 45.7%, time & savings 39.3% → 46.1% (Sep 2025 vs Sep 2026)
-- Status: open
+- Status: used 2026-11-26
 
 ### 5. BILL goes private at $6bn, with a strategic buyer holding an option · Pillar 10 · Score 21/25 · Use: any day (not back to back with #1)
 - Angle: The structure is the story. TPG takes control, while Corpay puts in $1.1bn for about a third and an option to buy the rest in 2030. The sponsor has a likely exit buyer from day one. Fintech payments, GCC fintech read-across.

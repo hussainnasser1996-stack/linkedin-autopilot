@@ -1,0 +1,18 @@
+{
+  "title": "Saudi deposits: savings pass current accounts",
+  "sources": "SAMA September 2026 data, via Asharq Al-Awsat (18 Nov 2026) and Argaam",
+  "slides": [
+    {"type": "cover", "eyebrow": "Saudi banks · Sep 2026", "title": "Savings passed current accounts.", "highlight": "SAR 1.417tn vs 1.405tn.", "sub": "What it means for bank margins, in 6 slides."},
+    {"type": "stat", "eyebrow": "End of September", "number": "SAR 1.417tn", "label": "Time and savings deposits", "note": "Demand deposits: SAR 1.405tn. Argaam reports it's the first time since 2008."},
+    {"type": "bars", "eyebrow": "Share of bank deposits", "title": "A year of switching", "bars": [
+      {"label": "Demand, Sep 2025", "value": 50.4, "display": "50.4%"},
+      {"label": "Demand, Sep 2026", "value": 45.7, "display": "45.7%"},
+      {"label": "Time and savings, Sep 2025", "value": 39.3, "display": "39.3%"},
+      {"label": "Time and savings, Sep 2026", "value": 46.1, "display": "46.1%", "highlight": true}]},
+    {"type": "stat", "eyebrow": "The whole pool", "number": "SAR 3.076tn", "label": "Total bank deposits, up 4.8% on a year ago", "note": "The pool grew. The mix moved toward deposits that pay interest."},
+    {"type": "points", "eyebrow": "Two things I'd watch", "title": "Funding cost", "points": [
+      "Time deposits pay interest. Current accounts mostly don't. The same deposit base costs banks more to fund.",
+      "Asharq Al-Awsat notes a higher share doesn't have to lift funding costs one for one. Q4 results will show how much reached margins."]},
+    {"type": "end", "eyebrow": "What I'll watch", "text": "Net interest margins in the Q4 bank results.", "question": "If you work in a bank treasury here, are you seeing it in your cost of funds?"}
+  ]
+}
