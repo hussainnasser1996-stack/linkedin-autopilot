@@ -43,3 +43,5 @@ Second scan: §1 none; §2 none; §6 none; §8 zero em/en dashes; §19 no bold.
 Facts re-checked after the pass: $5bn, $2.1bn (May), $7.1bn, ~$50bn (reported), no drug in trials, MGX returned, Greenoaks and Sequoia co-led. All match sources and card.
 Hard rules: no CFA, no Singular Link/Revival Lab details, no job-search wording. Sensitivity: MGX described neutrally as a returning investor; no judgement of any GCC body; no geopolitics; no mocking of Isomorphic (pre-trial status is the company's stated position). Words: 123. Company tags: none (not in linkedin_orgs).
 
+
+Buffer post id (scheduled by GitHub Action): 6b05cbe83f48af62c223bff1 · status scheduled
