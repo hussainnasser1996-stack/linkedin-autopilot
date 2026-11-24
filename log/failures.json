@@ -89,5 +89,21 @@
   ],
   "notified": "2026-11-24T16:51Z",
   "fix": "not fixable by fixer: Actions BUFFER_API_KEY authenticates ('Buffer key OK') but all 3 booked posts (incl. 2026-11-24, sent 06:01Z per 15:12Z check) are 'Post not found' -> key now belongs to a different Buffer account/org, or posts deleted; cloud-session Buffer key returns 401 'Access token is not valid'. Not rebooked: would duplicate the already-sent 11-24 post and cannot verify 11-25/11-26 are gone. Owner must fix Buffer key."
+ },
+ {
+  "id": "45451030211",
+  "workflow": "Schedule in Buffer",
+  "target": "",
+  "kind": "code",
+  "opened": "2026-11-24T17:40Z",
+  "status": "open",
+  "runs": [
+   {
+    "run": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45451030211",
+    "attempt": 1,
+    "at": "2026-11-24T17:40Z",
+    "error": "FAILED 2026-11-25:  Buffer rejected the post: Invalid post: Whoops, it looks like you've already got this one scheduled or posted around the same time. We're not able to post the same thing twice so close together.\nFAILED 2026-11-26:  Buffer rejected the post: Invalid post: Whoops, it looks like you've already got this one scheduled or posted around the same time. We're not able to post the same thing twice so close together.\n##[error]Process completed with exit code 1."
+   }
+  ]
  }
 ]
