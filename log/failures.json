@@ -125,6 +125,7 @@
    }
   ],
   "resolved": "2026-11-24T18:51Z",
-  "resolved_by": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45463961614"
+  "resolved_by": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45463961614",
+  "fix": "queued Schedule run (dispatch 33) checked out stale trigger sha 95ffb6c without the buffer_ids that push run 32 had just saved, so it re-booked 11-25/11-26 -> Buffer duplicate reject (posts were already booked, nothing lost). Fixed buffer.yml + monitor.yml checkout to ref: main; retry committed (620a3c0)"
  }
 ]
