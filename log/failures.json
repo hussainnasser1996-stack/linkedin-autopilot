@@ -31,6 +31,11 @@
     "at": "2026-11-24T16:20Z",
     "error": "Buffer post 6b042608451a68a17f90fda1: MISSING IN BUFFER: Post not found for id: 6b042608451a68a17f90fda1",
     "run": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45435930851"
+   },
+   {
+    "at": "2026-11-24T17:41Z",
+    "error": "Buffer post 6b042608451a68a17f90fda1: MISSING IN BUFFER: Post not found for id: 6b042608451a68a17f90fda1",
+    "run": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45451231288"
    }
   ],
   "notified": "2026-11-24T16:51Z",
@@ -43,7 +48,7 @@
   "problem": "buffer",
   "kind": "delivery",
   "opened": "2026-11-24T16:20Z",
-  "status": "owner",
+  "status": "resolved",
   "runs": [
    {
     "at": "2026-11-24T16:20Z",
@@ -52,7 +57,9 @@
    }
   ],
   "notified": "2026-11-24T16:51Z",
-  "fix": "not fixable by fixer: Actions BUFFER_API_KEY authenticates ('Buffer key OK') but all 3 booked posts (incl. 2026-11-24, sent 06:01Z per 15:12Z check) are 'Post not found' -> key now belongs to a different Buffer account/org, or posts deleted; cloud-session Buffer key returns 401 'Access token is not valid'. Not rebooked: would duplicate the already-sent 11-24 post and cannot verify 11-25/11-26 are gone. Owner must fix Buffer key."
+  "fix": "not fixable by fixer: Actions BUFFER_API_KEY authenticates ('Buffer key OK') but all 3 booked posts (incl. 2026-11-24, sent 06:01Z per 15:12Z check) are 'Post not found' -> key now belongs to a different Buffer account/org, or posts deleted; cloud-session Buffer key returns 401 'Access token is not valid'. Not rebooked: would duplicate the already-sent 11-24 post and cannot verify 11-25/11-26 are gone. Owner must fix Buffer key.",
+  "resolved": "2026-11-24T17:41Z",
+  "resolved_by": "monitor check green"
  },
  {
   "id": "mon-2026-11-26-buffer",
@@ -61,7 +68,7 @@
   "problem": "buffer",
   "kind": "delivery",
   "opened": "2026-11-24T16:20Z",
-  "status": "owner",
+  "status": "resolved",
   "runs": [
    {
     "at": "2026-11-24T16:20Z",
@@ -70,7 +77,9 @@
    }
   ],
   "notified": "2026-11-24T16:51Z",
-  "fix": "not fixable by fixer: Actions BUFFER_API_KEY authenticates ('Buffer key OK') but all 3 booked posts (incl. 2026-11-24, sent 06:01Z per 15:12Z check) are 'Post not found' -> key now belongs to a different Buffer account/org, or posts deleted; cloud-session Buffer key returns 401 'Access token is not valid'. Not rebooked: would duplicate the already-sent 11-24 post and cannot verify 11-25/11-26 are gone. Owner must fix Buffer key."
+  "fix": "not fixable by fixer: Actions BUFFER_API_KEY authenticates ('Buffer key OK') but all 3 booked posts (incl. 2026-11-24, sent 06:01Z per 15:12Z check) are 'Post not found' -> key now belongs to a different Buffer account/org, or posts deleted; cloud-session Buffer key returns 401 'Access token is not valid'. Not rebooked: would duplicate the already-sent 11-24 post and cannot verify 11-25/11-26 are gone. Owner must fix Buffer key.",
+  "resolved": "2026-11-24T17:41Z",
+  "resolved_by": "monitor check green"
  },
  {
   "id": "45435930851",
