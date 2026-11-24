@@ -65,5 +65,21 @@
     "run": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45435930851"
    }
   ]
+ },
+ {
+  "id": "45435930851",
+  "workflow": "Delivery monitor",
+  "target": "",
+  "kind": "delivery",
+  "opened": "2026-11-24T16:20Z",
+  "status": "open",
+  "runs": [
+   {
+    "run": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45435930851",
+    "attempt": 1,
+    "at": "2026-11-24T16:20Z",
+    "error": "- 2026-11-24T16:20Z: - | PROBLEMS: 2026-11-24 buffer; 2026-11-25 buffer; 2026-11-26 buffer\nPROBLEM target: 2026-11-24 kind: buffer :: Buffer post 6b042608451a68a17f90fda1: MISSING IN BUFFER: Post not found for id: 6b042608451a68a17f90fda1\nPROBLEM target: 2026-11-25 kind: buffer :: Buffer post 6b042609451a68a17f90fe26: MISSING IN BUFFER: Post not found for id: 6b042609451a68a17f90fe26\nPROBLEM target: 2026-11-26 kind: buffer :: Buffer post 6b04f119bc151fa8ad15e38b: MISSING IN BUFFER: Post not found for id: 6b04f119bc151fa8ad15e38b\n##[error]Process completed with exit code 1."
+   }
+  ]
  }
 ]
