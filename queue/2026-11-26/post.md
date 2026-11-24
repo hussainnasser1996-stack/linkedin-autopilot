@@ -1,7 +1,7 @@
 # 2026-11-26 Saudi deposits: savings pass current accounts (carousel)
 
 Pillar: Applied AI: finance & capital markets (Saudi banks data) · Format: carousel (6 slides, PDF) · Mode: auto
-Buffer post id: (pending, scheduled by the GitHub Action)
+Buffer post id: 6b04f119bc151fa8ad15e38b
 PDF: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/main/docs/2026-11-26-saudi-deposits-shift.pdf
 Cover: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/main/cards/2026-11-26-saudi-deposits-shift-cover.png
 
