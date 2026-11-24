@@ -42,3 +42,5 @@ Bank #4 (pillar 5). Bank #3 HUMAIN was "use by 2026-11-25", so not usable for 26
 - "A year ago: 39.3% against 50.4%." → "A year earlier the split was 39.3% and 50.4%." (plain sentence).
 - Question narrowed to a real reader: "If you work in a bank treasury here…".
 - Second scan: §1 none, §2 none (no restating closers; slide 4 note adds the mix fact), §6 none (two points), §8 no dashes, §19 no bold or labels.
+
+Buffer post id (scheduled by GitHub Action): 6b04f119bc151fa8ad15e38b · status scheduled
