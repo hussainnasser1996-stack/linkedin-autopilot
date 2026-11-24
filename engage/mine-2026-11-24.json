@@ -1,0 +1,107 @@
+[
+ {
+  "url": "https://www.linkedin.com/posts/hussain-nasser-8b3a4917b_nvidia-q3-fy27-the-margin-steps-down-activity-7530621280954245120-kE29",
+  "author": "Hussain Nasser",
+  "headline": "Venture building × AI × games in Saudi Arabia | PE & M&A modelling and valuation | Portfolio Manager, Revival Lab | Investment Director, Glo",
+  "posted": "2026-11-23T13:20:25.557Z",
+  "text": "Nvidia kept a 74.8% gross margin last quarter. For next quarter it guides 71% to 72%. The slides show the step down.\n\nThe quarter to 25 October, from Nvidia's release:\nRevenue: $115.8bn, up 103%\nData centre: $107.6bn, up 110%\nGross margin: 74.8%, against a 74.0% guide\n\nTwo things I'd look at:\n\n1. The Q4 guide is $130bn of revenue at a 71% to 72% margin. Q4 has one extra week, so the revenue jump flatters a little.\n\n2. On the call, the CFO said Q4 should be the low point, with 72% to 73% expected in fiscal 2028.\n\nOn 13 Nov I wrote that the chip layer keeps most of the AI data-centre margin. About 3 points lower, it still does. For Gulf buyers of compute, that margin sits inside every GPU price.\n\nIf you buy or resell compute here, do you track Nvidia's margin in your planning?\n\nSources: Nvidia Q3 FY27 release; earnings call (ValueAdd VC, The Singju Post)\n#VentureCapital #GCC #SaudiArabia #AI #Nvidia #Semiconductors",
+  "comments": []
+ },
+ {
+  "url": "https://www.linkedin.com/posts/hussain-nasser-8b3a4917b_venturecapital-gcc-saudiarabia-activity-7530148240235864064-72yf",
+  "author": "Hussain Nasser",
+  "headline": "Venture building × AI × games in Saudi Arabia | PE & M&A modelling and valuation | Portfolio Manager, Revival Lab | Investment Director, Glo",
+  "posted": "2026-11-22T06:00:43.861Z",
+  "text": "Nearly 200 of Uber's driverless cars will be on UAE roads by year-end.\n\nUber expects about 700 worldwide by then, so that's more than a quarter of the fleet in one country.\n\nTwo things I noticed in Uber's Q3 remarks:\n\n1. The plan is over 2,000 driverless vehicles by the end of 2027, roughly half in the US and half outside it.\n\n2. Uber says its focus is moving from partnerships and testing to driverless commercial service. The next test is how much each car is used and what it earns.\n\nFor Gulf investors, I think this is now a fleet business. Someone has to buy the cars, finance them, keep them on the road and run the depots. That's where I'd look for local companies to build.\n\nIf you work in mobility here, which part of the fleet would you want to own?\n\nSources: Uber Q3 2026 prepared remarks and earnings call (4 Nov 2026)\n#VentureCapital #GCC #SaudiArabia #AutonomousVehicles #UAE #AI",
+  "comments": []
+ },
+ {
+  "url": "https://www.linkedin.com/posts/claude-ai1_ai-claude-productivity-activity-7529774555192512512-cR3T",
+  "author": "Claude AI",
+  "headline": "40,464 followers",
+  "posted": "2026-11-21T15:09:27.551Z",
+  "text": "I stopped writing prompts in Claude. I type \"/\" now.\n\nEvery task I used to re-explain from scratch is a command.\n\n/grill-me → asks the right questions before it builds anything\n/delete-ai-words → cuts the phrasing that makes text sound like AI\n/linkedin-hook → 10 opening lines, I pick one\n/client-brief → CRM, email and web pulled into one prospect summary\n/meeting-notes → recording in, next steps out\n/fact-checker → every claim checked against the original source\n/handoff → saves context so the next chat picks up where this one ended\n\n25 in total. Full list in the GIF.\n\nHere's the part that matters:\n\nNone of these are hacks. Each one is a Skill: a short file that tells Claude how I want a job done. Written once, reused every day, shared with the team.\n\n𝐓𝐡𝐞 𝐩𝐫𝐨𝐦𝐩𝐭 𝐲𝐨𝐮 𝐫𝐞𝐰𝐫𝐢𝐭𝐞 𝐞𝐯𝐞𝐫𝐲 𝐌𝐨𝐧𝐝𝐚𝐲 𝐢𝐬 𝐚 𝐒𝐤𝐢𝐥𝐥 𝐲𝐨𝐮 𝐡𝐚𝐯𝐞𝐧'𝐭 𝐰𝐫𝐢𝐭𝐭𝐞𝐧 𝐲𝐞𝐭.\n\nWe teach exactly how to build these in GenAI Academy: from your first about-me file to a full command library your whole team runs.\n\n\nWhich command would you build first?\n\nFollow Claude for more AI \n\n#AI #Claude #Productivity #AIskills #GenerativeAI",
+  "comments": [
+   {
+    "author": "Dipak Salve",
+    "text": "Claude Code and Claude cowork generates different output always, which one shoud pick?"
+   },
+   {
+    "author": "Felicite Pillay",
+    "text": "No"
+   },
+   {
+    "author": "James Smith",
+    "text": "Jamie Naylor"
+   },
+   {
+    "author": "Piyush Kumar Chandana",
+    "text": "Useful"
+   },
+   {
+    "author": "Samuel Hargis",
+    "text": "Claude AI,  The \"/handoff\" command is the one most teams overlook but it might be the most valuable.  Context loss between sessions kills momentum faster than a bad prompt ever could.  What's your average command file length, 5 lines or closer to 20?\nhttps://www.linkedin.com/in/samuel-hargis-technology/"
+   },
+   {
+    "author": "Karoly \"Charlie\" Vegh",
+    "text": "Butbutbut... Felix Rieseberg at Anthropic said we're overvalueing and overusing skills? Heard him in this podcast: https://open.spotify.com/episode/4Q7n3wUmIXtizqW1JxTmhS?si=dHCrWoF0RIuJBv9-o4LuKw&utm_source=copy-link&sci=spotify%3Acard-config%3A7Ank5fbXdeDxRBZS35oW2L"
+   },
+   {
+    "author": "Eloi Ouffoue PhD [Candidate] MSc,  MCIOB, PMP®, Certified PPP",
+    "text": "The fact checker"
+   },
+   {
+    "author": "Dr. Ahmed Hamdy Mhsb , PhD, EDiR",
+    "text": "The real power of AI comes from turning repetitive tasks into reusable workflows. I'd start with /fact-checker, especially in healthcare, where accuracy and reliable sources are essential."
+   },
+   {
+    "author": "Krzysztof Mykowski",
+    "text": "Prompt"
+   },
+   {
+    "author": "Juan Fach",
+    "text": ""
+   },
+   {
+    "author": "Shruti Suman",
+    "text": "singularity 1 creativity 1"
+   },
+   {
+    "author": "Humberto Goyen",
+    "text": "Download"
+   },
+   {
+    "author": "João Gonçalves",
+    "text": ""
+   },
+   {
+    "author": "El Hadji Malick Faye",
+    "text": "Deck"
+   },
+   {
+    "author": "Tushar Desai",
+    "text": "This is a great example of moving from basic AI usage to workflow automation. The possibilities are huge."
+   },
+   {
+    "author": "Clinton Balogun",
+    "text": "The fact checker is the one I'd use most. Fast output is great, but checking every claim against the source is what saves you from a confident mistake."
+   },
+   {
+    "author": "Bridget Barnett-Trusty, CPA",
+    "text": "Can you freeze the list so we can read it before it disappears?"
+   },
+   {
+    "author": "Inza Sajid",
+    "text": "Claude AI  /Fact-checker  ommand is useful when you gonna publish AI-generated content."
+   },
+   {
+    "author": "Kamran Aziz",
+    "text": "This is exactly the shift we are seeing in automation too.\n\nI run FDE Automation Pakistan in Faisalabad. We build WhatsApp AI Automation for Dental Clinics, Law Firms and Salons using n8n + AI.\n\nAnd our clients had the same problem you describe,\n\nEvery Monday, they were rewriting the same reply.\n\n\"Cleaning at 5 PM?\"\n\"Appointment available?\"\n\"Need a legal consult?\"\n\nWe solved it the same way you did we turned the prompt into a System.\n\nFor us, the Skill is a Workflow,\n\nWhatsApp -> AI Agent -> Cal"
+   },
+   {
+    "author": "Taras Bulubas",
+    "text": "This gif is terrible idea. It's not funny."
+   }
+  ]
+ }
+]

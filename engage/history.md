@@ -123,3 +123,13 @@
 2026-11-23 | Monnishaa Sengupta | https://www.linkedin.com/posts/monnishaa-sengupta-85999326_saudiretail-gccretail-retailexpansion-activity-7530300140318806016--GDq
 2026-11-23 | Ronald Achs | https://www.linkedin.com/posts/ronaldachs_oil-royaltiescom-oil-gas-virtual-auction-activity-7530288747486117888-HoYv
 2026-11-23 | Tim (Hatim) Abdel-Khalek | https://www.linkedin.com/posts/tim-hatim-abdel-khalek-cfa-mba-557214a0_a-trillion-dollars-in-gulf-family-wealth-activity-7530277428724801536-lbY_
+2026-11-24 | Sam Marchant | https://www.linkedin.com/posts/sam-marchant_mena-startup-vc-activity-7530577932344492032-2t1U
+2026-11-24 | Mostafa Hassanein | https://www.linkedin.com/posts/mostafahassanein_saudi-acquisitions-regain-momentum-with-billion-riyal-activity-7530696359818067968-DXgc
+2026-11-24 | Ryan Moynagh | https://www.linkedin.com/posts/rmoynagh_banking-gcc-saudiarabia-activity-7530601155844919297-ZojZ
+2026-11-24 | Kamran Tamimi | https://www.linkedin.com/posts/kt-lpgp-connect_saudi-private-credit-an-estimated-100bn-activity-7530601516026691586-Lyva
+2026-11-24 | Levi Schuurman | https://www.linkedin.com/posts/levi-schuurman-5938a5136_manda-strategy-maritime-activity-7530592683954925569-oCfE
+2026-11-24 | Hamzah Wilson | https://www.linkedin.com/posts/hamzahwilson_saudiarabia-vision2030-capitalmarkets-activity-7530541086033813504-5beT
+2026-11-24 | Fahad Lateef | https://www.linkedin.com/posts/fahad-lateef-fcca-3372a0142_the-saudi-riyal-and-uae-dirham-are-pegged-activity-7530601213789331456-LMWW
+2026-11-24 | Clara Corominas Rührup | https://www.linkedin.com/posts/claracorominasr%C3%BChrup_bahrain-activity-7530556169598222337-UUOn
+2026-11-24 | ArabFounders | https://www.linkedin.com/posts/arabfounders-%D8%B9%D8%B1%D8%A8-%D9%81%D8%A7%D9%88%D9%86%D8%AF%D8%B1%D8%B2_web3-blockchain-digitalassets-activity-7530578410218127360-aaJr
+2026-11-24 | Christian Rangen | https://www.linkedin.com/posts/christianrangen_venturecapital-oxfordsaid-vclab-activity-7530652239783362560-JJgo
