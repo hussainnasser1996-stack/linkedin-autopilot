@@ -16,3 +16,4 @@ focus_this_week:
 
 skip_dates:
 # optional list of YYYY-MM-DD dates with no post
+- 2026-11-24  # already published 09:01 KSA; its old Buffer id was lost when the channel moved orgs on 24 Nov (do NOT re-book)
