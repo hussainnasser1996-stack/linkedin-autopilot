@@ -22,6 +22,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main   # latest main, not the trigger sha: a run queued behind another must see ids it just saved
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"   # same as the cloud routine's default python3
