@@ -115,7 +115,7 @@
   "target": "",
   "kind": "code",
   "opened": "2026-11-24T17:40Z",
-  "status": "open",
+  "status": "resolved",
   "runs": [
    {
     "run": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45451030211",
@@ -123,6 +123,8 @@
     "at": "2026-11-24T17:40Z",
     "error": "FAILED 2026-11-25:  Buffer rejected the post: Invalid post: Whoops, it looks like you've already got this one scheduled or posted around the same time. We're not able to post the same thing twice so close together.\nFAILED 2026-11-26:  Buffer rejected the post: Invalid post: Whoops, it looks like you've already got this one scheduled or posted around the same time. We're not able to post the same thing twice so close together.\n##[error]Process completed with exit code 1."
    }
-  ]
+  ],
+  "resolved": "2026-11-24T18:51Z",
+  "resolved_by": "https://github.com/hussainnasser1996-stack/linkedin-autopilot/actions/runs/45463961614"
  }
 ]
