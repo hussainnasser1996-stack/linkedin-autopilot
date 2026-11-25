@@ -35,3 +35,4 @@
 - 2026-11-21: Gulf capital & venture building: Anthropic IPO at $83 raises $81.3bn (~$1.5tn); QIA in at $183bn, MGX co-led at $380bn; poll on what moves the stock most (autopilot, auto, poll)
 - 2026-11-22: Robotics, autonomy & mobility: Uber expects nearly 200 of its ~700 fully driverless cars in the UAE by end-2026 (>2,000 by end-2027); now a fleet business, buy/finance/run the cars and depots is where local companies get built (autopilot, auto)
 - 2026-11-26: Applied AI: finance & capital markets: Saudi time & savings deposits (SAR 1.417tn, 46.1%) passed demand deposits (SAR 1.405tn, 45.7%) in Sep, first since 2008 per Argaam; watch Q4 bank margins, carousel (autopilot, auto)
+- 2026-11-27: PE, buyouts & M&A: BILL take-private at ~$6bn ($63.25/share); TPG majority, Corpay $1.1bn for ~1/3 with option on the rest in 2030, so the sponsor has a likely exit buyer from day one, Arabic (autopilot, auto, Arabic draft)
