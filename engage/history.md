@@ -133,3 +133,14 @@
 2026-11-24 | Clara Corominas Rührup | https://www.linkedin.com/posts/claracorominasr%C3%BChrup_bahrain-activity-7530556169598222337-UUOn
 2026-11-24 | ArabFounders | https://www.linkedin.com/posts/arabfounders-%D8%B9%D8%B1%D8%A8-%D9%81%D8%A7%D9%88%D9%86%D8%AF%D8%B1%D8%B2_web3-blockchain-digitalassets-activity-7530578410218127360-aaJr
 2026-11-24 | Christian Rangen | https://www.linkedin.com/posts/christianrangen_venturecapital-oxfordsaid-vclab-activity-7530652239783362560-JJgo
+2026-11-25 | Kurt Davis Jr. | https://www.linkedin.com/posts/kurtdavisjr_private-credits-100-billion-saudi-prize-activity-7530905811322269696-dFU7
+2026-11-25 | Chirag Verma | https://www.linkedin.com/posts/chirag-verma-origination_uae-mergersandacquisitions-familyoffice-activity-7530967905237196801-V_x3
+2026-11-25 | Zero to One | MENA Startup & VC News | https://www.linkedin.com/posts/zero-to-one-mena_saudi-based-ai-startup-009-secures-14m-activity-7530895770288451584-fVEl
+2026-11-25 | Umair Khalid عمير خالد | https://www.linkedin.com/posts/umairkhalidbasheer_saudistartups-foodtech-venturecapital-activity-7531006811693277184-BV1I
+2026-11-25 | George Mraovic | https://www.linkedin.com/posts/george-mraovic-2b71163b8_privatecapital-fundraising-venturecapital-activity-7531007284009889794-OTg7
+2026-11-25 | Ecofin Agency | https://www.linkedin.com/posts/ecofin-agency_privatecapital-africa-developmentfinance-activity-7531021333191847936-PutP
+2026-11-25 | Nabeel Kazerooni | https://www.linkedin.com/posts/nabeel-kazerooni-b165923b_signs-of-a-mature-market-a-japanese-bank-activity-7530892492263755777-fgI8
+2026-11-25 | Michael Shea PA | https://www.linkedin.com/posts/michaelrshea_pir-report-beauty-activity-7531069196667883521-OS9d
+2026-11-25 | Ali AlShahrani, MBA, FMVA | https://www.linkedin.com/posts/ali-alshahrani-mba-fmva-a784b2322_kaust-saudivision2030-venturecapital-activity-7530944394590449664-_Y-5
+2026-11-25 | Sahaba Club | https://www.linkedin.com/posts/sahabaclub_sahabaclub-www13-fundraising-activity-7531220150457503744-kHp5
+2026-11-25 | Skyra CIP | https://www.linkedin.com/posts/skyra-cip_arabian-drilling-has-signed-a-sar-15-billion-activity-7530903441355763712-Frxy
