@@ -19,3 +19,5 @@ Image: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/
 
 المصادر: إفصاحات BILL وCorpay (19 نوفمبر 2026)
 #الملكية_الخاصة #التقنية_المالية #PrivateEquity #GCC
+
+Buffer post id (scheduled by GitHub Action): 6b064282c4ff71faa8287237 · status draft
