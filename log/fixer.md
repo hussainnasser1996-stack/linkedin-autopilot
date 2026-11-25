@@ -17,3 +17,4 @@
 - 2026-11-24T18:51Z entry 45451030211 (Schedule in Buffer, 2026-11-25/26): cause = run 33 (workflow_dispatch) queued behind push run 32 in the buffer-schedule concurrency group and checked out the stale trigger sha 95ffb6c, so it didn't see the buffer_ids run 32 had just saved (6b05cbe8…, 6b05cbe9…) and tried to book again → Buffer "already scheduled" reject; nothing lost, both posts booked. Fix = actions/checkout ref: main in buffer.yml and monitor.yml (620a3c0) + retry; result = run 45463961614 green, nothing pending, triage resolved the entry
 - 2026-11-24T20:51Z no open failures
 - 2026-11-24T22:50Z no open failures
+- 2026-11-25T00:51Z no open failures
