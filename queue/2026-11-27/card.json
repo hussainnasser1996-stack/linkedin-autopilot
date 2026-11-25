@@ -1,0 +1,12 @@
+{
+  "type": "compare",
+  "lang": "ar",
+  "eyebrow": "الملكية الخاصة · BILL",
+  "title": "6 مليارات دولار لتحويل BILL إلى شركة خاصة.",
+  "highlight": "مشتريان بدورين مختلفين.",
+  "columns": [
+    {"h": "TPG", "items": ["حصة الأغلبية", "تقود الصفقة"]},
+    {"h": "Corpay", "items": ["1.1 مليار دولار", "نحو ثلث الشركة", "خيار شراء الباقي في 2030"]}
+  ],
+  "sources": "BILL 8-K (19 Nov 2026); Corpay 8-K via TradingView, Quartr"
+}

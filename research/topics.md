@@ -77,7 +77,7 @@
   - ~500,000 businesses use BILL — BILL 8-K (primary)
   - The 19 Nov post already used "which premium base"; lead with structure, not the premium.
 - Card: compare — "TPG: majority, control" vs "Corpay: $1.1bn, ~1/3, option on 100% in 2030"
-- Status: open
+- Status: used 2026-11-27
 
 ### 6. Ma'aden Q3: revenue up, EBITDA down, and the mix explains it · Pillar 5 · Score 20/25 · Use: any day (not same week as #4 back to back)
 - Angle: Gold and aluminium had record quarters, and phosphate absorbed record sulfur costs (the company's own explanation). The mix matters more than the headline.
