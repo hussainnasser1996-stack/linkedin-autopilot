@@ -96,7 +96,7 @@
   - Q3 guide: revenue $49.0bn (+81%) — Dell 8-K (primary)
   - Pull the Q3 actuals from Dell's release before writing. Not the day after the 23 Nov Nvidia post (pillar 1 twice in a row).
 - Card: bars — AI server orders vs revenue vs backlog (Q2 FY27, swap in Q3 actuals)
-- Status: open
+- Status: used 2026-11-28
 
 ### 8. WeRide: nearly half its revenue now comes from outside China · Pillar 6 · Score 19/25 · Use: on/after 2026-11-29 (space from the 22 Nov Uber post)
 - Angle: The Gulf is now a revenue market for robotaxi makers, not a pilot site. Abu Dhabi and Dubai carry most of the overseas growth. Talk economics (gross margin, revenue mix), not fleet counts again.

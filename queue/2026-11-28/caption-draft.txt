@@ -1,0 +1,13 @@
+Dell booked $60.2bn of AI server orders last quarter — and recognised $22.0bn as revenue.
+The result: its AI server backlog hit a record $132.3bn, up from $95bn three months earlier.
+At Q3's pace, that's about six quarters of work. Dell says demand still runs ahead of component supply.
+For GCC compute buyers, that queue is the real lead time.
+Sources: Dell Q3 FY27 earnings call, Dell Q2 FY27 results
+
+#AI #DataCenters #GCC #SaudiArabia #VentureCapital
+
+Question: Dell's AI server backlog is $132.3bn. What will slow its conversion into delivered servers most over the next 12 months?
+1. Chip and memory supply
+2. Power and data-centre sites
+3. Customer financing
+4. Build and install time
