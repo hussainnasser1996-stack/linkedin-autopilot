@@ -144,3 +144,14 @@
 2026-11-25 | Ali AlShahrani, MBA, FMVA | https://www.linkedin.com/posts/ali-alshahrani-mba-fmva-a784b2322_kaust-saudivision2030-venturecapital-activity-7530944394590449664-_Y-5
 2026-11-25 | Sahaba Club | https://www.linkedin.com/posts/sahabaclub_sahabaclub-www13-fundraising-activity-7531220150457503744-kHp5
 2026-11-25 | Skyra CIP | https://www.linkedin.com/posts/skyra-cip_arabian-drilling-has-signed-a-sar-15-billion-activity-7530903441355763712-Frxy
+2026-11-26 | Hassan A. Khatib | https://www.linkedin.com/posts/hassan-a-khatib-47a218283_ipo-tasi-nomu-activity-7531315134288539648-vxnv
+2026-11-26 | Startup Researcher | https://www.linkedin.com/posts/startup-researcher_gaming-saudiarabia-seedfunding-activity-7531362902956687361-RUMI
+2026-11-26 | Alistair Britton | https://www.linkedin.com/posts/activity-7531310152742928386-tsz4
+2026-11-26 | Alternative Credit Investor | https://www.linkedin.com/posts/alternativecreditinvestor_saudi-lender-tasheel-lands-588m-facility-activity-7531397700232343552-LXJi
+2026-11-26 | Anton Bosredon | https://www.linkedin.com/posts/antonbosredon_35-angel-investors-in-saudi-arabia-writing-activity-7531420207395827712-1zNR
+2026-11-26 | Founders Middle East | https://www.linkedin.com/posts/foundersmiddleeast_iliadpartners-venturecapital-gccstartups-activity-7531388675868422146-SWDL
+2026-11-26 | Alhanouf R. Aldossary | https://www.linkedin.com/posts/alhanoufaldossary_400-million-and-its-not-another-startup-activity-7531297204016365568-ixeV
+2026-11-26 | GCC Business for Sale | https://www.linkedin.com/posts/gccbusinessforsale_gcc-business-for-sale-due-diligence-readiness-activity-7531251749005946880-lLEr
+2026-11-26 | Avinash Vashistha | https://www.linkedin.com/posts/avinash-vashistha_gcc-globalcapabilitycenters-aireinvention-activity-7531410648254304256-2_ck
+2026-11-26 | Ahmad CFA II Holder | https://www.linkedin.com/posts/ahmad-cfa-ii-holder-mba-alumni-cme-derviatives-trader-b79ba03a7_how-does-a-drop-in-global-coffee-prices-turn-activity-7531255127152717824-CUMQ
+2026-11-26 | Darsh Bherwani | https://www.linkedin.com/posts/darsh-bherwani_mergersandacquisitions-dubaifinance-corporatefinance-activity-7531280028169400321-x0Xn
