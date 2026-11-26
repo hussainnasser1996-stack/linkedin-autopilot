@@ -9,3 +9,4 @@
 - 2026-11-25T11:39Z: 2026-11-25 sent 2026-11-25T06:00:57.106Z; 2026-11-26 scheduled; 2026-11-27 draft
 - 2026-11-25T21:57Z: 2026-11-26 scheduled; 2026-11-27 draft
 - 2026-11-26T04:20Z: 2026-11-26 scheduled; 2026-11-27 draft; 2026-11-28 no Buffer post (caption-draft.txt, poll.md)
+- 2026-11-26T14:20Z: 2026-11-26 sent 2026-11-26T06:01:10.331Z; 2026-11-27 draft; 2026-11-28 no Buffer post (caption-draft.txt, poll.md)
