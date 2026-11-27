@@ -106,7 +106,7 @@
   - Middle East fleet ~600 vehicles at 31 Oct, from ~400 at 31 Jul; target full core-urban coverage of Abu Dhabi and Dubai by end-2026 — WeRide IR (primary)
   - Net loss RMB310.0m — WeRide IR (primary)
 - Card: bars — revenue mix Q3 2026: overseas 45.7% vs China 54.3%
-- Status: open
+- Status: used 2026-11-29
 
 ### 9. A Saudi Roblox studio raises to move onto Steam · Pillar 7 · Score 19/25 · Use: any day
 - Angle: Lambda Studios started on Roblox and now wants its own IP on PC. Platform moves cost money, and seed rounds like this pay for them. Keep it off the "after-seed gap" angle from 10 Nov.
