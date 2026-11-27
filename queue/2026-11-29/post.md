@@ -1,6 +1,6 @@
 # 2026-11-29 — WeRide: nearly half of Q3 revenue from outside China
 
-Pillar: Robotics, autonomy & mobility · Card: bars · Mode: auto · Buffer post id: (pending, GitHub Action)
+Pillar: Robotics, autonomy & mobility · Card: bars · Mode: auto · Buffer post id: 6b08e59c8899c4e7790ab2e7
 Image: https://raw.githubusercontent.com/hussainnasser1996-stack/linkedin-cards/main/cards/2026-11-29-weride-overseas-revenue.png
 Bank candidate: research/topics.md #8 (Use: on/after 2026-11-29). Skipped #3 HUMAIN (freshness window ended 25 Nov), #6 Ma'aden (covered by the 18 Nov video).
 Target date: 2026-11-29 (Sun, card). 2026-11-28 already queued (poll). Last history pillar: AI compute & chips.
@@ -44,3 +44,5 @@ Facts re-checked: 88.0%, RMB321.5m, RMB146.9m, 171.5%, 45.7%, 43.0%, 32.9%, >90%
 Hard rules: no CFA, no Singular Link/Revival Lab details, no job-search wording, no politics/geopolitics, no GCC body named or judged, no country comparison, no emojis/hype. Sensitivity: neutral company results; UAE cities mentioned neutrally. Words: 127 (excl. sources/hashtags). Company tags: none (WeRide not in linkedin_orgs).
 
 Buffer post id (scheduled by GitHub Action): 6b08e59c8899c4e7790ab2e7 · status scheduled
+
+Buffer post id (scheduled by GitHub Action): 6b08e59c8899c4e7790ab2e7

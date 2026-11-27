@@ -37,3 +37,4 @@
 - 2026-11-26: Applied AI: finance & capital markets: Saudi time & savings deposits (SAR 1.417tn, 46.1%) passed demand deposits (SAR 1.405tn, 45.7%) in Sep, first since 2008 per Argaam; watch Q4 bank margins, carousel (autopilot, auto)
 - 2026-11-27: PE, buyouts & M&A: BILL take-private at ~$6bn ($63.25/share); TPG majority, Corpay $1.1bn for ~1/3 with option on the rest in 2030, so the sponsor has a likely exit buyer from day one, Arabic (autopilot, auto, Arabic draft)
 - 2026-11-28: AI compute & chips: Dell Q3 FY27 AI orders $60.2bn, revenue $22.0bn, backlog record $132.3bn (from $95bn), ~six quarters of work; poll on what slows conversion most (autopilot, auto, poll)
+- 2026-11-29: Robotics, autonomy & mobility: WeRide Q3 revenue +88.0% to RMB321.5m, overseas 45.7% (+171.5%), gross margin 43.0% from 32.9%, net loss flat at RMB310.0m; Middle East fleet ~600 (autopilot, auto)

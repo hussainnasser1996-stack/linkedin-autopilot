@@ -13,6 +13,8 @@
   - I couldn't find dated Tadawul IPO subscriptions, AGMs, sukuk issues, MAGNiTT/Wamda reports, a SAMA October bulletin, GASTAT October CPI or a final 2027 budget date in the window.
 
 ## Past events (outcomes)
+- 2026-11-24: Dell Q3 FY27 results (call 24 Nov): AI orders $60.2bn, AI server revenue $22.0bn, AI backlog $132.3bn (https://investors.delltechnologies.com/_assets/_ac8eb2555e5a0153972bd8852ad15163/delltechnologies/db/3595/34778/prepared_remarks/Q3_FY27_Prepared_Remarks.pdf)
+- 2026-11-25 / 26: Aramco and Derayah Q3 dividend payment dates and CIO Xchange Riyadh passed; not re-checked this run (no outcome figures added)
 - 2026-11-23 to 24: Global Games Show Abu Dhabi (ADNEC). Listings still give 23–24 Nov; I couldn't find a post-event report with outcomes as of 24 Nov (https://tradefest.io/en/event/global-games-show-abu-dhabi-november-2026)
 - 2026-11-20: WeRide Q3 2026 results: revenue RMB321.5m (+88.0%), overseas 45.7% of revenue, gross margin 43.0%, Middle East fleet ~600 vehicles (https://ir.weride.ai/news-releases/news-release-details/overseas-revenue-1715-yoy-contributing-nearly-half-total-revenue)
 - 2026-11-19: Anthropic first day on Nasdaq (ANT): first trade $111.50, close $97.17, +17.1% on the $83 IPO price, on a day the Nasdaq fell 2.2% (https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo)
