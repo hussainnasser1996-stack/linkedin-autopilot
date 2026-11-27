@@ -42,3 +42,5 @@ Pre-Humanizer caption: queue/2026-11-29/caption-draft.txt. Voice sample: guidanc
 Second scan: §1 none; §2 none; §6 no triads; §8 zero em/en dashes; §19 no bold.
 Facts re-checked: 88.0%, RMB321.5m, RMB146.9m, 171.5%, 45.7%, 43.0%, 32.9%, >90%, RMB310.0m, RMB307.3m, ~600, ~400 — all match WeRide's release and the 6-K; card figures (45.7%, 54.3%, 43.0%, 32.9%, RMB310.0m, RMB321.5m) equal the caption/sources.
 Hard rules: no CFA, no Singular Link/Revival Lab details, no job-search wording, no politics/geopolitics, no GCC body named or judged, no country comparison, no emojis/hype. Sensitivity: neutral company results; UAE cities mentioned neutrally. Words: 127 (excl. sources/hashtags). Company tags: none (WeRide not in linkedin_orgs).
+
+Buffer post id (scheduled by GitHub Action): 6b08e59c8899c4e7790ab2e7 · status scheduled
