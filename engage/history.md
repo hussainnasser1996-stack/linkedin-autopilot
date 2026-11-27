@@ -155,3 +155,13 @@
 2026-11-26 | Avinash Vashistha | https://www.linkedin.com/posts/avinash-vashistha_gcc-globalcapabilitycenters-aireinvention-activity-7531410648254304256-2_ck
 2026-11-26 | Ahmad CFA II Holder | https://www.linkedin.com/posts/ahmad-cfa-ii-holder-mba-alumni-cme-derviatives-trader-b79ba03a7_how-does-a-drop-in-global-coffee-prices-turn-activity-7531255127152717824-CUMQ
 2026-11-26 | Darsh Bherwani | https://www.linkedin.com/posts/darsh-bherwani_mergersandacquisitions-dubaifinance-corporatefinance-activity-7531280028169400321-x0Xn
+2026-11-27 | SRF Capital Studio | https://www.linkedin.com/posts/srfcapitalstudio_venturedebt-privatecredit-saudiarabia-activity-7531668904222466048-Bkr0
+2026-11-27 | Katerina Hayes Eng MBA | https://www.linkedin.com/posts/katerinahayes_mergersandacquisitions-gulfbusiness-islamicfinance-activity-7531666866109583360-jFVE
+2026-11-27 | Syed Younas Sadat | https://www.linkedin.com/posts/syed-younas-sadat-2a536851_m-valuation-financialduediligence-activity-7531942911039672320-OnBr
+2026-11-27 | AraGeek 🚀 | https://www.linkedin.com/posts/arageek-com_menastartups-arageek-saudistartups-activity-7531727879252971520-JUA2
+2026-11-27 | Economy Middle East | https://www.linkedin.com/posts/economy-middle-east_adib-sukuk-islamicfinance-activity-7531751617675776003-Cl90
+2026-11-27 | Dr. IBRAHIM HUSSAIN | https://www.linkedin.com/posts/dr-ibrahim-hussain-790339160_entrepreneurship-venturecapital-startupvaluation-activity-7531731660623474688-KBze
+2026-11-27 | Private Markets Wire | https://www.linkedin.com/posts/privatemarketswire_privateequity-privatemarkets-alternativeinvestments-activity-7531605236373843970-SBbg
+2026-11-27 | Queen's Park Equity | https://www.linkedin.com/posts/queen-s-park-equity-llp_back-to-basics-or-back-to-bidding-wars-activity-7531732146034757633-ys2w
+2026-11-27 | Achyuta Ghosh | https://www.linkedin.com/posts/achyutaghosh_gcc-globalcapabilitycenters-hfsresearch-activity-7531650502447628288-YV1o
+2026-11-27 | Wowtale(와우테일) | https://www.linkedin.com/posts/wowtale_avicena-raises-100m-series-c-led-by-koreas-activity-7531849297513041920-IskK
