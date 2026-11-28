@@ -165,3 +165,15 @@
 2026-11-27 | Queen's Park Equity | https://www.linkedin.com/posts/queen-s-park-equity-llp_back-to-basics-or-back-to-bidding-wars-activity-7531732146034757633-ys2w
 2026-11-27 | Achyuta Ghosh | https://www.linkedin.com/posts/achyutaghosh_gcc-globalcapabilitycenters-hfsresearch-activity-7531650502447628288-YV1o
 2026-11-27 | Wowtale(와우테일) | https://www.linkedin.com/posts/wowtale_avicena-raises-100m-series-c-led-by-koreas-activity-7531849297513041920-IskK
+2026-11-28 | Sports Business Arabia | https://www.linkedin.com/posts/sports-business-arabia_sportsbusinessarabia-aebaeqaewaezaesaebabraeqaeaaeuaebabraepaezaepaeqaeyaep-activity-7532007048738152448-VzD4
+2026-11-28 | Venture Capital Archive | https://www.linkedin.com/posts/venturecapitalarchive_vc-venturecapital-startups-activity-7532050229718736896-F_0a
+2026-11-28 | MENA FINTECH ASSOCIATION | https://www.linkedin.com/posts/mena-fintech-association_mfta-x-leantech-weekly-newsletter-activity-7531955388074647552-kcC6
+2026-11-28 | Guido Aldera | https://www.linkedin.com/posts/guido-aldera-02957b123_serena-williams-and-beth-ferreira-launched-activity-7531982804201635840-aWpg
+2026-11-28 | Tech Revolt | https://www.linkedin.com/posts/tech-revolt-global_techrevolt-ai-uae-activity-7532014804803207168-XiQy
+2026-11-28 | Middle East CEO | https://www.linkedin.com/posts/middle-east-ceo_iliadpartners-venturecapital-startupfunding-activity-7532124838266626048-q6sv
+2026-11-28 | Stableton | https://www.linkedin.com/posts/stableton_shariah-screened-indices-have-existed-for-activity-7531986462209245184-l_Qx
+2026-11-28 | SheetVenture | https://www.linkedin.com/posts/sheetventure_riyadh-venturecapital-mena-activity-7532084383667814400-WieY
+2026-11-28 | Fahad Malik | https://www.linkedin.com/posts/fahad-cfo_businessvaluation-mergersandacquisitions-activity-7532155217392574464-s9ww
+2026-11-28 | SCG Global | https://www.linkedin.com/posts/scg-global-official_for-years-software-was-private-equitys-activity-7532194037890453504-Cws1
+2026-11-28 | Skyra CIP | https://www.linkedin.com/posts/skyra-cip_saipem-has-won-aramco-offshore-contracts-activity-7532005339433611265-sUr7
+2026-11-28 | Reinsurance News | https://www.linkedin.com/posts/reinsurance-news_sp-upgrades-saudi-res-ratings-to-a-with-activity-7531997822146236416-mghX
