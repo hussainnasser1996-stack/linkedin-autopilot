@@ -1,0 +1,17 @@
+{
+  "title": "Oman's fund backs robot labs: MegaRobo's $200m round",
+  "sources": "The Next Web; Oman Observer (19 Nov 2026)",
+  "slides": [
+    {"type": "cover", "eyebrow": "Gulf capital · AI for science", "title": "Oman's fund backs robot labs.", "highlight": "A nearly $200m round.", "sub": "What MegaRobo does, in 6 slides."},
+    {"type": "stat", "eyebrow": "Announced 19 Nov", "number": "~$200m", "label": "MegaRobo's new round", "note": "Oman Investment Authority joined. CMB International is new. Asia Investment Capital, Granite Asia and Sinovation Ventures came back."},
+    {"type": "bars", "eyebrow": "Funding, by the company's count", "title": "About a third of it came in this round", "bars": [
+      {"label": "Raised so far", "value": 600, "display": "~$600m"},
+      {"label": "This round", "value": 200, "display": "~$200m", "highlight": true}]},
+    {"type": "stat", "eyebrow": "Who buys it", "number": "500+", "label": "Customers", "note": "Mostly drug makers, biotech firms and research labs."},
+    {"type": "points", "eyebrow": "How it works", "title": "The product is the lab", "points": [
+      "An AI plans a test. Robots in the lab run it.",
+      "The result picks the next test.",
+      "With Tencent Cloud and Twist Bioscience, it will test more than 10,000 AI-designed proteins."]},
+    {"type": "end", "eyebrow": "What I'll watch", "text": "Where its Middle East expansion lands.", "question": "If you work in a lab here, would you send experiments to a robot lab or build your own?"}
+  ]
+}

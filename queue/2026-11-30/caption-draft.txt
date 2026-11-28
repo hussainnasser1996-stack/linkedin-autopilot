@@ -1,0 +1,16 @@
+Oman's sovereign fund just joined a nearly $200m round for a company whose robots run lab experiments for AI. The slides show what it sells.
+
+MegaRobo, based in Beijing, announced the round on 19 Nov:
+Round: nearly $200m
+Raised in total: about $600m, by its own count
+Customers: more than 500, mostly drug makers, biotech firms and research labs
+
+Two things:
+
+1. It sells the lab, not the model. An AI plans a test, robots run it, and the result picks the next test. With Tencent Cloud and Twist Bioscience, it will test more than 10,000 AI-designed proteins.
+
+2. The Middle East is on its expansion list. Gulf money is now backing the physical side of AI for science, not only the models.
+
+For GCC research hubs, the real bottleneck may be lab capacity more than algorithms.
+
+If you run a lab here, would you send experiments to a robot lab abroad, or build one?
