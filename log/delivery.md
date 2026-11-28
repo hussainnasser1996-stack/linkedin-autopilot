@@ -13,3 +13,4 @@
 - 2026-11-26T23:15Z: 2026-11-27 draft; 2026-11-28 no Buffer post (caption-draft.txt, poll.md)
 - 2026-11-27T08:59Z: 2026-11-27 draft; 2026-11-28 no Buffer post (caption-draft.txt, poll.md); 2026-11-29 scheduled
 - 2026-11-27T19:37Z: 2026-11-27 draft; 2026-11-28 no Buffer post (caption-draft.txt, poll.md); 2026-11-29 scheduled
+- 2026-11-28T02:55Z: 2026-11-28 no Buffer post (caption-draft.txt, poll.md); 2026-11-29 scheduled; 2026-11-30 scheduled
