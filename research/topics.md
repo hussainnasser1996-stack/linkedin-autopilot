@@ -127,7 +127,7 @@
   - ~$600m raised in earlier rounds — Oman Observer (single source here; phrase as reported)
   - Sources differ on whether OIA led the round. Say "joined".
 - Card: bars — MegaRobo funding: earlier rounds ~$600m vs this round ~$200m
-- Status: open
+- Status: used 2026-11-30
 
 ### 11. Microsoft's Saudi cloud region: data stays in the Kingdom · Pillar 3 · Score 18/25 · Use: once go-live is announced (due "November 2026")
 - Angle: Data-residency rules only bite when the in-country cloud exists. When the region opens, regulated Saudi firms can move eligible workloads without sending data abroad. Report the launch neutrally, with no judgement on policy.
