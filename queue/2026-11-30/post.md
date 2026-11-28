@@ -25,3 +25,5 @@ If you work in a lab here, would you send experiments to a robot lab or build yo
 
 Sources: The Next Web; Oman Observer (19 Nov 2026)
 #VentureCapital #GCC #SaudiArabia #AI #LifeSciences #Robotics
+
+Buffer post id (scheduled by GitHub Action): 6b0a37312a2e4f66caef7fd5 · status scheduled
